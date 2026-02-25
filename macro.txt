@@ -1,0 +1,673 @@
+All::General::Orders::G28 Require invoice/Bill of orders on Reolink website
+All::General::Rating::G24 Shared review request for ZD rating (except special)
+All::General::Response::G01 No content in the email
+All::General::Response::G02 Not receiving responses 1st
+All::General::Response::G02 Not receiving responses 2nd
+All::General::Response::G03 Email rejection issue, customers can't directly reply
+All::General::Response::G26 General Transfer
+All::General::Service::G17 Guide customer to call center(Customer provides phone number)
+All::General::Service::G17 Guide customer to call center-AU, DE, UK, SG, HK (Customer did not provide phone number)
+All::General::Service::G17 Guide customer to call center-US (Customer did not provide phone number)
+All::General::Service::G17 Regions with no call service
+All::General::Service::G20 Reolink B2B support service
+All::General::Transfer & Management::G04 Escalation template (Overseas)
+All::General::Transfer & Management::G05 Merge the ticket
+All::General::Transfer & Management::G06 Create ticket
+All::General::Transfer & Management::G06 Create ticket (Overseas)
+All::General::Transfer & Management::G08 Return to call center
+All::General::Transfer & Management::G09 Return to messaging
+All::General::Transfer & Management::G10 Assign ticket back to L1 group (Overseas)
+All::General::Transfer & Management::G11 Take my ticket-RMA (Overseas) 
+All::General::Transfer & Management::G11 Take my ticket-Support (Overseas)
+All::General::Transfer & Management::G13 Update requester email(Only for Shared from Reolink)
+All::General::Transfer & Management::G14 Special escalation - Unavailable service regions
+All::General::Transfer & Management::G15 AI reply
+All::General::Transfer & Management::G16 Spam tickets
+All::General::Transfer & Management::G22 Trasnfer to Information Security Group
+All::General::Transfer & Management::G23 Merge the ticket(With public reply to notify customer)
+All::General::Transfer & Management::G25 Transfer to Social Media Group
+All::Uncommon::G26 RLC-510WA labeling error
+All::Uncommon::G27 Argus PT Ultra -Black oil residue partial refund option-2nd
+All::Uncommon::G27 Argus PT Ultra -Black oil residue reassurance-1st
+All::Uncommon::G27 Argus PT Ultra -Black oil residue replacement with white version-3rd
+All::Uncommon::U01 AliExpress store closure (Not purchased yet)【Redline】
+All::Uncommon::U02 AliExpress store closure (Already purchased)【Redline】
+Tech::Dervice::IPC::Shared::D172 Cropped/zoom in view after stream switch
+Tech::Dervice::NVR::D183 Why RLN12W not support 16TB HDD
+Tech::Dervice::Shared::D173 Why are the network ports disabled by default
+Tech::Dervice::Shared::D174 RLN8-410-E compatibility with AI cameras
+Tech::Dervice::Shared::D182 Guide the customer to check the camera on site
+Tech::Device::Firmware::D138 Difference in firmware between online and offline products
+Tech::Device::Firmware::D139 Manual firmware upgrade needed
+Tech::Device::Firmware::D140 Online firmware detection
+Tech::Device::Firmware::D143 Firmware maintenance of the discontinued product
+Tech::Device::Firmware::D144 Will the firmware of discontinued models not be updated after 2 years of security updates?
+Tech::Device::Firmware::D171 Explanation of firmware changes between versions (Specific changes unknown)
+Tech::Device::Function::Cloud::D154 Customized cloud plan-purchase multiple cloud plans
+Tech::Device::Function::Cloud::D155 Cloud plan for auto-renewal and purchasing multiple periods at once
+Tech::Device::Function::Cloud::D156 Subscirbe free basic plan for new customer
+Tech::Device::Function::Cloud::D157 Renew cloud plan, without renew button
+Tech::Device::Function::Cloud::D158 Renew US legacy plan
+Tech::Device::Function::Cloud::D159 Camera doesn't support cloud service
+Tech::Device::Function::Cloud::D160 NVR doesn't support cloud service
+Tech::Device::Function::Cloud::D161 Home Hub doesn't support cloud service
+Tech::Device::Function::Cloud::D162 Does cloud plan support automatic renewal?
+Tech::Device::Function::Cloud::D163 The difference between cloud recording and SD card recording
+Tech::Device::Function::Cloud::D164 The duration of cloud recording cannot be adjusted
+Tech::Device::Function::Cloud::D165 Security of previous cloud services without advanced data protection
+Tech::Device::Function::Cloud::D166 Why no cloud advanced data protection on other models? (1st reply)
+Tech::Device::Function::Cloud::D166 Why no cloud advanced data protection on other models? (2nd reply)
+Tech::Device::Function::Cloud::D175 Cloud service clarification: firmware shows support but not in cloud list
+Tech::Device::Function::Cloud::D176 Change payment method of auto renewal
+Tech::Device::Function::Cloud::D181 One-time free cloud subscription
+Tech::Device::Function::Smart Home::D168 Camera doesn't support Smart Home feature
+Tech::Device::Function::Smart Home::D169 Which cameras or countries support Alexa/Google Home
+Tech::Device::Function::Smart Home::D170 How to check if NVR Kit cameras support Smart Home feature
+Tech::Device::Function::Smart Home::D170 NVR kit compatibility with Alexa
+Tech::Device::Function::Smart Home::D170 NVR kit compatibility with Google Home
+Tech::Device::Hub::D137 Confirm whether the Home Hub is powered on
+Tech::Device::IPC::Battery 4G::D179 Request a Reolink SIM card
+Tech::Device::IPC::Battery 4G::D90 Charging method for Go/Go Plus/Go Ultra
+Tech::Device::IPC::Battery 4G::D91 Support of WiFi network
+Tech::Device::IPC::Battery 4G::D92 The SIM card operator is not supported
+Tech::Device::IPC::Battery 4G::D93 How much data usage of SIM card
+Tech::Device::IPC::Battery 4G::D94 When does the camera consume data
+Tech::Device::IPC::Battery 4G::D95 Compatibility with 5G SIM card
+Tech::Device::IPC::Battery 4G::D96 Use a SIM card for multiple 4G cameras
+Tech::Device::IPC::Battery Camera::D68 PIR doesn't detect occasionally
+Tech::Device::IPC::Battery Camera::D68 PIR false alarm suggestions
+Tech::Device::IPC::Battery Camera::D68 PIR sensor doesn't work
+Tech::Device::IPC::Battery Camera::D71 Use through glass or in the car
+Tech::Device::IPC::Battery Camera::D72 RTSP/Onvif protocol or working with 3rd party software
+Tech::Device::IPC::Battery Camera::D73 Work with NVR
+Tech::Device::IPC::Battery Camera::D74 Non-removable battery, replacement concerns
+Tech::Device::IPC::Battery Camera::D75 Charging method
+Tech::Device::IPC::Battery Camera::D76 Charging time
+Tech::Device::IPC::Battery Camera::D77 How long battery-powered camera last
+Tech::Device::IPC::Battery Camera::D78 Low temperature for battery-powered camera
+Tech::Device::IPC::Battery Camera::D79 Doesn't work/charge due to low temperature
+Tech::Device::IPC::Battery Camera::D80 Record method
+Tech::Device::IPC::Battery Camera::D81 Find QR code for Argus PT/Go PT series
+Tech::Device::IPC::Battery Camera::D82 Recommended installation height for Battery-Powered Cameras
+Tech::Device::IPC::Battery Camera::D83 The limit of the logout time
+Tech::Device::IPC::Battery Camera::D84 The solar panel typically charges the battery up to around 85%
+Tech::Device::IPC::Battery WiFi::D85 Work without WiFi or internet
+Tech::Device::IPC::Battery WiFi::D86 Higher power consumption of Reolink Altas PT Ultra
+Tech::Device::IPC::Battery WiFi::D87 Slow charging speed and higher power consumption of Reolink Altas PT Ultra
+Tech::Device::IPC::Battery WiFi::D88 Reolink Altas PT Ultra name
+Tech::Device::IPC::Battery WiFi::D89 Charging Doorbell battery slowly with existing chime system
+Tech::Device::IPC::PoE::D100 Customer doesn’t want direct poe camera-to-nvr connection
+Tech::Device::IPC::PoE::D102 Bullet cameras ceiling mount supported
+Tech::Device::IPC::PoE::D103 RLC-823A/423 cameras support ceiling mount with a ceiling bracket
+Tech::Device::IPC::PoE::D104 What the PoE switch/PoE injector used for - provide power for PoE cameras
+Tech::Device::IPC::PoE::D105 Power PoE camera without PoE NVR
+Tech::Device::IPC::PoE::D105 Power PoE camera with PoE NVR
+Tech::Device::IPC::PoE::D107 The night vision performance of the CX810 is not as good as that of the CX410
+Tech::Device::IPC::PoE::D108 Clarifying CX410C discontinuation in certain regions
+Tech::Device::IPC::PoE::D99 Low temperature for PoE camera
+Tech::Device::IPC::Shared::D40 Power Doorbell PoE/WiFi camera
+Tech::Device::IPC::Shared::D40 Power Duo Floodlight PoE/Duo Floodlight WiFi/ Duo Floodlight WiFi(hardwired)
+Tech::Device::IPC::Shared::D40 Power IoT device Floodlight PoE/WiFi
+Tech::Device::IPC::Shared::D43 Detection distance of cameras
+Tech::Device::IPC::Shared::D44 Confirm detection type of false alarm
+Tech::Device::IPC::Shared::D45 Reason of main stream video to analyze detection issue
+Tech::Device::IPC::Shared::D46 False alarm of motion detection(MD)
+Tech::Device::IPC::Shared::D47 Deal with spider webs
+Tech::Device::IPC::Shared::D48 Read license plate or require a camera reading license plate clearly
+Tech::Device::IPC::Shared::D49 Compatibility with Time Lapse
+Tech::Device::IPC::Shared::D50 Record time of 5MP/8MP cameras in 256GB SD card
+Tech::Device::IPC::Shared::D51 Supported WiFi distance for WiFi cameras
+Tech::Device::IPC::Shared::D52 WiFi QR code generating instruction
+Tech::Device::IPC::Shared::D53 Hardware 3816 support HTML5 web access
+Tech::Device::IPC::Shared::D54 IR light status
+Tech::Device::IPC::Shared::D55 Why monitor point shift
+Tech::Device::IPC::Shared::D56 Why Duo 3 camera's vertical angle looks small?
+Tech::Device::IPC::Shared::D57 Image rotation
+Tech::Device::IPC::Shared::D58 Camera supports digital zoom only – how to use it
+Tech::Device::IPC::Shared::D59 Cannot use optical zoom feature during playback
+Tech::Device::IPC::Shared::D60 Duo 2 Series/Duo 3 series/TrackMix/81MA only use one channel
+Tech::Device::IPC::Shared::D61 How to install Wedge for Doorbell camera
+Tech::Device::IPC::Shared::D62 Vandal proof cameras wall mount supported
+Tech::Device::IPC::Shared::D63 Floodlight Series (iOT) wall mount only
+Tech::Device::IPC::Shared::D64 Duo series (Only Duo bullet type without floodlight) ceiling mount supported
+Tech::Device::IPC::Shared::D65 Collect video of the focusing process under Clear stream mode
+Tech::Device::IPC::Shared::D66 Clarification on Camera FOV Specifications
+Tech::Device::IPC::Shared::D67 Camera lifespan
+Tech::Device::IPC::WiFi (Plug-in)::D97 Configuration via network cable(Ethernet-only cameras)
+Tech::Device::IPC::WiFi (Plug-in)::D98 WiFi camera not powered by PoE mode, powered via DC power adapter
+Tech::Device::lPC::PoE::D101 Dome cameras wall mount supported (not vandal-proof cameras)
+Tech::Device::NVR::D109 Confirm whether the NVR is powered on
+Tech::Device::NVR::D110 How many cameras can be added to Reolink NVRs
+Tech::Device::NVR::D111 NVR vertical installation/NVR rack mountable
+Tech::Device::NVR::D112 The old UI NVR doesn't support new smart camera partial functions
+Tech::Device::NVR::D113 Add WiFi camera to the NVR via LAN
+Tech::Device::NVR::D114 Reolink camera connect to 3rd-party NVR
+Tech::Device::NVR::D115 3rd-party cameras connect to the Reolink NVR(Already purchased)
+Tech::Device::NVR::D115 3rd-party cameras connect to the Reolink NVR(Already purchased-Function Availability)
+Tech::Device::NVR::D115 3rd-party cameras connect to the Reolink NVR(Not purchased yet)
+Tech::Device::NVR::D115 3rd-party cameras connect to the Reolink NVR(SOP not sloved-1st reply)
+Tech::Device::NVR::D115 3rd-party cameras connect to the Reolink NVR(SOP not sloved-2nd reply)
+Tech::Device::NVR::D116 How to use two-way audio on NVR-RLN36
+Tech::Device::NVR::D116 How to use two-way audio on NVR RLN8-410/RLN16-410/RLN12W
+Tech::Device::NVR::D118 Alarm-in/Alarm-out for RLN36
+Tech::Device::NVR::D119 Forced upgrade of NVS12W with EU version
+Tech::Device::NVR::D119 Forced upgrade of NVS12W with US version
+Tech::Device::NVR::D119 Forced upgrade of NVS16 with N6MB01
+Tech::Device::NVR::D119 Forced upgrade of NVS16 with NVR_NNT4NA716P
+Tech::Device::NVR::D119 Forced upgrade of NVS36 
+Tech::Device::NVR::D119 Forced upgrade of NVS8 with N7MB01
+Tech::Device::NVR::D119 Forced upgrade of NVS8 with NVR_NNT3NA78P
+Tech::Device::NVR::D119 Forced upgrade of RLN12W with EU version
+Tech::Device::NVR::D119 Forced upgrade of RLN12W with US version
+Tech::Device::NVR::D119 Forced upgrade of RLN16-410 with N6MB01
+Tech::Device::NVR::D119 Forced upgrade of RLN16-410 with NVR_NNT4NA716P
+Tech::Device::NVR::D119 Forced upgrade of RLN36 with N5MB01
+Tech::Device::NVR::D119 Forced upgrade of RLN8-410 with N7MB01
+Tech::Device::NVR::D119 Forced upgrade of RLN8-410 with NVR_NNT3NA78P
+Tech::Device::NVR::D128 Delete specific or partial recordings on NVR
+Tech::Device::NVR::D129 Export NVR's diagnostic information
+Tech::Device::NVR::D130 Change to Line 1 for NVRs with UID XCPTP
+Tech::Device::NVR::D131 Customer inquires about the super password 【Redline】
+Tech::Device::NVR::D132 Suggestion of fan noise of NVR
+Tech::Device::NVR::D133 Supported HDD capacity of RLN8-410/RLN16-410/RLN36/RLN12W
+Tech::Device::NVR::D134 Storage time of NVRs/How long can NVR record
+Tech::Device::NVR::D135 Compatibility with SSD
+Tech::Device::NVR::D136 The old UI NVR doesn't support new smart camera
+Tech::Device::NVR::D177 3rd-party cameras connect to the Reolink Home Hub series
+Tech::Device::NVR::D178 Does NVR/Home Hub support Onvif?
+Tech::Device::Shared::D01 FTP Logs in FZ client
+Tech::Device::Shared::D01 FTP Logs of IPC and server communication
+Tech::Device::Shared::D03 VLC export log
+Tech::Device::Shared::D04 Wireshark packet capture guide
+Tech::Device::Shared::D05 Compatibility with 3rd-party software
+Tech::Device::Shared::D05 Compatibility with Home Assistant
+Tech::Device::Shared::D05 Compatibility with Onvif
+Tech::Device::Shared::D08 View the stream with RTSP
+Tech::Device::Shared::D08 View the stream with Youtube(YTB)
+Tech::Device::Shared::D10 Capture with MJEPG
+Tech::Device::Shared::D11 Gmail App Password
+Tech::Device::Shared::D12 Why need API/CGI file?
+Tech::Device::Shared::D13 Unable to provide API/CGI file for personal use
+Tech::Device::Shared::D14 SDK for company cooperation purchase
+Tech::Device::Shared::D17 GPL agreement announced
+Tech::Device::Shared::D180 Explain Wi‑Fi 6 standard and 2.4 GHz/5 GHz frequency band
+Tech::Device::Shared::D18 HTTPS certificate import(CA agency genuine)
+Tech::Device::Shared::D18 HTTPS certificate import(Free)
+Tech::Device::Shared::D20 Will discontinued products be updated with new features?
+Tech::Device::Shared::D21 Reason for discontinuation of production
+Tech::Device::Shared::D22 Inquiry about the relationship between Camovue and Reolink / Contact support information
+Tech::Device::Shared::D23 Models working without internet/router
+Tech::Device::Shared::D24 MAC address
+Tech::Device::Shared::D25 Check router settings since device cannot be accessed via WAN
+Tech::Device::Shared::D26 Dismantle the device privately
+Tech::Device::Shared::D27 Forget login password
+Tech::Device::Shared::D28 SD card storage time
+Tech::Device::Shared::D29 Remove the "import configurations" feature
+Tech::Device::Shared::D30 Customer wants to replace regarding different hardware difference
+Tech::Device::Shared::D31 General reply regarding different hardware difference
+Tech::Device::Shared::D32 Differences between online and offline products(1st reply)
+Tech::Device::Shared::D32 Differences between online and offline products(2nd reply)
+Tech::Device::Shared::D34 The discontinuation of Reolink view service
+Tech::Device::Shared::D35 Live view the IPC/NVR on multiple devices
+Tech::Device::Shared::D36 Add multiple devices to a Reolink App/Client or live view multiple cameras at the same time
+Tech::Device::Spec::D145 850nm IR LED with red light
+Tech::Device::Spec::D146 The outer size of the ethernet port is used for drilling holes through the wall
+Tech::Device::Spec::D147 Recommend SIM card
+Tech::Device::Spec::D148 PIR distance
+Tech::Device::Spec::D149 Operating temperature
+Tech::Device::Spec::D150 DC adapter supply parameters
+Tech::Device::Spec::D151 SD card requirements
+Tech::Device::Spec::D152 Request user manual/QSG
+Tech::Device::Spec::D153 Bandwidth
+Tech::General::Appointment::G130 Arrange phone call
+Tech::General::Appointment::G131 Arrange zoom meeting
+Tech::General::Calming Script::Agent::G141 Customer wants another agent to handle the case
+Tech::General::Calming Script::Agent::G146 Request for supervisor assistance(Simple V1)
+Tech::General::Calming Script::Agent::G146 Request for supervisor assistance(Simple V2)
+Tech::General::Calming Script::Agent::G97 Request for supervisor assistance
+Tech::General::Calming Script::Agent::G98 Dissatisfied with agent
+Tech::General::Calming Script::Comms Strategy::G53 Identify issues(Complex-V1)
+Tech::General::Calming Script::Comms Strategy::G53 Identify issues(Complex-V2)
+Tech::General::Calming Script::Comms Strategy::G53 Identify issues(Negative emotions)
+Tech::General::Calming Script::Comms Strategy::G53 Identify issues(Simple-V1)
+Tech::General::Calming Script::Comms Strategy::G53 Identify issues(Simple-V2)
+Tech::General::Calming Script::Comms Strategy::G53 Identify issues(Simple-V3)
+Tech::General::Calming Script::Comms Strategy::G59 Reassurance and ongoing support(Complex-V1)
+Tech::General::Calming Script::Comms Strategy::G59 Reassurance and ongoing support(Complex-V2)
+Tech::General::Calming Script::Comms Strategy::G59 Reassurance and ongoing support(Complex-V3)
+Tech::General::Calming Script::Comms Strategy::G59 Reassurance and ongoing support(Simple-V1)
+Tech::General::Calming Script::Comms Strategy::G59 Reassurance and ongoing support(Simple-V2)
+Tech::General::Calming Script::Comms Strategy::G59 Reassurance and ongoing support(Simple-V3)
+Tech::General::Calming Script::Customer::G86 Dissatisfied and frustrated with product
+Tech::General::Calming Script::Customer::G87 Poor handling and emotional
+Tech::General::Calming Script::Customer::G88 Just express frustration simply
+Tech::General::Calming Script::Customer::G89 Unreasonable request
+Tech::General::Calming Script::Customer::G90 Non-cooperation and frustration
+Tech::General::Calming Script::Customer::G90 Non-cooperation and resolution request
+Tech::General::Calming Script::Customer::G90 Non-cooperation in providing troubleshooting information/steps
+Tech::General::Calming Script::Customer::G93 Cooperation but frustration
+Tech::General::Calming Script::Customer::G94 Limited conditions to perform troubleshooting
+Tech::General::Calming Script::Customer::G95 Challenges of communicating cross-languages
+Tech::General::Calming Script::Customer::G96 Negative review threat/Complaint on public platforms
+Tech::General::Calming Script::Product::G151 Debug firmware version prepared to investigate further (L2)
+Tech::General::Calming Script::Product::G68 Device with many issues
+Tech::General::Calming Script::Product::G69 Doubts about product quality
+Tech::General::Calming Script::Product::G70 Product returned to Amazon
+Tech::General::Calming Script::Product::G71 Ongoing issue unresolved with frustration and return/replace request
+Tech::General::Calming Script::Product::G71 Ongoing issue unresolved with frustration – no return/refund request
+Tech::General::Calming Script::Product::G71 Ongoing issue unresolved without emotion
+Tech::General::Calming Script::Product::G74 Complex issue, patience needed(Pre-troubleshooting)
+Tech::General::Calming Script::Product::G75 No effective fix available – temporary use or workaround recommended (L2)
+Tech::General::Calming Script::Product::G76 Issue resolved in special firmware version (L2)
+Tech::General::Calming Script::Product::G76 Issue resolved in special version – not yet in official release
+Tech::General::Calming Script::Product::G77 No complete solution available – improvement plan provided V1
+Tech::General::Calming Script::Product::G77 No complete solution available – improvement plan provided V2
+Tech::General::Calming Script::Product::G79 Potential no-solution case – setting customer expectations
+Tech::General::Calming Script::Product::G80 Never encountered case – setting customer expectations (L2)
+Tech::General::Calming Script::Product::G81 Known issue – no current or future fix planned V1 (L2)
+Tech::General::Calming Script::Product::G81 Known issue – no current or future fix planned V2 (L2)
+Tech::General::Calming Script::Product::G81 Known issue – resolution pending (L2)
+Tech::General::Calming Script::Product::G84 Issue not reproducible, no solution provided (L2)
+Tech::General::Calming Script::Product::G84 Issue not reproducible, ongoing monitoring (L2)
+Tech::General::Calming Script::Resolution Options::G99 CC suggests RMA, but further troubleshooting required
+Tech::General::Calming Script::Resolution Options::G99 CC suggests troubleshooting, but RMA required
+Tech::General::Calming Script::RMA Request::G65 Request return directly without reason and troubleshooting
+Tech::General::Calming Script::RMA Request::G65 Request return directly with reason(Explore potential solutions)
+Tech::General::Calming Script::RMA Request::G67 Request replace directly without reason and troubleshooting
+Tech::General::Close::G34 Case solved & Rating
+Tech::General::Close::G34 Case solved & Rating -DE
+Tech::General::Close::G34 Case solved unclearly(Customer requested closure)
+Tech::General::Close::G35 Case solved, further help? V1
+Tech::General::Close::G35 Case solved, further help? V2
+Tech::General::Close::G40 Case unsolved
+Tech::General::Close::G41 Temporary solve/Customer unresponsive after follow up
+Tech::General::Feedback::G101 Request for more details on feedback
+Tech::General::Feedback::G102 Appreciate suggestions
+Tech::General::Feedback::G103 Inquires about implement timeline
+Tech::General::Feedback::G104 Feedback user's request to list
+Tech::General::Feedback::G105 Subscribe email to get updates
+Tech::General::Feedback::G106 Get special firmware on forum
+Tech::General::Follow-up::G150 Follow up with solve confirmation
+Tech::General::Follow-up::G21 1st Follow up with difficult case
+Tech::General::Follow-up::G21 1st Follow up with easily solved case
+Tech::General::Follow-up::G21 1st Follow up with easily solved case and case close
+Tech::General::Follow-up::G21 1st Follow up with negative emotion
+Tech::General::Follow-up::G21 1st Follow up with neutral emotion
+Tech::General::Follow-up::G21 1st Follow up with not solved case and case open
+Tech::General::Follow-up::G22 2nd Follow up
+Tech::General::Follow-up::G22 2nd Follow up (more politely)
+Tech::General::Follow-up::G22 2nd Follow up (with 72h closure reminder)
+Tech::General::Follow-up::G23 3rd Follow up with negative emotion and case close
+Tech::General::Follow-up::G23 3rd Follow up with neutral emotion and case close
+Tech::General::Follow-up::G23 3rd Follow up with neutral emotion and case close(phone number provided)
+Tech::General::Follow-up::G32 Follow up with test pending
+Tech::General::Follow-up::G33 Follow up with p-hold
+Tech::General::Info::G142 Ask for error message
+Tech::General::Info::G143 Ask for video showing issue
+Tech::General::Info::G42 Ask for UID
+Tech::General::Info::G43 Ask for model number
+Tech::General::Info::G44 Ask for software
+Tech::General::Info::G45 Ask for system info
+Tech::General::Info::G46 Ask for 2.4Ghz/5Ghz network connection
+Tech::General::Info::G47 Ask for wire/wifi connection
+Tech::General::Info::G48 Ask for LAN/WAN connection
+Tech::General::Info::G49 Ask for troubleshooting steps and results
+Tech::General::Info::G50 Ask for order info and S/N or UID  for RMA
+Tech::General::Info::G50 Ask for order info for RMA
+Tech::General::Info::G51 Order invoice
+Tech::General::Info::G52 Send file as an attachment
+Tech::General::Rating::G111 1st Change review(Complex)
+Tech::General::Rating::G111 1st Change review(Simple)
+Tech::General::Rating::G111 2nd Change review
+Tech::General::Rating::G114 Bad review on delayed support
+Tech::General::Rating::G114 Bad reviews with already return the product
+Tech::General::Rating::G114 Bad reviews with resolving the concern on his own V1
+Tech::General::Rating::G114 Bad reviews with resolving the concern on his own V2
+Tech::General::Rating::G114 Bad reviews with threatening to return the product
+Tech::General::Rating::G114 Bad reviews with unresolved issues
+Tech::General::Rating::G114 Bad review without reason V1
+Tech::General::Rating::G114 Bad review without reason V2
+Tech::General::Rating::G114 Bad review with potential RMA
+Tech::General::Rating::G114 Bad review with products 
+Tech::General::Rating::G114 Bad review with service
+Tech::General::Rating::G114 Bad review with unresolved issues but satisfactory service
+Tech::General::Response::G01 1st email
+Tech::General::Response::G01 1st email (L2)
+Tech::General::Response::G01 1st email consulting R&D team (L2)
+Tech::General::Response::G02 2nd email
+Tech::General::Response::G02 2nd email (L2)
+Tech::General::Response::G06 Signature
+Tech::General::Response::G06 Signature (L2)
+Tech::General::Response::G08 Inquiry issue
+Tech::General::Response::G09 Tech issue
+Tech::General::Response::G10 Request more detailed info
+Tech::General::Response::G11 Moving forward with troubleshooting V1 
+Tech::General::Response::G11 Moving forward with troubleshooting V2
+Tech::General::Response::G11 Moving forward with troubleshooting V3 
+Tech::General::Response::G11 Moving forward with troubleshooting V4
+Tech::General::Response::G148 1st email (L2 Specialist)
+Tech::General::Response::G15 Contatct reseller
+Tech::General::Response::G16 Transfer to RMA-Temporary reply
+Tech::General::Response::G20 Shift handover
+Tech::General::RMA Proposal::G132 Difficult issue or expectations unmet, discount offer
+Tech::General::RMA Proposal::G133 With MD false alarms issue
+Tech::General::RMA Proposal::G134 With AI false alarms issue
+Tech::General::RMA Proposal::G135 With PIR false alarms issue
+Tech::General::RMA Proposal::G136 Refuse warranty with false alarms issue
+Tech::General::RMA proposal::G137 Replacement offered after unsuccessful troubleshooting
+Tech::General::Transfer & Management::G120 Transfer to RMA team 9527
+Tech::General::Transfer & Management::G120 Transfer to RMA team 9528(Overseas)
+Tech::General::Transfer & Management::G122 Escalate to Tech L2(with emotions)
+Tech::General::Transfer & Management::G122 Escalate to Tech L2(without emotions-Complex)
+Tech::General::Transfer & Management::G122 Escalate to Tech L2(without emotions-Simple)
+Tech::General::Transfer & Management::G125 Escalate to complaint group
+Tech::General::Transfer & Management::G126 AMZ bad rating transfer to a designated person for follow-up
+Tech::General::Transfer & Management::G127 Transfer bad reviews from dissatisfied agent
+Tech::General::Transfer & Management::G128 Escalate to B2B support
+Tech::General::Transfer & Management::G129 Transfer to AMZ Message Team
+Tech::General::Transfer & Management::G149 Escalate to Tech L2 Specialist
+Tech::General::Transfer & Management::G152 Escalate Trustpilot bad review to the after-sales team
+Tech::General::Transfer & Management::G153 RMA Follow Up
+Tech::Software::APP::S02 Forgot APP Password
+Tech::Software::App::S03 Software in the Iran【Redline】
+Tech::Software::App::S04 Privacy policy repop-up after opening the Reolink App
+Tech::Software::App::S05 Can not provide special or older version of iOS App
+Tech::Software::App::S12 Push notification sound only works for the first event
+Tech::Software::App::S13 Device password blacklist
+Tech::Software::Client::S06 Computer OS information
+Tech::Software::Client::S07 Cannot remotely access devices (XCPTP) after v8.8.5 Reolink Client
+Tech::Software::Client::S08 Main stream settings cannot be saved in v8.8.5 and later Reolink Client
+Tech::Software::Client::S09 Warn of Javascript Error:Error:Dynamic Linking Error:Win 32 Error 126 on 8.10.x
+Tech::Software::Client::S10 Latest client bug, suggest using v8.8.5, offer partial refund based on situation (L2)
+Tech::Software::Client::S11 Reolink Client cannot be used when the computer is set to Russian language
+Tech::Software::Shared::S01 Download Reolink App/Reolink Client
+Tech::Uncommon::U01 Reason for brand logo changed【Redline】
+Tech::Uncommon::U02 Any Changes for Reolink brand and company after changing logo【Redline】
+Tech::Uncommon::U03 Difference after changing the brand logo【Redline】
+Tech::Uncommon::U04 Concerns over old Logo: discontinued, counterfeit, or mismatched?【Redline】
+Tech::Uncommon::U05 Request the new logo materials
+Tech:.Device::IPC::Shared::D37 Confirm whether the camera is powered on(IR lights)
+Tech:.Device::IPC::Shared::D37 Confirm whether the camera is powered on(spotlights)
+Tech:.Device::IPC::Shared::D37 Confirm whether the camera is powered on(status light)
+Tech::Uncommon::U06 Which logo will be received and whether it can be exchanged【Redline】
+Tech::Uncommon::U07 Authorization for video【Redline】
+Tech::Uncommon::U09 Customer asked how his email is collected and used【Redline】
+Tech::Uncommon::U11 Whether Reolink store the device's video and audio information【Redline】
+Tech::Uncommon::U12 Will the login password saved by Reolink?【Redline】
+Tech::Uncommon::U13 Camera is stolen, disable device's UID【Redline】
+Tech::Uncommon::U14 Camera is stolen, UID can be disabled before【Redline】
+Tech::Uncommon::U15 Camera is stolen, locate the stolen camera【Redline】
+Tech::Uncommon::U16 Camera is stolen or video is lost, retrieve the video【Redline】
+Tech::Uncommon::U18 Customer proactively provides password or device access【Redline】
+Tech::Uncommon::U19 Remind the customer to change the password after analyzing (L2)【Redline】
+Tech::Uncommon::U20 Fake support: The customer discovered the scammer but was not defrauded of money【Redline】
+Tech::Uncommon::U21 Fake support: Customers are defrauded of money【Redline】
+Tech::Uncommon::U22 Fake support: AMZ customer service transferred him to a scammer support【Redline】
+Tech::Uncommon::U23 Fake support: Customer feedback that he/she encounters the fake support【Redline】
+Tech::Uncommon::U24 Ask for Reolink's location【Redline】
+Tech::Uncommon::U25 Authorization for other personal information【Redline】
+Tech::Uncommon::U26 SIM/UID unbinding: why it was possible before but not now (信息安全组)
+Tech::Uncommon::U26 SIM/UID unbinding: how to unbind by customers themselves (信息安全组)
+Tech::Uncommon::U26 SIM/UID unbinding: provide proof of ownership (信息安全组)
+Tech::Uncommon::U27 How to use encryption keys
+Tech::Uncommon::U28 Customer inquiry about job openings
+Tech::SOP::S01 NVR hardware supports/is compatible with this IPC
+Tech::SOP::S02 Make sure that the Ethernet cable and port are working
+Tech::SOP::S03 Camera not added: confirm remaining channels meet camera's requirement
+Tech::SOP::S04 Camera not added: confirm max channel limit not reached
+Tech::SOP::S05 Camera recognized but not added: ensure unique IP address
+Tech::SOP::S06 Camera recognized but not added: confirm IPC is not locked by login
+Tech::SOP::S07 Check system information
+Tech::SOP::S08 "Incorrect username or password": double-check credentials
+Tech::SOP::S09 Restore/reset the device
+Tech::SOP::S10 For PoE camera that are not directly connected to the NVR, connect it to the NVR directly for a try
+Tech::SOP::S11 Suggest standalone use if adding incompatible cameras to NVR fails
+Tech::SOP::S12 Use compliant PoE power supply equipment or DC adapters
+Tech::SOP::S13 Ensure the installation location is not near a drain or other areas prone to water accumulation
+Tech::SOP::S14 Check IR light after reset by covering camera whole lens or in darkness
+Tech::SOP::S15 Change other compatible power supply devices
+Tech::SOP::S16 Use the original power adapter
+Tech::SOP::S17 Resolved by unplugging HDD and all cameras
+Tech::SOP::S18 Use the original charging cable and a compliant charger
+Tech::SOP::S19 Check if camera powers on by toggling switch or reinserting battery
+Tech::SOP::S20 Test camera by replacing with a known-good battery
+Tech::SOP::S21 Verify damage cause: intentional or accidental (e.g., dropping)
+Tech::SOP::S22 Ensure correct WiFi SSID and password
+Tech::SOP::S23 Ensure WiFi/router configuration meets requirements
+Tech::SOP::S24 Ensure antenna is installed correctly and tightly for cameras with antenna
+Tech::SOP::S25 Turn off filtering settings on the router
+Tech::SOP::S26 Move camera closer to the router
+Tech::SOP::S27 Test device by connecting to a different hotspot or router's WiFi
+Tech::SOP::S28 Request for brand and model of the router
+Tech::SOP::S29 Request and note UID, ensure it's enabled, and use UID to add device
+Tech::SOP::S30 Reboot the router and the camera/NVR/Home Hub
+Tech::SOP::S31 Request a picture of the network information page
+Tech::SOP::S32 Check if the device has a valid gateway in the network status page
+Tech::SOP::S33 The solar panel faces the sun directly and can get a lot of sunlight
+Tech::SOP::S34 The solar panel and camera are physically connected well
+Tech::SOP::S35 Confirm camera's operating/charging temperature meets requirements
+Tech::SOP::S36 Turn off the PIR and reduce the time of previewing
+Tech::SOP::S37 Charge battery with DC adapter before connecting to solar panel
+Tech::SOP::S38 Swap solar panel for testing
+Tech::SOP::S39 Confirm normal physical connection between adapter and camera
+Tech::SOP::S40 Turn off PIR and reduce preview frequency to see if the charging is normal
+Tech::SOP::S41 Confirm adapter charges normally with other devices
+Tech::SOP::S42 The camera can detect motion
+Tech::SOP::S43 Ensure push-related settings are correct
+Tech::SOP::S44 Device (NVR/Camera/Hub) accessible from external network
+Tech::SOP::S45 Device (NVR/Camera/Hub) firmware is the latest version from the official download center
+Tech::SOP::S46 App version requirements
+Tech::SOP::S47 Delete the device (NVR/Camera/Hub) and re-add it to the app
+Tech::SOP::S48 Uninstall and reinstall the App
+Tech::SOP::S49 Install junction box, waterproof cap, or tape to protect the tail cable for outdoor use
+Tech::SOP::S50 Ask for UID or S/N code
+Tech::SOP::S51 If water or fog is outside the lens, wipe lens dry and power on for a few hours
+Tech::SOP::S52 If water or fog is inside the lens, keep it powered on and SD card slot open
+Tech::SOP::S53 If water or fog appears inside or outside the shell, wipe clean, tighten the shell, and observe
+Tech::SOP::S54 Confirm that the camera lens is not blocked by the protective film
+Tech::SOP::S55 Increase phone screen brightness, enlarge QR code, and scan indoors with the camera
+Tech::SOP::S56 Align phone screen and camera lens at same height with 20 cm (8 inches) distance
+Tech::SOP::S57 Try connecting with another phone/computer
+Tech::SOP::S58 Ensure SIM card is from a supported carrier with an active plan
+Tech::SOP::S59 Ensure SIM card is installed correctly and in the correct direction
+Tech::SOP::S60 Place a small piece of paper on the side of the SIM card without a chip
+Tech::SOP::S61 Reboot the camera
+Tech::SOP::S62 Whether changing other recommended SIM card carriers solve the problem
+Tech::SOP::S63 Ensure router settings do not include firewall, VPN, MAC filtering, or AP isolation
+Tech::SOP::S64 Switch between static IP and DHCP
+Tech::SOP::S65 Replug the network cable
+Tech::SOP::S66 Restart the switch between the router and NVR to test
+Tech::SOP::S67 Replace the Ethernet cable and use a different network port to connect the NVR/Camera/Home Hub
+Tech::SOP::S68 Request for network topology map
+Tech::SOP::S69 Gather information on the current SIM card, including carrier (operator) and data plan
+Tech::SOP::S70 Remove the SD card inside the camera
+Tech::SOP::S71 If there are other Reolink 4G cameras, exchange SIM cards for testing
+Tech::SOP::S72 Check SD card/HDD recognition, recording, and schedule
+Tech::SOP::S73 Ensure overwrite is turned on
+Tech::SOP::S74 Correct HDD Installation
+Tech::SOP::S75 Replace other compliant HDD
+Tech::SOP::S76 Request for a picture of the original HDD info
+Tech::SOP::S77 USB/Type-C port loose, deformed, detached, corroded, or melted
+Tech::SOP::S78 USB/Type-C port issue video/picture confirm
+Tech::SOP::S79 No voice prompt after camera reset
+Tech::SOP::S80 Camera charges via DC adapter but not with solar panel
+Tech::SOP::S81 Ensure charging and switch ports are properly sealed
+Tech::SOP::S82 Settings reset to factory defaults on every reboot or occasionally
+Tech::SOP::S83 Wrap all tail cables with waterproof tape to see if issue is resolved
+Tech::SOP::S84 Confirm reset button isn’t stuck and perform full reset to check if issue is resolved
+Tech::SOP::S85 Test Reolink SIM card
+Tech::SOP::S86 Reinsert the SD card
+Tech::SOP::S87 Format the SD card on a PC
+Tech::SOP::S88 Use a compatible microSD card
+Tech::SOP::S89 Change SD card and try a lower capacity SD card
+Tech::SOP::S90 Upgrade camera to the latest firmware-Online Firmware Upgrade
+Tech::SOP::S90 Upgrade camera to the latest firmware-Firmware Attachment Provided
+Tech::SOP::S90 Upgrade camera to the latest firmware-Firmware Download
+Tech::SOP::S91 Upgrade NVR to the latest firmware-Online Firmware Upgrade
+Tech::SOP::S91 Upgrade NVR to the latest firmware-Firmware Attachment Provided
+Tech::SOP::S91 Upgrade NVR to the latest firmware-Firmware Download
+Tech::SOP::S92 Upgrade Home Hub Series to the latest firmware-Online Firmware Upgrade
+Tech::SOP::S92 Upgrade Home Hub Series to the latest firmware-Firmware Attachment Provided
+Tech::SOP::S92 Upgrade Home Hub Series to the latest firmware-Firmware Download
+Tech::Chat::C01 Open: Greeting
+Tech::Chat::C01 Open: Greeting(Apologize for waiting) 
+Tech::Chat::C02 High volume: response delay apology(Simple)
+Tech::Chat::C02 High volume: response delay apology(Complex)
+Tech::Chat::C03 Wait: brief wait for retrieving info
+Tech::Chat::C03 Wait: check record(Simple)
+Tech::Chat::C03 Wait: check record(Formal)
+Tech::Chat::C03 Wait: sorry to keep you waiting
+Tech::Chat::C04 Hold: suggest follow-up via email about product inquiry
+Tech::Chat::C05 Inactivity check: apology for interruption
+Tech::Chat::C05 Inactivity check: no response received
+Tech::Chat::C06 Pending: conversation remains open
+Tech::Chat::C06 Pending: need time to test
+Tech::Chat::C07 Close: rating(Solved)
+Tech::Chat::C07 Close: rating(Awaiting customer reply after solution provided)
+Tech::Chat::C07 Close: rating(Solved)-Re-survey
+Tech::Chat::C07 Close: rating(Solved)-Ghost Ticket/No Interaction
+Tech::Chat::C08 Transfer to RMA team
+Tech::Chat::C08 Transfer to Senior Support Team
+Tech::Chat::C08 Transfer to SME/TL
+Tech::Chat::C09 End of shift: continued steps needed
+Tech::Chat::C09 End of shift: ongoing matter
+Tech::Chat::C10 Thanks for providing information V1
+Tech::Chat::C10 Thanks for providing information V2
+Tech::Chat::C11 Non-cooperation warning message 1st
+Tech::Chat::C11 Non-cooperation warning message 2nd 
+Tech::Chat::C12 Feedback: no model recommended
+Tech::Chat::C12 Feedback: not support a specific function
+Tech::Chat::C12 Feedback: not support a specific function(Stronge negative feedback)
+Tech::Chat::C12 Feedback: apology for specific limitation
+Tech::Chat::C12 Feedback: customer hope us improve service
+Tech::Chat::C12 Feedback: hope support other pay method
+Tech::Chat::C12 Feedback: customer thought product description not clear
+Tech::Chat::C13 Calming: not first encounter the issue
+Tech::Chat::C13 Calming: ask return/replacement without any details
+Tech::Chat::C13 Calming: take long time without fixing issue
+Tech::Chat::C13 Calming: too much troubleshooting steps
+Tech::Chat::C13 Calming: do not want to do the vital step
+Tech::Chat::C13 Calming: reset is the only option
+Tech::Chat::C14 Remote access support needed
+Tech::Chat::C14 On-site troubleshooting support needed
+Tech::Chat::C14 Call not available-US
+Tech::Chat::C14 Call not available-AU, DE, UK, SG
+Tech::Chat::C15 Others: Customer followed up via new chat regarding no response from RMA/L2 team
+Tech::Chat::C16 Customer is not with the camera
+Tech::Chat::C17 Chat history
+Tech::Chat::C18 Close: Trustpilot rating(Solved-not AMZ)
+Tech::Chat::C19 Follow-up
+Pre-sale::Business/Sale::Recommendation::All::B23 Product recommendation
+Pre-sale::Business/Sale::Recommendation::All::B24 NVR kit recommendation
+Pre-sale::Business/Sale::Recommendation::Difference::B25 Argus 3 pro VS Argus Eco Pro
+Pre-sale::Business/Sale::Recommendation::Difference::B26 Bullet camera VS dome camera
+Pre-sale::Business/Sale::Recommendation::Difference::B27 RLC-823A VS RLC-823A 16X
+Pre-sale::Business/Sale::Recommendation::Difference::B28 RLC-823S2 VS RLC-823A
+Pre-sale::Business/Sale::Recommendation::Difference::B29 RLC-823S2 VS 823A 16X
+Pre-sale::Business/Sale::Recommendation::Difference::B30 RLK8-810B4-A VS RLK8-800B4/RLK8-820D4-A VS RLK8-800D4
+Pre-sale::Business/Sale::Recommendation::Difference::B31 RLN16-410 VS RLN36
+Pre-sale::Business/Sale::Recommendation::Difference::B32 TrackMix PoE VS RLC-823A
+Pre-sale::Business/Sale::Recommendation::Battery 4G::B33 Go Plus
+Pre-sale::Business/Sale::Recommendation::Battery 4G::B34 Go PT Plus
+Pre-sale::Business/Sale::Recommendation::Battery 4G::B35 Go PT Ultra
+Pre-sale::Business/Sale::Recommendation::Battery 4G::B36 Go Ranger PT
+Pre-sale::Business/Sale::Recommendation::Battery 4G::B37 Go Ultra
+Pre-sale::Business/Sale::Recommendation::Battery 4G::B38 Trackmix LTE
+Pre-sale::Business/Sale::Recommendation::PoE::B39 RLC-540A
+Pre-sale::Business/Sale::Recommendation::PoE::B40 RLC-840A
+Pre-sale::Business/Sale::Recommendation::PoE::B41 RLC-811A
+Pre-sale::Business/Sale::Recommendation::PoE::B42 RLC-81MA
+Pre-sale::Business/Sale::Recommendation::PoE::B43 RLC-843A
+Pre-sale::Business/Sale::Recommendation::PoE::B44 Duo 2 PoE
+Pre-sale::Business/Sale::Recommendation::PoE::B45 Duo 3 PoE
+Pre-sale::Business/Sale::Recommendation::PoE::B46 E1 Outdoor PoE
+Pre-sale::Business/Sale::Recommendation::PoE::B47 RLC-1212A
+Pre-sale::Business/Sale::Recommendation::PoE::B48 RLC-1224A
+Pre-sale::Business/Sale::Recommendation::PoE::B49 RLC-510A
+Pre-sale::Business/Sale::Recommendation::PoE::B50 RLC-810A
+Pre-sale::Business/Sale::Recommendation::PoE::B51 RLC-520A
+Pre-sale::Business/Sale::Recommendation::PoE::B52 RLC-820A
+Pre-sale::Business/Sale::Recommendation::PoE::B53 RLC-823S2
+Pre-sale::Business/Sale::Recommendation::PoE::B54 RLC-830A
+Pre-sale::Business/Sale::Recommendation::PoE::B55 RLC-833A
+Pre-sale::Business/Sale::Recommendation::PoE::B56 TrackMix PoE
+Pre-sale::Business/Sale::Recommendation::PoE::B57 FE-P
+Pre-sale::Business/Sale::Recommendation::NVR::B58 RLN36
+Pre-sale::Business/Sale::Recommendation::WiFi (Plug-in)::B59 CX410W
+Pre-sale::Business/Sale::Recommendation::WiFi (Plug-in)::B60 Duo 2 WiFi
+Pre-sale::Business/Sale::Recommendation::WiFi (Plug-in)::B61 E1(4MP)
+Pre-sale::Business/Sale::Recommendation::WiFi (Plug-in)::B62 E1(3MP)
+Pre-sale::Business/Sale::Recommendation::WiFi (Plug-in)::B63 E1 Outdoor
+Pre-sale::Business/Sale::Recommendation::WiFi (Plug-in)::B64 E1 Outdoor Pro
+Pre-sale::Business/Sale::Recommendation::WiFi (Plug-in)::B65 E1 Pro(5MP)
+Pre-sale::Business/Sale::Recommendation::WiFi (Plug-in)::B66 E1 Zoom
+Pre-sale::Business/Sale::Recommendation::WiFi (Plug-in)::B67 Lumus
+Pre-sale::Business/Sale::Recommendation::WiFi (Plug-in)::B68 Lumus Pro
+Pre-sale::Business/Sale::Recommendation::WiFi (Plug-in)::B69 RLC-510WA
+Pre-sale::Business/Sale::Recommendation::WiFi (Plug-in)::B70 RLC-810WA
+Pre-sale::Business/Sale::Recommendation::WiFi (Plug-in)::B71 RLC-811WA
+Pre-sale::Business/Sale::Recommendation::WiFi (Plug-in)::B72 RLC-843WA
+Pre-sale::Business/Sale::Recommendation::WiFi (Plug-in)::B73 TrackMix WiFi
+Pre-sale::Business/Sale::Recommendation::WiFi (Plug-in)::B74 FE-W
+Pre-sale::Business/Sale::Recommendation::WiFi System::B75 RLK12-800WB4
+Pre-sale::Business/Sale::Recommendation::WiFi System::B76 RLK12-800WPTZ4
+Pre-sale::Business/Sale::Recommendation::WiFi System::B77 RLK12-800WTM4
+Pre-sale::Business/Sale::Recommendation::PoE System::B78 No WiFi/No Internet system
+Pre-sale::Business/Sale::Recommendation::PoE System::B79 RLK8-1200B4-A/RLK16-1200B8-A
+Pre-sale::Business/Sale::Recommendation::PoE System::B80 RLK8-1200D4-A/RLK16-1200D8-A
+Pre-sale::Business/Sale::Recommendation::PoE System::B81 RLK8-510B4-A
+Pre-sale::Business/Sale::Recommendation::PoE System::B82 RLK8-800B4/RLK16-800B8
+Pre-sale::Business/Sale::Recommendation::PoE System::B83 RLK8-800D4/RLK16-800D8
+Pre-sale::Business/Sale::Recommendation::PoE System::B84 RLK8-800TM4
+Pre-sale::Business/Sale::Recommendation::PoE System::B85 RLK8-810B4-A/RLK16-810B8-A
+Pre-sale::Business/Sale::Recommendation::PoE System::B86 RLK8-811B4-A/RLK16-811B8-A
+Pre-sale::Business/Sale::Recommendation::PoE System::B87 RLK8-820B4-A/RLK16-820B8-A
+Pre-sale::Business/Sale::Recommendation::PoE System::B88 RLK8-833D4-A/RLK16-833D8-A
+Pre-sale::Business/Sale::Recommendation::Battery WiFi::B89 Argus 4 Pro
+Pre-sale::Business/Sale::Recommendation::Battery WiFi::B90 Argus 3 Pro
+Pre-sale::Business/Sale::Recommendation::Battery WiFi::B91 Argus 3 Ultra
+Pre-sale::Business/Sale::Recommendation::Battery WiFi::B92 Argus Eco Pro
+Pre-sale::Business/Sale::Recommendation::Battery WiFi::B93 Argus Eco Ultra
+Pre-sale::Business/Sale::Recommendation::Battery WiFi::B94 Argus Eco(3MP)
+Pre-sale::Business/Sale::Recommendation::Battery WiFi::B95 Argus PT Lite
+Pre-sale::Business/Sale::Recommendation::Battery WiFi::B96 Argus PT Ultra
+Pre-sale::Business/Sale::Recommendation::Battery WiFi::B97 Argus PT
+Pre-sale::Business/Sale::Recommendation::Battery WiFi::B98 Argus Track
+Pre-sale::Business/Sale::Recommendation::Battery WiFi::B99 Duo 2(8MP)
+Pre-sale::Business/Sale::Recommendation::Battery 4G::B100 Duo 2 LTE(8MP)
+Pre-sale::Business/Sale::Recommendation::Battery WiFi::B101 TrackMix(8MP)
+Pre-sale::Business/Sale::Recommendation::Battery WiFi::B102 Argus 3E
+Pre-sale::Business/Sale::Recommendation::WiFi (Plug-in)::B103 No WiFi/No Internet camera with power
+Pre-sale::Business/Sale::Recommendation::Battery WiFi::B104 No WiFi/No Internet camera without power
+Pre-sale::Business/Sale::Recommendation::Wired 4G::B105 TrackMix Wired LTE
+Pre-sale::Business/Sale::Accessories::B111 Suggested DC12V power adapter/power plug
+Pre-sale::Business/Sale::Accessories::B112 Suggested HDD list for NVR
+Pre-sale::Business/Sale::Accessories::B113 4.5m solar panel extension cable
+Pre-sale::Business/Sale::Accessories::B114 DC5V1A power adapter/power plug of E series
+Pre-sale::Business/Sale::Accessories::B115 Suggested antenna of Go PT series/Ranger PT series
+Pre-sale::Business/Sale::Accessories::B116 Suggested bracket of Go Plus series/Argus Eco
+Pre-sale::Business/Sale::Accessories::B117 Suggested Power adapter/Power plug for NVR RLN8-410/RLN16-410
+Pre-sale::Business/Sale::Accessories::B118 Suggested PoE Switch/Injector
+Pre-sale::Business/Sale::Accessories::B119 Separate Battery in AU or other country
+Pre-sale::Business/Sale::Accessories::B120 Separate Battery of Go series in US/CA/EU/UK in stock
+Pre-sale::Business/Sale::Accessories::B120 Separate Battery of Go series in US/CA/EU/UK out of stock
+Pre-sale::Business/Sale::Accessories::B120 Separate Battery but without country/model info
+Pre-sale::Business/Sale::Accessories::B123 Without extension power cable for indoor E1 series and Lumus series
+Pre-sale::Business/Sale::Accessories::B124 18M ethernet cable in system
+Pre-sale::Business/Sale::Accessories::B125 Choose SD card on reolink.com website
+Pre-sale::Business/Sale::Accessories::B125 Choose SD card on Amazon
+Pre-sale::Business/Sale::Accessories::B128 Order chime for V2/V3 doorbell camera
+Pre-sale::Business/Sale::Accessories::B129 How to order Wedge for Doorbell camera
+Pre-sale::Business/Sale::Accessories::B130 Add extra Chime for V1 Doorbell camera
+Pre-sale::Business/Sale::Recommendation::WiFi (Plug-in)::B131 Duo 3 WiFi
+Pre-sale::Business/Sale::Recommendation::PoE::B132 Duo 3V PoE
+Pre-sale::Business/Sale::Recommendation::WiFi (AC)::B133 Elite Floodlight WiFi
+Pre-sale::Business/Sale::Recommendation::Battery WiFi::B134 Reolink Altas PT Ultra
+Pre-sale::Business/Sale::Recommendation::Battery WiFi::B135 RLK8-1200V4
+Pre-sale::Business/Sale::Recommendation::Battery 4G::B136 Altas Go PT
+Pre-sale::Business/Sale::Recommendation::PoE System::B137 RLK8-800PT4
+Pre-sale::Business/Sale::Recommendation::Battery 4G::B138 E1 Outdoor SE PoE
+Pre-sale::Business/Sale::Recommendation::Battery 4G::B139 Reolink TrackMix LTE Plus 2 + Reolink Solar Panel Plus
+
+IF NO CHOICES ARE NEAR KINDLY SAY "SORRY NO MACRO ARE FOR THIS"
+

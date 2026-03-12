@@ -1,87 +1,262 @@
-Battery 4G::Alert::Auto tracking doesn't work properly
-Battery 4G::Alert::Email image attachment/first frame of email video attachment/SD card recording is overexposed during night time (only for AI models)
-Battery 4G::Alert::Email image attachment/first frame of email video attachment/SD card recording is overexposed during the day (only for AI models)
-Battery 4G::Alert::Non-Detection Area Smart detection False alert
-Battery 4G::Alert::PIR doesn't work occassionally/alarm delay/detection distance is short
-Battery 4G::Alert::PIR False Alerts
-Battery 4G::Alert::PIR sensor doesn't work
-Battery 4G::Alert::Pixelated image/video in the Email attachment
-Battery 4G::Alert::Smart detection doesn't work
-Battery 4G::Alert::Smart detection False Alerts
-Battery 4G::Alert::The first frame of email pictures/videos is too dark (only for AI models)
-Battery 4G::Audio::Audio Noise
-Battery 4G::Audio::Low sound on the App side while using 2-way audio
-Battery 4G::Audio::Low volume on the camera side when using Two-way audio on Android devices
-Battery 4G::Audio::Speaker no sound output
-Battery 4G::Audio::Two-way audio with echo/noise
-Battery 4G::Battery::Battery problem (battery lights flash Green and Orange alternately or off)
-Battery 4G::Battery::Camera drains fast
-Battery 4G::Battery::Camera not powered
-Battery 4G::Battery::DC not charging
-Battery 4G::Battery::Inaccurate battery level display
-Battery 4G::Battery::SP not charging
-Battery 4G::Hardware::Charging port(Mirco-B) physically damaged
-Battery 4G::Hardware::Charging port(Type-C) physically damaged
-Battery 4G::Hardware::Day and night mode does not auto switch
-Battery 4G::Hardware::Physical damage to camera itself
-Battery 4G::Hardware::Some IR lights/spotlights are off or dim
-Battery 4G::Hardware::Spotlights automatically switch on/off repeatedly
-Battery 4G::Hardware::Spotlights cannot be turned on
-Battery 4G::Hardware::Unable to reset
-Battery 4G::Hardware::Water or fog in Camera
-Battery 4G::Hardware::When the light comes on, it goes offline
-Battery 4G::Initial setup::(Only for Go)Broadcast “Network connection failed” and cannot be accessed
-Battery 4G::Initial setup::Broadcast "Data call failed"
-Battery 4G::Initial setup::Broadcast “Network connection failed” and cannot be accessed
-Battery 4G::Initial setup::Broadcast “Network connection succeeded” and cannot be accessed
-Battery 4G::Initial setup::Broadcast "Not registered on network. Please activate your SIM card and check the signal strength"
-Battery 4G::Initial setup::Broadcast "The SIM Card Is Locked with a PIN"
-Battery 4G::Initial setup::Camera keeps broadcasting "Camera is starting up. Please wait."
-Battery 4G::Initial setup::Failed to connect to network when using Reolink SIM Card
-Battery 4G::Initial setup::Failed to obtain configuration information
-Battery 4G::Initial setup::SIM card not recognized
-Battery 4G::Network::Cannot access camera after connecting to SP
-Battery 4G::Network::Intermittent connection difficulties(Other SIM Card)
-Battery 4G::Network::Intermittent connection difficulties(Reolink SIM Card)
-Battery 4G::Others::Camera with factory firmware broadcasts Chinese voice and displays abnormal OSD
-Battery 4G::Others::Device automatically reverts to factory settings
-Battery 4G::Others::Device restarts automatically
-Battery 4G::Others::Firmware upgrade failed
-Battery 4G::Others::Incorrect Time/Date on Screen
-Battery 4G::Others::PTZ/spotlight/two-way voice/Audio cannot be turned on/off
-Battery 4G::Others::QR code is invalid
-Battery 4G::Others::SIM card or SD card slot problem
-Battery 4G::Others::Some configurations did not persist after saving
-Battery 4G::Others::Status light flashes red and blue alternately/log has I2C exception field
-Battery 4G::Others::UID tag missing
-Battery 4G::Others::Video can not be uploaded to Drive
-Battery 4G::Playback::Playback page video cannot be loaded
-Battery 4G::Playback::Recordings loaded successfully but failed to playback
-Battery 4G::Preview::Can't load the preview screen
-Battery 4G::Preview::Fixed-lens camera image is out of focus
-Battery 4G::Preview::Image color cast/Night vision screen is completely black
-Battery 4G::Preview::Image is flashing or flicking
-Battery 4G::Preview::Image is ghosting or smearing
-Battery 4G::Preview::Image overexposure
-Battery 4G::Preview::Image pixilation
-Battery 4G::Preview::Image stitching issue
-Battery 4G::Preview::Inconsistent brightness between the two lenses
-Battery 4G::Preview::IR light is abnormal
-Battery 4G::Preview::IR lights don't light up during the night
-Battery 4G::Preview::Live view has lines or black dots
-Battery 4G::Preview::Microphone doesn't work/No sound in preview & playback
-Battery 4G::Preview::Night Vision Reflective
-Battery 4G::Preview::No picture in preview
-Battery 4G::Preview::Preview delay/Freezes
-Battery 4G::Preview::Unable to preview the main stream
-Battery 4G::PTZ::Monitor point/preset point deviation
-Battery 4G::PTZ::PT angle becomes smaller
-Battery 4G::PTZ::PT no response
-Battery 4G::PTZ::Self-test stuck/camera makes noise when using PTZ feature
-Battery 4G::PTZ::The camera gets disconnected once using the PTZ feature
-Battery 4G::SD card::Camera not recording to SD card
-Battery 4G::SD card::Camera stops recording when SD card is full
-Battery 4G::SD card::Continuous recording failed
-Battery 4G::SD card::Motion-based recording failed
-Battery 4G::SD card::SD card cannot be formatted
-Battery 4G::SD card::SD card not recognized
+read this --->" description: Camera identifies motion as Person/Vehicle/Animal type. If the motion is not recognized as Person/Vehicle/Animal based on the video type or Smart detection tool analysis, select【Smart detection doesn't work】SOP.
+description: The camera can pan and tilt but fails to track. Any situation where the camera is initially tracking a target but stops or fails to continue tracking applies to this SOP"
+>Battery 4G::Alert::Auto tracking doesn't work properly
+
+read this --->"description:cEmail image attachment/first frame of email video attachment/first frame of SD card recording is overexposed. Request for pictures/videos for verification
+description: Issue only happens during the nighttime, and works fine during the daytime"
+>Battery 4G::Alert::Email image attachment/first frame of email video attachment/SD card recording is overexposed during night time (only for AI models)
+
+read this --->""
+>Battery 4G::Alert::Email image attachment/first frame of email video attachment/SD card recording is overexposed during the day (only for AI models)
+
+read this --->""
+>Battery 4G::Alert::Non-Detection Area Smart detection False alert
+
+read this --->""
+>Battery 4G::Alert::PIR doesn't work occassionally/alarm delay/detection distance is short
+
+read this --->""
+>Battery 4G::Alert::PIR False Alerts
+
+read this --->""
+>Battery 4G::Alert::PIR sensor doesn't work
+
+read this --->""
+>Battery 4G::Alert::Pixelated image/video in the Email attachment
+
+read this --->""
+>Battery 4G::Alert::Smart detection doesn't work
+
+read this --->""
+>Battery 4G::Alert::Smart detection False Alerts
+
+read this --->""
+>Battery 4G::Alert::The first frame of email pictures/videos is too dark (only for AI models)
+
+read this --->""
+>Battery 4G::Audio::Audio Noise
+
+read this --->""
+>Battery 4G::Audio::Low sound on the App side while using 2-way audio
+
+read this --->""
+>Battery 4G::Audio::Low volume on the camera side when using Two-way audio on Android devices
+
+read this --->""
+>Battery 4G::Audio::Speaker no sound output
+
+read this --->""
+>Battery 4G::Audio::Two-way audio with echo/noise
+
+read this --->""
+>Battery 4G::Battery::Battery problem (battery lights flash Green and Orange alternately or off)
+
+read this --->""
+>Battery 4G::Battery::Camera drains fast
+
+read this --->""
+>Battery 4G::Battery::Camera not powered
+
+read this --->""
+>Battery 4G::Battery::DC not charging
+
+read this --->""
+>Battery 4G::Battery::Inaccurate battery level display
+
+read this --->""
+>Battery 4G::Battery::SP not charging
+
+read this --->""
+>Battery 4G::Hardware::Charging port(Mirco-B) physically damaged
+
+read this --->""
+>Battery 4G::Hardware::Charging port(Type-C) physically damaged
+
+read this --->""
+>Battery 4G::Hardware::Day and night mode does not auto switch
+
+read this --->""
+>Battery 4G::Hardware::Physical damage to camera itself
+
+read this --->""
+>Battery 4G::Hardware::Some IR lights/spotlights are off or dim
+
+read this --->""
+>Battery 4G::Hardware::Spotlights automatically switch on/off repeatedly
+
+read this --->""
+>Battery 4G::Hardware::Spotlights cannot be turned on
+
+read this --->""
+>Battery 4G::Hardware::Unable to reset
+
+read this --->""
+>Battery 4G::Hardware::Water or fog in Camera
+
+read this --->""
+>Battery 4G::Hardware::When the light comes on, it goes offline
+
+read this --->""
+>Battery 4G::Initial setup::(Only for Go)Broadcast “Network connection failed” and cannot be accessed
+
+read this --->""
+>Battery 4G::Initial setup::Broadcast "Data call failed"
+
+read this --->""
+>Battery 4G::Initial setup::Broadcast “Network connection failed” and cannot be accessed
+
+read this --->""
+>Battery 4G::Initial setup::Broadcast “Network connection succeeded” and cannot be accessed
+
+read this --->""
+>Battery 4G::Initial setup::Broadcast "Not registered on network. Please activate your SIM card and check the signal strength"
+
+read this --->""
+>Battery 4G::Initial setup::Broadcast "The SIM Card Is Locked with a PIN"
+
+read this --->""
+>Battery 4G::Initial setup::Camera keeps broadcasting "Camera is starting up. Please wait."
+
+read this --->""
+>Battery 4G::Initial setup::Failed to connect to network when using Reolink SIM Card
+
+read this --->""
+>Battery 4G::Initial setup::Failed to obtain configuration information
+
+read this --->""
+>Battery 4G::Initial setup::SIM card not recognized
+
+read this --->""
+>Battery 4G::Network::Cannot access camera after connecting to SP
+
+read this --->""
+>Battery 4G::Network::Intermittent connection difficulties(Other SIM Card)
+
+read this --->""
+>Battery 4G::Network::Intermittent connection difficulties(Reolink SIM Card)
+
+read this --->""
+>Battery 4G::Others::Camera with factory firmware broadcasts Chinese voice and displays abnormal OSD
+
+read this --->""
+>Battery 4G::Others::Device automatically reverts to factory settings
+
+read this --->""
+>Battery 4G::Others::Device restarts automatically
+
+read this --->""
+>Battery 4G::Others::Firmware upgrade failed
+
+read this --->""
+>Battery 4G::Others::Incorrect Time/Date on Screen
+
+read this --->""
+>Battery 4G::Others::PTZ/spotlight/two-way voice/Audio cannot be turned on/off
+
+read this --->""
+>Battery 4G::Others::QR code is invalid
+
+read this --->""
+>Battery 4G::Others::SIM card or SD card slot problem
+
+read this --->""
+>Battery 4G::Others::Some configurations did not persist after saving
+
+read this --->""
+>Battery 4G::Others::Status light flashes red and blue alternately/log has I2C exception field
+
+read this --->""
+>Battery 4G::Others::UID tag missing
+
+read this --->""
+>Battery 4G::Others::Video can not be uploaded to Drive
+
+read this --->""
+>Battery 4G::Playback::Playback page video cannot be loaded
+
+read this --->""
+>Battery 4G::Playback::Recordings loaded successfully but failed to playback
+
+read this --->""
+>Battery 4G::Preview::Can't load the preview screen
+
+read this --->""
+>Battery 4G::Preview::Fixed-lens camera image is out of focus
+
+read this --->""
+>Battery 4G::Preview::Image color cast/Night vision screen is completely black
+
+read this --->""
+>Battery 4G::Preview::Image is flashing or flicking
+
+read this --->""
+>Battery 4G::Preview::Image is ghosting or smearing
+
+read this --->""
+>Battery 4G::Preview::Image overexposure
+
+read this --->""
+>Battery 4G::Preview::Image pixilation
+
+read this --->""
+>Battery 4G::Preview::Image stitching issue
+
+read this --->""
+>Battery 4G::Preview::Inconsistent brightness between the two lenses
+
+read this --->""
+>Battery 4G::Preview::IR light is abnormal
+
+read this --->""
+>Battery 4G::Preview::IR lights don't light up during the night
+
+read this --->""
+>Battery 4G::Preview::Live view has lines or black dots
+
+read this --->""
+>Battery 4G::Preview::Microphone doesn't work/No sound in preview & playback
+
+read this --->""
+>Battery 4G::Preview::Night Vision Reflective
+
+read this --->""
+>Battery 4G::Preview::No picture in preview
+
+read this --->""
+>Battery 4G::Preview::Preview delay/Freezes
+
+read this --->""
+>Battery 4G::Preview::Unable to preview the main stream
+
+read this --->""
+>Battery 4G::PTZ::Monitor point/preset point deviation
+
+read this --->""
+>Battery 4G::PTZ::PT angle becomes smaller
+
+read this --->""
+>Battery 4G::PTZ::PT no response
+
+read this --->""
+>Battery 4G::PTZ::Self-test stuck/camera makes noise when using PTZ feature
+
+read this --->""
+>Battery 4G::PTZ::The camera gets disconnected once using the PTZ feature
+
+read this --->""
+>Battery 4G::SD card::Camera not recording to SD card
+
+read this --->""
+>Battery 4G::SD card::Camera stops recording when SD card is full
+
+read this --->""
+>Battery 4G::SD card::Continuous recording failed
+
+read this --->""
+>Battery 4G::SD card::Motion-based recording failed
+
+read this --->""
+>Battery 4G::SD card::SD card cannot be formatted
+
+read this --->""
+>Battery 4G::SD card::SD card not recognized

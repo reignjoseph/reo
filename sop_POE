@@ -1,0 +1,79 @@
+PoE::Alert::Auto tracking doesn't work properly
+PoE::Alert::Motion Detection doesn't work occassionally
+PoE::Alert::Motion Detection False Alerts
+PoE::Alert::Motion Track doesn't work
+PoE::Alert::No attachment for Email Alerts
+PoE::Alert::Non-Detection Area Smart detection False alert
+PoE::Alert::Smart detection doesn't work
+PoE::Alert::Smart detection False Alerts
+PoE::Audio::Audio Noise
+PoE::Audio::Low sound on the App side while using 2-way audio
+PoE::Audio::Low volume on the camera side when using Two-way audio on Android devices
+PoE::Audio::Speaker no sound output
+PoE::Audio::Two-way audio with echo/noise
+PoE::Firmware and others::Camera with factory firmware broadcasts Chinese voice and displays abnormal OSD
+PoE::Firmware and others::Device automatically reverts to factory settings
+PoE::Firmware and others::Device restarts automatically
+PoE::Firmware and others::Doorbell is noisy/vibrating/there is no sound until the doorbell is pressed several times
+PoE::Firmware and others::Firmware upgrade failed
+PoE::Firmware and others::Firmware upgrade failed (transmission timed out)
+PoE::Firmware and others::Incorrect Time/Date on Screen
+PoE::Firmware and others::PTZ/spotlight/two-way voice/Audio cannot be turned on/off
+PoE::Firmware and others::QR code is invalid
+PoE::Firmware and others::SIM card or SD card slot problem
+PoE::Firmware and others::Software reports latest version despite new firmware release online
+PoE::Firmware and others::Some configurations did not persist after saving
+PoE::Firmware and others::UID tag missing
+PoE::Hardware::Camera not powered
+PoE::Hardware::Day and night mode does not auto switch
+PoE::Hardware::Dome camera cannot adjust lens angle
+PoE::Hardware::Doorbell button stuck
+PoE::Hardware::Physical damage to camera itself
+PoE::Hardware::Some IR lights/spotlights are off or dim
+PoE::Hardware::Spotlights automatically switch on/off repeatedly
+PoE::Hardware::Spotlights cannot be turned on
+PoE::Hardware::Unable to reset
+PoE::Hardware::Water or fog in Camera
+PoE::Hardware::When the light comes on, it goes offline
+PoE::Initial setup::Failed to obtain configuration information
+PoE::Initial setup::Incorrect username and password/Authentication failed/Ask for a password even after reset
+PoE::Initial setup::Wired connection but access failed
+PoE::Network::Accessible in LAN and inaccessible in WAN
+PoE::Network::Cannot connect or stopped connecting (Exclusive to Duo 3 PoE)
+PoE::Network::Connection is difficult or drops intermittently
+PoE::Network::Inaccessible in LAN and accessible in WAN
+PoE::Playback::Playback page video cannot be loaded
+PoE::Playback::Recordings loaded successfully but failed to playback
+PoE::Preview::Can't load the preview screen
+PoE::Preview::E1 series IR lights switch on/off repeatedly (only for AI models)
+PoE::Preview::Fixed-lens camera image is out of focus
+PoE::Preview::Image color cast/Night vision screen is completely black
+PoE::Preview::Image is flashing or flicking
+PoE::Preview::Image is ghosting or smearing
+PoE::Preview::Image overexposure
+PoE::Preview::Image pixilation
+PoE::Preview::Image quality is poor (Exclusive to Duo 3 PoE)
+PoE::Preview::Image stitching issue
+PoE::Preview::Inconsistent brightness between the two lenses
+PoE::Preview::IR light is abnormal
+PoE::Preview::IR lights don't light up during the night
+PoE::Preview::Live view has lines or black dots
+PoE::Preview::Microphone doesn't work/No sound in preview & playback
+PoE::Preview::Night Vision Reflective
+PoE::Preview::No picture in preview
+PoE::Preview::Preview Delay/Freezes
+PoE::Preview::Unable to preview the main stream
+PoE::Preview::Vertical angle of view is narrow (Exclusive to Duo 3 PoE)
+PoE::Preview::Zoom camera image is out of focus (with attempt to focus)
+PoE::Preview::Zoom camera image is out of focus (without attempt to focus)
+PoE::PTZ::Monitor point/preset point deviation
+PoE::PTZ::PT angle becomes smaller
+PoE::PTZ::PT no response
+PoE::PTZ::Self-test stuck/camera makes noise when using PTZ feature
+PoE::PTZ::The camera gets disconnected once using the PTZ feature
+PoE::SD card::Camera not recording to SD card
+PoE::SD card::Camera stops recording when SD card is full
+PoE::SD card::Continuous recording failed
+PoE::SD card::Motion-based recording failed
+PoE::SD card::SD card cannot be formatted
+PoE::SD card::SD card not recognized

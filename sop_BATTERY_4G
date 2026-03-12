@@ -2,119 +2,132 @@ read this --->" description: Camera identifies motion as Person/Vehicle/Animal t
 description: The camera can pan and tilt but fails to track. Any situation where the camera is initially tracking a target but stops or fails to continue tracking applies to this SOP"
 >Battery 4G::Alert::Auto tracking doesn't work properly
 
-read this --->"description:cEmail image attachment/first frame of email video attachment/first frame of SD card recording is overexposed. Request for pictures/videos for verification
+read this --->"description: Email image attachment/first frame of email video attachment/first frame of SD card recording is overexposed. Request for pictures/videos for verification
 description: Issue only happens during the nighttime, and works fine during the daytime"
 >Battery 4G::Alert::Email image attachment/first frame of email video attachment/SD card recording is overexposed during night time (only for AI models)
 
-read this --->""
+read this --->"description: Email image attachment/first frame of email video attachment/first frame of SD card recording is overexposed. Request for pictures/videos for verification"
 >Battery 4G::Alert::Email image attachment/first frame of email video attachment/SD card recording is overexposed during the day (only for AI models)
 
-read this --->""
+read this --->"description: Moving person/vehicle/pet in the non-detection zone make the camera to record/send notifications/send email/auto-track/turn on the spotlights"
 >Battery 4G::Alert::Non-Detection Area Smart detection False alert
 
-read this --->""
+read this --->"description: If one of the following conditions is met, PIR underreporting. 1.The target is almost out of the drawing camera before the video recording begins 2.There is movement in front of the camera, sometimes the alarm push cannot be received or there is no relevant alarm video or the alarm email is not received or the siren does not ring 3.The PIR detection distance is short"
 >Battery 4G::Alert::PIR doesn't work occassionally/alarm delay/detection distance is short
 
-read this --->""
+read this --->"description: There is no obvious movement in detection zone, but the camera still record or do other alerts. Request for video from customer for verification"
 >Battery 4G::Alert::PIR False Alerts
 
-read this --->""
+read this --->"description: There is movement in front of the camera, but the camera doesn't report at all"
 >Battery 4G::Alert::PIR sensor doesn't work
 
-read this --->""
+read this --->"description: Email image attachment/first frame of email recording is too dark"
 >Battery 4G::Alert::Pixelated image/video in the Email attachment
 
-read this --->""
+read this --->"description: One of the following conditions is missing detection of smart detection 1.A person/vehicle/pet passing by, but no corresponding alarm such as Push/Email/Siren/Record/FTP/Spotlight. 2.Person/vehicle/pet appears in continuous recording/Any Motion, but these recordings don't appear after using the filter feature. (Only suitable for Battery-free cameras)"
 >Battery 4G::Alert::Smart detection doesn't work
 
-read this --->""
+read this --->"description: Receive a person/vehicle/pet alarm but there is no corresponding moving target in the email photo or recordings"
 >Battery 4G::Alert::Smart detection False Alerts
 
-read this --->""
+read this --->"description: Email image attachment/first frame of email recording is too dark"
 >Battery 4G::Alert::The first frame of email pictures/videos is too dark (only for AI models)
 
-read this --->""
+read this --->"description: Preview and playback with humming sound/current noise/sound like water. Request for video from customer for verification
+description:The phone/computer can play other multimedia sounds properly"
 >Battery 4G::Audio::Audio Noise
 
-read this --->""
+read this --->"description: When using the app for two-way audio, the person using the app can barely hear the voice transmitted from the camera. Request video for verification
+description: This problem exists on both mobile Phone App and PC Client software"
 >Battery 4G::Audio::Low sound on the App side while using 2-way audio
 
-read this --->""
+read this --->"description: When using the two-way audio feature on the Android App, from the App the sound from the camera can be heard, the sound from the camera is low or almost inaudible. Request for videos for verification
+description: This problem exists on both mobile Phone App and PC Client software"
 >Battery 4G::Audio::Low volume on the camera side when using Two-way audio on Android devices
 
-read this --->""
+read this --->"description: No sound output from the camera when the customer uses the two-way audio.
+description: No sound when manually triggering the siren. How to Manually Trigger the Siren of your Camera"
 >Battery 4G::Audio::Speaker no sound output
 
-read this --->""
+read this --->"description: There is no noise while previewing.
+description: Two-way audio with echo/noise. Request for video for verification"
 >Battery 4G::Audio::Two-way audio with echo/noise
 
-read this --->""
+read this --->"description: Battery issue matches any of the following criteria. 1.When the camera is connected to the DC adapter, the battery LED flashes orange and green alternately. 2.Camera can be turned on when the DC adapter is connected, and it will be turned off immediately when the adapter is unplugged. 3.When the camera is connected to the DC adapter, the battery LED is off. Request for pictures/videos from customer for verification"
 >Battery 4G::Battery::Battery problem (battery lights flash Green and Orange alternately or off)
 
-read this --->""
+read this --->"description: One of the following criteria is met. 1. Battery drains quickly after being fully charged with an adapter (1-2 days). 2. Find events.9, current-exception after using the UID to check the camera in the log system (not applicable for CC now)"
 >Battery 4G::Battery::Camera drains fast
 
-read this --->""
+read this --->"description: The battery camera shows no response (no LED and voice prompt) when powering on/off or resetting."
 >Battery 4G::Battery::Camera not powered
 
-read this --->""
+read this --->"description: When the temperature is above 0°C, using a DC adapter to charge the camera may result in the battery level stopping at a certain value below 90%, or the battery level may not increase at all.
+description: The camera can still be powered on or accessed and the battery level has not increased on the App. Otherwise, turn to SOP [camera not powered on]"
 >Battery 4G::Battery::DC not charging
 
-read this --->""
+read this --->"description: The battery level displayed in the app does not match the user’s actual experience. This includes, but is not limited to: 1.The camera is continuously in use, but the battery level remains at 100%. 2.Once the battery level drops to a certain value higher than 10% (e.g., 70%), the camera suddenly powers off"
 >Battery 4G::Battery::Inaccurate battery level display
 
-read this --->""
+read this --->"description: The camera can be charged with a DC power, but not with a solar panel."
 >Battery 4G::Battery::SP not charging
 
-read this --->""
+read this --->"description: Confirm whether the camera's charging port is Type-C or Micro-B. 1.USB Type-C is oval-shaped and the same on both sides, so you can plug it in either way—no need to check the direction.. 2.USB Micro-B is smaller and has a flat top with a curved bottom, meaning you have to plug it in a specific way—it won’t fit if flipped.
+description: Charging port is melt or burnt, broken, loose, deformed, completely detached, corroded. 1.Request for picture for verification. 2.If the charging port in the image does not match the SOP, please select the SOP again:. a.Charging port(Type-C) physically damaged. b.Charging port(Mirco-B) physically damaged"
 >Battery 4G::Hardware::Charging port(Mirco-B) physically damaged
 
-read this --->""
+read this --->"description: Confirm whether the camera's charging port is Type-C or Micro-B. 1.USB Type-C is oval-shaped and the same on both sides, so you can plug it in either way—no need to check the direction.. 2.USB Micro-B is smaller and has a flat top with a curved bottom, meaning you have to plug it in a specific way—it won’t fit if flipped.
+description: Charging port is melt or burnt, broken, loose, deformed, completely detached, corroded. 1.Request for picture for verification. 2.If the charging port in the image does not match the SOP, please select the SOP again:. a.Charging port(Type-C) physically damaged. b.Charging port(Mirco-B) physically damaged"
 >Battery 4G::Hardware::Charging port(Type-C) physically damaged
 
-read this --->""
+read this --->"description: The camera(with IR lights) remains in either color or black-and-white and cannot switch properly. Collect images for confirmation”.  Camera Image Problems"
 >Battery 4G::Hardware::Day and night mode does not auto switch
 
-read this --->""
+read this --->"description: Camera's own physical damage. 1.Such as lens cracking, tail cables (network port/dc cord/reset cord) is damaged, external casing damage, insects entering the lens interior, internal antenna detachment, emitting a burnt smell and producing smoke, camera body surface shows oil leakage, etc.. 2.Request for video pictures/videos for verification."
 >Battery 4G::Hardware::Physical damage to camera itself
 
-read this --->""
+read this --->"description: Request images of partially non-illuminated or dim IR LEDs/spotlights"
 >Battery 4G::Hardware::Some IR lights/spotlights are off or dim
 
-read this --->""
+read this --->"description: Spotlights keep switching on and off automotically. Request for video for verification"
 >Battery 4G::Hardware::Spotlights automatically switch on/off repeatedly
 
-read this --->""
+read this --->"description: The spotlight doesn't turn on when. 1.The alarm is triggered(for all models, except 823S2) or. 2.Being previewed at night(battery-powered camera only)
+description: Camera supports spotlight. Which Cameras Support the Spotlight"
 >Battery 4G::Hardware::Spotlights cannot be turned on
 
-read this --->""
+read this --->"description: The device cannot be successfully reset by pressing the reset button when it is powered on.. 1.Device with Speaker: Check if there is a sound prompt when pressing the Reset button. If there is no prompt, the reset may not have taken effect.. 2.Login Status: If the camera still requires the original password after reset, the reset was not successful."
 >Battery 4G::Hardware::Unable to reset
 
-read this --->""
+read this --->"description: Water has entered the camera, such as water entering the lens, body, tail cable, or the lens has obvious water mist or drops. Request for pictures/videos for verification; if lens pictures cannot be provided, preview images can be provided to assist verification. "
 >Battery 4G::Hardware::Water or fog in Camera
 
-read this --->""
+read this --->"description: Camera disconnects once the spotlights/IR lights turn on
+description: Please help check if the issue is related to the device or stream type by switching Wi-Fi/cellular, changing live stream modes, or testing on different platforms (App, Client, web, or NVR monitor).. 1.Have already tried to switch wifi/cellular data on phone/pc, live stream mode (Clear/Fluent) but still does not work. 2.Same issue on different software (App/Client/web/NVR monitor). *Battery-powered camera does not support web/NVR "
 >Battery 4G::Hardware::When the light comes on, it goes offline
 
-read this --->""
+read this --->"description: After installing the SIM card, the camera broadcasts “Network connection failed”. And the camera can't be accessed by the Reolink App or client.. If the camera is Reolink Go, please turn to SOP [(Only for Go)Broadcast “Network connection failed” and cannot be accessed]"
 >Battery 4G::Initial setup::(Only for Go)Broadcast “Network connection failed” and cannot be accessed
 
-read this --->""
+read this --->"description: Camera broadcasts "Data call failed. Please confirm your cellular data plan is available or import the APN settings.
+description: If the customer is using a Reolink SIM card, please refer to SOP [Battery 4G::Initial setup::Failed to connect to network when using Reolink SIM Card]"
 >Battery 4G::Initial setup::Broadcast "Data call failed"
 
-read this --->""
+read this --->"description: After installing the SIM card, the camera broadcasts “Network connection failed”. And the camera can't be accessed by the Reolink App or client.. If the camera is Reolink Go, please turn to SOP [(Only for Go)Broadcast “Network connection failed” and cannot be accessed]"
 >Battery 4G::Initial setup::Broadcast “Network connection failed” and cannot be accessed
 
-read this --->""
+read this --->"description: Get "Connection failed" error after the camera broadcast "network connection succeed""
 >Battery 4G::Initial setup::Broadcast “Network connection succeeded” and cannot be accessed
 
-read this --->""
+read this --->"description: After inserting the SIM card, the camera prompts the content below.“Not registered on network. Please activate your SIM card and check the signal strength.”
+description: If the customer is using a Reolink SIM card, please refer to SOP [Battery 4G::Initial setup::Failed to connect to network when using Reolink SIM Card]
+description: Confirm the time when the problem occurred.Ask the customer: "Please let us know which of the following best describes your situation:.1.The camera is new and has never worked since you bought it..2.The camera worked for a while (a week or several years) but has recently stopped working.".If it is scenario 1, and the issue remains unresolved after completing the SOP, escalate to the RMA team with a note: "Advise offering alternative solutions other than replacement(Refund or exchange for non-LTE models).".If it is scenario 2, you can skip all S steps and start troubleshooting from the T steps. If the issue remains unresolved after completing the SOP, escalate to the RMA team with a note: "Replacement.""
 >Battery 4G::Initial setup::Broadcast "Not registered on network. Please activate your SIM card and check the signal strength"
 
-read this --->""
+read this --->"description: After inserting the SIM card into the camera, the camera announces, "The SIM card is locked with a PIN.""
 >Battery 4G::Initial setup::Broadcast "The SIM Card Is Locked with a PIN"
 
-read this --->""
+read this --->"description: After installing the SIM card, the camera keeps broadcasting "Camera is starting up. Please wait""
 >Battery 4G::Initial setup::Camera keeps broadcasting "Camera is starting up. Please wait."
 
 read this --->""

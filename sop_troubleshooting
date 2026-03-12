@@ -1,598 +1,593 @@
 "PLEASE KINDLY SELECT SOP TYPE FOR THIS CUSTOMER CONCERNS CLEARLY UNDERSTAND EACH SENTENCE. PROVIDE ACCURATE SOP REALTED. IF POSSIBLE YOU MAY PUT ARTICLES FROM REOLINK. , USE 100X TO THINK BEFORE ANSWERING"
 
-Battery 4G::Initial setup::Failed to connect to network when using Reolink SIM Card
-Troubleshooting
-Battery WIFI::Network::Inaccessible in LAN and accessible in WAN
-DC WIFI::Network::Inaccessible in LAN and accessible in WAN
-PoE::Network::Inaccessible in LAN and accessible in WAN
-NVR::Network::Inaccessible in LAN and accessible in WAN
-Home Hub::Network::Inaccessible in LAN and accessible in WAN
-Reolink Software::App::Specific Device Access Issue
-Reolink Software::Client::Specific Device Access Issue
-NVR::Firmware and others::IP conflict of cameras directly connected to the NVR
-Home Hub::Firmware and others::Camera drains battery quickly after being added to the Hub
-Home Hub::Firmware and others::Camera prompts "The device does not support connection to Home Hub."
-Battery WIFI::Hardware::Water or fog in Camera
-Battery 4G::Hardware::Water or fog in Camera
-DC 4G::Hardware::Water or fog in Camera
-Home Hub::Firmware and others::Camera prompts "Low firmware version "
-Advanced Features::Smart Home::No notification or auto live stream on Alexa device when Doorbell detects motion
-NVR::Firmware and others::NVR automatically restarts (no directly-connected camera)
-DC WIFI::Hardware::Some IR lights/spotlights are off or dim
-DC 4G::Hardware::Some IR lights/spotlights are off or dim
-DC WIFI::Hardware::Water or fog in Camera
-NVR::Connection:: PoE camera disconnects randomly in NVR (not directly connected via Ethernet cable)
-PoE::Hardware::Water or fog in Camera
-Home Hub::Network::Not connected to the Network/Internet
-NVR::Connection::PoE camera cannot be successfully added to NVR
-NVR::Monitor::NVR no output
-NVR::Monitor::NVR stuck at boot logo
-NVR::Firmware and others::Firmware upgrade failed
-Home Hub::Hardware::Hub not powered on
-Battery WIFI::Preview::Can't load the preview screen
-DC WIFI::Preview::Can't load the preview screen
-PoE::Preview::Can't load the preview screen
-DC WIFI::Preview::IR light is abnormal
-Battery WIFI::Hardware::When the light comes on, it goes offline
-DC WIFI::Hardware::When the light comes on, it goes offline
-PoE::Hardware::When the light comes on, it goes offline
-Battery 4G::Hardware::When the light comes on, it goes offline
-Battery 4G::Preview::Image pixilation
-PoE::Preview::Image pixilation
-Battery WIFI::Preview::Image pixilation
-DC WIFI::Preview::Image pixilation
-NVR::Playback::Recordings loaded successfully but failed to playback via the monitor connected to the NVR
-NVR::Playback::Playback page video cannot be loaded
-NVR::Connection::DC WiFi camera cannot be successfully added to NVR
-NVR::Firmware and others::Fail to load NVR configuration
-Battery 4G::Preview::Can't load the preview screen
-DC 4G::Preview::Can't load the preview screen
-Reolink Software::App::Push cannot be enabled or test failed
-Battery WIFI::Others::Firmware upgrade failed
-Battery 4G::Others::Firmware upgrade failed
-Reolink Software::App::General Bug
-NVR::HDD::Third-Party HDD not record
-NVR::HDD::Third-Party HDD shows 0GB
-Home Hub::HDD::Third-Party HDD not recognized
-NVR::HDD::Third-Party HDD not recognized
-Home Hub::HDD::Home Hub Pro HDD cannot be formatted
-NVR::Connection::Random PoE camera disconnects randomly in NVR (directly connected via Ethernet cable)
-NVR::Firmware and others::NVR automatically restarts (with directly-connected camera)
-NVR::Connection::WiFi cameras has poor connection on WiFi NVR (Camera connected to NVR's WiFi)
-Home Hub::HDD::Third-Party HDD not record
-NVR::HDD::Original HDD cannot be formatted/failed to format
-NVR::HDD::Original HDD shows 0GB
-NVR::HDD::Original HDD not record
-Home Hub::HDD::Original HDD not recognized
-NVR::HDD::Original HDD not recognized
-Home Hub::HDD::Original HDD not record
-DC 4G::Hardware::Camera not powered
-DC WIFI::PTZ::The camera gets disconnected once using the PTZ feature
-NVR::Hardware::NVR not powered
-DC WIFI::Preview::Unable to preview the main stream
-DC WIFI::Hardware::Camera not powered
-NVR::Network::WAN connection failed (intermittent)
-DC WIFI::Network::WAN connection failed (intermittent)
-NVR::Network::WAN connection failed (non-intermittent)
-Home Hub::Network::Accessible in LAN and inaccessible in WAN
-NVR::Network::NVR is not connected to the network (LAN port light is ON)
-DC WIFI::Network::Accessible in LAN and inaccessible in WAN
-Battery WIFI::Network::Accessible in LAN and inaccessible in WAN
-PoE::Network::Accessible in LAN and inaccessible in WAN
-Accessories::Floodlight::Floodlight WiFi blinks when turning on
-Home Hub::Network::WAN connection failed (intermittent)
-Reolink Software::App::Cannot receive Push
-PoE::Network::Connection is difficult or drops intermittently
-Battery WIFI::Network::Intermittent connectivity issue (The camera remains online but often unreachable)
-Battery WIFI::Preview::Unable to preview the main stream
-PoE::Initial setup::Wired connection but access failed
-DC WIFI::Initial setup::Wired connection but access failed (For cameras with Ethernet port)
-NVR::Network::NVR is not connected to the network (LAN port light is OFF)
-PoE::Preview::Unable to preview the main stream
-Reolink Software::App::Push received but no Push sound
-Advanced Features::Cloud::Failed to load Cloud interface on the App
-Reolink Software::App::cannot preview the main stream via app
-NVR::Playback::Recordings loaded successfully but failed to playback via the Reolink app/client
-Battery WIFI::Preview::Preview Delay/Freezes
-DC WIFI::Preview::Preview Delay/Freezes
-PoE::Preview::Preview Delay/Freezes
-Battery WIFI::Others::Some configurations did not persist after saving
-PoE::Firmware and others::Some configurations did not persist after saving
-DC WIFI::Firmware and others::Some configurations did not persist after saving
-Battery 4G::Preview::Unable to preview the main stream
-Battery 4G::Preview::Preview delay/Freezes
-DC 4G::Preview::Preview delay/Freezes
-NVR::Connection::Battery camera cannot be successfully added to NVR
-NVR::Connection::Specific PoE cameras are randomly disconnected in NVR (directly connected via Ethernet cable)
-PoE::Alert::Motion Track doesn't work
-Reolink Software::Client::Fail to download time lapse videos
-Home Hub::Connection::Cameras has poor connection on Home Hub
-NVR::Firmware and others::Some configurations did not persist after saving
-Battery 4G::Others::Some configurations did not persist after saving
-Reolink Software::App::Failed to load/missing/unexpected configurations
-Reolink Software::Client::Failed to load/missing/unexpected configurations
-Battery 4G::Playback::Recordings loaded successfully but failed to playback
-DC WIFI::Playback::Recordings loaded successfully but failed to playback
-Battery WIFI::Playback::Recordings loaded successfully but failed to playback
-PoE::Playback::Recordings loaded successfully but failed to playback
-PoE::Preview::No picture in preview
-DC WIFI::Preview::No picture in preview
-Battery WIFI::Preview::no picture in preview
-Battery 4G::Preview::No picture in preview
-Reolink Software::Client::8.10.X and above client function buttons disappear or do not take effect
-Reolink Software::Client::8.10.X or above client preview with sound but no picture/Live view loading failed
-Reolink Software::Client::JavaScript Error: Win 32 error 126 when installing the V8.10.X or above client
-Reolink Software::Client::General Bug
-Home Hub::Firmware and others::Doorbell camera unable to pair with Reolink Chime settings after adding to Home Hub
-Reolink Software::Client::Fail to download recordings form SD card/HDD via the client
-Reolink Software::Client::The delay increases after the client runs for a long time
-Reolink Software::App::"Sorry, this service is not available in your area."
-Reolink Software::Client::Client crashes/entire screen black screen
-Home Hub::SD card::Camera not recording to SD card
-Battery 4G::Audio::Two-way audio with echo/noise
-Battery WIFI::Audio::Two-way audio with echo/noise
-DC WIFI::Audio::Two-way audio with echo/noise
-PoE::Audio::Two-way audio with echo/noise
-Home Hub::Connection::Camera cannot be added to Home Hub with error "Device and Home Hub Connection Failed"
-Battery 4G::Preview::Night Vision Reflective
-PoE::Preview::Night Vision Reflective
-Battery WIFI::Preview::Night Vision Reflective
-DC WIFI::Preview::Night Vision Reflective
-Price & Discount::Price differences over different periods
-DC 4G::Others::UID tag missing
-Battery WIFI::Others::UID tag missing
-DC WIFI::Firmware and others::UID tag missing
-PoE::Firmware and others::UID tag missing
-Battery 4G::Others::UID tag missing
-Home Hub::Firmware and others::UID tag missing
-NVR::Firmware and others::UID tag missing
-Battery WIFI::Network::Intermittent offline issue (The camera goes offline on its own)
-Battery WIFI::Initial setup::Voice Broadcast Router connected successfully but access failed
-DC WIFI::Initial setup::Voice Broadcast Router connected successfully but access failed
-Battery WIFI::Initial setup::Failed to obtain configuration information
-PoE::Initial setup::Failed to obtain configuration information
-DC WIFI::Initial setup::Failed to obtain configuration information
-DC WIFI::Network::Accessible when camera is connected to the router via cable but inaccessible when camera connected via WiFi
-Battery 4G::PTZ::The camera gets disconnected once using the PTZ feature
-Battery WIFI::PTZ::The camera gets disconnected once using the PTZ feature
-DC WIFI::Hardware::Spotlights automatically switch on/off repeatedly
-DC 4G::Preview::Night Vision Reflective
-NVR::Connection::WIFI Camera disconnects randomly on PoE NVR
-Battery WIFI::Network::Camera remains offline after router resumes
-DC WIFI::Network::Camera remains offline after router resumes
-Battery WIFI::Initial setup::Camera failed to scan the WiFi QR code
-DC WIFI::Initial setup::Camera failed to scan the WiFi QR code
-Price & Discount::Coupon not applicable
-DC WIFI::Network::WiFi disconnection/Connection difficulties/Auto restart
-Battery WIFI::Alert::PIR False Alerts
-Battery 4G::Alert::PIR False Alerts
-Battery WIFI::Initial setup::After scanning the WiFi QR code, it prompts that "QR code does not match"
-Battery 4G::Battery::Battery problem (battery lights flash Green and Orange alternately or off)
-Battery WIFI::Battery::Battery problem (battery lights flash Green and Orange alternately or off)
-PoE::Hardware::Camera not powered
-Accessories::Chime::Reolink Chime not powered on
-Battery 4G::Alert::PIR doesn't work occassionally/alarm delay/detection distance is short
-Battery WIFI::Alert::PIR doesn't work occassionally/alarm delay/detection distance is short
-DC WIFI::SD card::SD card cannot be formatted
-DC 4G::SD card::SD card cannot be formatted
-Battery WIFI::SD card::SD card cannot be formatted
-PoE::SD card::SD card cannot be formatted
-Battery 4G::SD card::SD card cannot be formatted
-DC WIFI::SD card::Lumus stops recording or doesn't record at all when using a 256GB or larger SD card
-Home Hub::SD card::SD card cannot be formatted
-DC WIFI::Alert::Non-Detection Area Smart detection False alert
-PoE::Alert::Non-Detection Area Smart detection False alert
-Battery WIFI::Alert::Non-Detection Area Smart detection False alert
-Battery 4G::Alert::Non-Detection Area Smart detection False alert
-Advanced Features::Email::Alarm Email Test Failed: Error Code 485
-Advanced Features::Email::Alarm Email Test Failed: Error Code 484
-Advanced Features::Email::Alarm Email Test Failed: Error Code 483
-Advanced Features::Email::Alarm Email Test Failed: Error Code 482
-Advanced Features::Email::Alarm Email Test Failed: Error Code 481
-Advanced Features::Email::Alarm Email Test Failed:Error Code 480
-Battery WIFI::Alert::No attachment for Email Alerts
-DC 4G::Alert::No attachment for Email Alerts
-Advanced Features::Third Party::Adding and compatibility issues related to Home Assistant
-Advanced Features::Third Party::VLC broadcast camera/NVR stream failed
-Advanced Features::Third Party::Fail to add camera to QNAP
-Advanced Features::Third Party::Fail to add camera to Blue Iris
-Advanced Features::Third Party::Fail to add camera to Synology
-Advanced Features::Third Party::Fail to add Reolink camera to third-party NVR
-Advanced Features::Third Party::Reolink camera not functioning properly on 3rd party NVR
-Advanced Features::Third Party::API/CGI command error
-Advanced Features::Cloud::Camera not listed for cloud binding
-PoE::Preview::Image quality is poor (Exclusive to Duo 3 PoE)
-PoE::Firmware and others::Device restarts automatically
-PoE::Network::Cannot connect or stopped connecting (Exclusive to Duo 3 PoE)
-NVR::Connection::Configure the camera to connect to NVR's 2.4GHz WiFi
-NVR::Connection::WiFi cameras has poor connection on WiFi NVR (Camera connected to router's WiFi)
-PoE::Firmware and others::Doorbell is noisy/vibrating/there is no sound until the doorbell is pressed several times
-DC WIFI::Firmware and others::Doorbell is noisy/vibrating/there is no sound until the doorbell is pressed several times
-PoE::Alert::No attachment for Email Alerts
-DC WIFI::Alert::No attachment for Email Alerts
-Reolink Software::App::Fail to generate timelapse files
-Others::unincluded
-DC 4G::Alert::Motion Detection doesn't work occassionally
-DC WIFI::Alert::Motion Detection doesn't work occassionally
-PoE::Alert::Motion Detection doesn't work occassionally
-PoE::Alert::Smart detection False Alerts
-DC WIFI::Alert::Smart detection False Alerts
-DC 4G::Alert::Smart detection False Alerts
-Battery 4G::Alert::Smart detection False Alerts
-Battery WIFI::Alert::Smart detection False Alerts
-DC WIFI::Network::The camera frequently sends DHCP requests
-NVR::Playback::Event History videos fail to load or show black screen
-PoE::Alert::Auto tracking doesn't work properly
-DC WIFI::Alert::Auto tracking doesn't work properly
-Battery 4G::Alert::Auto tracking doesn't work properly
-Battery WIFI::Alert::Auto tracking doesn't work properly
-DC 4G::Alert::Auto tracking doesn't work properly
-Accessories::WiFi Extender::Failed to extend Reolink Home Hub's WiFi
-Accessories::WiFi Extender::Failed to extend router's WiFi
-Accessories::WiFi Extender::Failed to extend Reolink NVR's WiFi
-Home Hub::Firmware and others::Doorbell (Battery) Quick reply doesn't work after adding to Home Hub
-Advanced Features::Smart Home::Camera does not appear in the Reolink App Smart Home page
-NVR::HDD::Third-Party HDD cannot be formatted/failed to format
-Advanced Features::Smart Home::Doorbell no Announcements settings in Amazon Alexa App
-Advanced Features::Smart Home::Doorbell cannot push notifications to Alexa/Google Device
-Advanced Features::Smart Home::Unable to view stream via Google /Alexa screen devices
-Advanced Features::Smart Home::Alexa/Google App couldn't find the camera
-DC WIFI::Firmware and others::Device automatically reverts to factory settings
-PoE::Firmware and others::Device automatically reverts to factory settings
-Advanced Features::Third Party::Fail to add third party camera to Reolink NVR
-Advanced Features::Third Party::Third-party cameras are not functioning properly on Reolink NVR
-Battery 4G::Battery::SP not charging
-Battery WIFI::Battery::SP not charging
 Accessories::Chime::Reolink Chime can't be paired
-Battery 4G::Alert::Smart detection doesn't work
-Battery WIFI::Alert::Smart detection doesn't work
-Advanced Features::Cloud::Cloud test failed
-Reolink Software::App::Fail to download time lapse videos
-Advanced Features::AI Video Search::Video failed to play or other playback issues
+Accessories::Chime::Reolink Chime not powered on
+Accessories::Chime::Reolink Chime pairs successfully but does not function properly
+Accessories::Floodlight::Floodlight PoE blinks when turning on
+Accessories::Floodlight::Floodlight WiFi blinks when turning on
+Accessories::Others::Damaged accessories
+Accessories::WiFi Extender::Failed to extend Reolink Home Hub's WiFi
+Accessories::WiFi Extender::Failed to extend Reolink NVR's WiFi
+Accessories::WiFi Extender::Failed to extend router's WiFi
 Advanced Features::AI Video Search::Inaccurate/missing/incorrect search results
 Advanced Features::AI Video Search::Slow search response/Failed to load results
-DC WIFI::Initial setup::Initial setup issue (Exclusive to Bluetooth pairing method)
-Reolink Software::App::"Scene setup failed" when attempting to enable Push via Shortcuts
-Reolink Software::App::App adaptation problem on Android tablet/iPad/folding screen
-Battery WIFI::Initial setup::Initial setup issue (Exclusive to Bluetooth pairing method)
-Reolink Software::App::Push was turned off automatically
-Accessories::Floodlight::Floodlight PoE blinks when turning on
-Advanced Features::FTP::FTP picture upload time interval invalid
-Advanced Features::FTP::FTP Error Code:451
+Advanced Features::AI Video Search::Video failed to play or other playback issues
+Advanced Features::Cloud::Camera not listed for cloud binding
+Advanced Features::Cloud::Cloud binding failed
+Advanced Features::Cloud::Cloud panel is missing
+Advanced Features::Cloud::Cloud test failed
+Advanced Features::Cloud::Do not upload cloud video
+Advanced Features::Cloud::Failed to load Cloud interface on the App
+Advanced Features::Cloud::Reolink SIM card can't be activated
+Advanced Features::Cloud::The SIM card plan or add-on data is not in effect
+Advanced Features::Email::Alarm Email Test Failed: Error Code 481
+Advanced Features::Email::Alarm Email Test Failed: Error Code 482
+Advanced Features::Email::Alarm Email Test Failed: Error Code 483
+Advanced Features::Email::Alarm Email Test Failed: Error Code 484
+Advanced Features::Email::Alarm Email Test Failed: Error Code 485
+Advanced Features::Email::Alarm Email Test Failed:Error Code 400
+Advanced Features::Email::Alarm Email Test Failed:Error Code 480
 Advanced Features::FTP::FTP Error Code:450
+Advanced Features::FTP::FTP Error Code:451
 Advanced Features::FTP::FTP Error Code:452/456/457
 Advanced Features::FTP::FTP Error Code:453/454
 Advanced Features::FTP::FTP Error Code:455
-NVR::Monitor::The camera screen on the NVR monitor goes black
+Advanced Features::FTP::FTP picture upload time interval invalid
+Advanced Features::FTP::FTP upload file part 0kb/Do not upload some files
+Advanced Features::FTP::FTP upload files all 0kb/Do not upload files
+Advanced Features::Smart Home::“Failed to obtain configuration information." when entering on Smart Home section
+Advanced Features::Smart Home::Alexa/Google App couldn't find the camera
+Advanced Features::Smart Home::Camera does not appear in the Reolink App Smart Home page
+Advanced Features::Smart Home::Doorbell cannot push notifications to Alexa/Google Device
+Advanced Features::Smart Home::Doorbell no Announcements settings in Amazon Alexa App
+Advanced Features::Smart Home::Failed to enable camera on Reolink App Smart Home page
+Advanced Features::Smart Home::No notification or auto live stream on Alexa device when Doorbell detects motion
+Advanced Features::Smart Home::No notifications or auto live stream on Alexa device when Doorbell is pressed
+Advanced Features::Smart Home::Unable to view camera stream in Google /Alexa App
+Advanced Features::Smart Home::Unable to view stream via Google /Alexa screen devices
 Advanced Features::Third Party::Adding and compatibility issues related to Frigate
-NVR::Firmware and others::Other compatibility issues when camera connected to NVR
+Advanced Features::Third Party::Adding and compatibility issues related to Home Assistant
+Advanced Features::Third Party::API/CGI command error
+Advanced Features::Third Party::Fail to add camera to Blue Iris
+Advanced Features::Third Party::Fail to add camera to QNAP
+Advanced Features::Third Party::Fail to add camera to Synology
+Advanced Features::Third Party::Fail to add Reolink camera to third-party NVR
+Advanced Features::Third Party::Fail to add third party camera to Reolink NVR
+Advanced Features::Third Party::Failed to add Reolink cameras to other third-party software
+Advanced Features::Third Party::Reolink camera not functioning properly on 3rd party NVR
+Advanced Features::Third Party::The camera uploaded substream recordings while it's set to mainstream
+Advanced Features::Third Party::The two-way audio feature is not functional with third-party software
+Advanced Features::Third Party::Third-party cameras are not functioning properly on Reolink NVR
+Advanced Features::Third Party::Third-party software preview pixelated/stuck/Latency/drop connection/Asynchronous sound and picture
+Advanced Features::Third Party::VLC broadcast camera/NVR stream failed
+Advanced Features::Third-Party::Reolink Camera added successfully but some features not functional
+Battery 4G::Alert::Auto tracking doesn't work properly
+Battery 4G::Alert::Email image attachment/first frame of email video attachment/SD card recording is overexposed during night time (only for AI models)
+Battery 4G::Alert::Email image attachment/first frame of email video attachment/SD card recording is overexposed during the day (only for AI models)
+Battery 4G::Alert::Non-Detection Area Smart detection False alert
+Battery 4G::Alert::PIR doesn't work occassionally/alarm delay/detection distance is short
+Battery 4G::Alert::PIR False Alerts
+Battery 4G::Alert::PIR sensor doesn't work
+Battery 4G::Alert::Pixelated image/video in the Email attachment
+Battery 4G::Alert::Smart detection doesn't work
+Battery 4G::Alert::Smart detection False Alerts
+Battery 4G::Alert::The first frame of email pictures/videos is too dark (only for AI models)
+Battery 4G::Audio::Audio Noise
+Battery 4G::Audio::Low sound on the App side while using 2-way audio
+Battery 4G::Audio::Low volume on the camera side when using Two-way audio on Android devices
+Battery 4G::Audio::Speaker no sound output
+Battery 4G::Audio::Two-way audio with echo/noise
+Battery 4G::Battery::Battery problem (battery lights flash Green and Orange alternately or off)
+Battery 4G::Battery::Camera drains fast
+Battery 4G::Battery::Camera not powered
 Battery 4G::Battery::DC not charging
-Battery WIFI::Battery::DC not charging
-NVR::Firmware and others::Device automatically reverts to factory settings
-Home Hub::Firmware and others::Device automatically reverts to factory settings
-Battery WIFI::Battery::Inaccurate battery level display
 Battery 4G::Battery::Inaccurate battery level display
-DC 4G::Network::Intermittent connection difficulties(Other SIM Card)
+Battery 4G::Battery::SP not charging
+Battery 4G::Hardware::Charging port(Mirco-B) physically damaged
+Battery 4G::Hardware::Charging port(Type-C) physically damaged
+Battery 4G::Hardware::Day and night mode does not auto switch
+Battery 4G::Hardware::Physical damage to camera itself
+Battery 4G::Hardware::Some IR lights/spotlights are off or dim
+Battery 4G::Hardware::Spotlights automatically switch on/off repeatedly
+Battery 4G::Hardware::Spotlights cannot be turned on
+Battery 4G::Hardware::Unable to reset
+Battery 4G::Hardware::Water or fog in Camera
+Battery 4G::Hardware::When the light comes on, it goes offline
+Battery 4G::Initial setup::(Only for Go)Broadcast “Network connection failed” and cannot be accessed
+Battery 4G::Initial setup::Broadcast "Data call failed"
+Battery 4G::Initial setup::Broadcast “Network connection failed” and cannot be accessed
+Battery 4G::Initial setup::Broadcast “Network connection succeeded” and cannot be accessed
+Battery 4G::Initial setup::Broadcast "Not registered on network. Please activate your SIM card and check the signal strength"
+Battery 4G::Initial setup::Broadcast "The SIM Card Is Locked with a PIN"
+Battery 4G::Initial setup::Camera keeps broadcasting "Camera is starting up. Please wait."
+Battery 4G::Initial setup::Failed to connect to network when using Reolink SIM Card
+Battery 4G::Initial setup::Failed to obtain configuration information
 Battery 4G::Initial setup::SIM card not recognized
+Battery 4G::Network::Cannot access camera after connecting to SP
+Battery 4G::Network::Intermittent connection difficulties(Other SIM Card)
 Battery 4G::Network::Intermittent connection difficulties(Reolink SIM Card)
+Battery 4G::Others::Camera with factory firmware broadcasts Chinese voice and displays abnormal OSD
+Battery 4G::Others::Device automatically reverts to factory settings
+Battery 4G::Others::Device restarts automatically
+Battery 4G::Others::Firmware upgrade failed
+Battery 4G::Others::Incorrect Time/Date on Screen
+Battery 4G::Others::PTZ/spotlight/two-way voice/Audio cannot be turned on/off
+Battery 4G::Others::QR code is invalid
+Battery 4G::Others::SIM card or SD card slot problem
+Battery 4G::Others::Some configurations did not persist after saving
+Battery 4G::Others::Status light flashes red and blue alternately/log has I2C exception field
+Battery 4G::Others::UID tag missing
+Battery 4G::Others::Video can not be uploaded to Drive
+Battery 4G::Playback::Playback page video cannot be loaded
+Battery 4G::Playback::Recordings loaded successfully but failed to playback
+Battery 4G::Preview::Can't load the preview screen
+Battery 4G::Preview::Fixed-lens camera image is out of focus
+Battery 4G::Preview::Image color cast/Night vision screen is completely black
+Battery 4G::Preview::Image is flashing or flicking
+Battery 4G::Preview::Image is ghosting or smearing
+Battery 4G::Preview::Image overexposure
+Battery 4G::Preview::Image pixilation
+Battery 4G::Preview::Image stitching issue
+Battery 4G::Preview::Inconsistent brightness between the two lenses
+Battery 4G::Preview::IR light is abnormal
+Battery 4G::Preview::IR lights don't light up during the night
+Battery 4G::Preview::Live view has lines or black dots
+Battery 4G::Preview::Microphone doesn't work/No sound in preview & playback
+Battery 4G::Preview::Night Vision Reflective
+Battery 4G::Preview::No picture in preview
+Battery 4G::Preview::Preview delay/Freezes
+Battery 4G::Preview::Unable to preview the main stream
+Battery 4G::PTZ::Monitor point/preset point deviation
+Battery 4G::PTZ::PT angle becomes smaller
+Battery 4G::PTZ::PT no response
+Battery 4G::PTZ::Self-test stuck/camera makes noise when using PTZ feature
+Battery 4G::PTZ::The camera gets disconnected once using the PTZ feature
+Battery 4G::SD card::Camera not recording to SD card
+Battery 4G::SD card::Camera stops recording when SD card is full
+Battery 4G::SD card::Continuous recording failed
+Battery 4G::SD card::Motion-based recording failed
+Battery 4G::SD card::SD card cannot be formatted
+Battery 4G::SD card::SD card not recognized
+Battery WIFI::Alert::Auto tracking doesn't work properly
+Battery WIFI::Alert::No attachment for Email Alerts
+Battery WIFI::Alert::Non-Detection Area Smart detection False alert
+Battery WIFI::Alert::PIR doesn't work occassionally/alarm delay/detection distance is short
+Battery WIFI::Alert::PIR False Alerts
+Battery WIFI::Alert::PIR sensor doesn't work
+Battery WIFI::Alert::Pixelated image/video in the Email attachment
+Battery WIFI::Alert::Smart detection doesn't work
+Battery WIFI::Alert::Smart detection False Alerts
+Battery WIFI::Alert::The first frame of email pictures/videos is too dark (only for AI models)
+Battery WIFI::Audio::Audio Noise
+Battery WIFI::Audio::Low sound on the App side while using 2-way audio
+Battery WIFI::Audio::Low volume on the camera side when using Two-way audio on Android devices
+Battery WIFI::Audio::Speaker no sound output
+Battery WIFI::Audio::Two-way audio with echo/noise
+Battery WIFI::Battery::Battery problem (battery lights flash Green and Orange alternately or off)
+Battery WIFI::Battery::Camera drains fast(model supports continuous recording)
+Battery WIFI::Battery::Camera drains fast(model supports motion recording only)
+Battery WIFI::Battery::Camera not powered
+Battery WIFI::Battery::DC not charging
+Battery WIFI::Battery::Doorbell (Battery) Charges slowly or barely charges when connected to the existing transformer wiring
+Battery WIFI::Battery::Inaccurate battery level display
+Battery WIFI::Battery::SP not charging
+Battery WIFI::Hardware::Charging port(Mirco-B) physically damaged
+Battery WIFI::Hardware::Charging port(Type-C) physically damaged
+Battery WIFI::Hardware::Day and night mode does not auto switch
+Battery WIFI::Hardware::Doorbell button stuck
+Battery WIFI::Hardware::Physical damage to camera itself
+Battery WIFI::Hardware::Some IR lights/spotlights are off or dim
+Battery WIFI::Hardware::Spotlights automatically switch on/off repeatedly
+Battery WIFI::Hardware::Spotlights cannot be turned on
+Battery WIFI::Hardware::Unable to reset
+Battery WIFI::Hardware::Water or fog in Camera
+Battery WIFI::Hardware::When the light comes on, it goes offline
+Battery WIFI::Initial setup::After scanning the WiFi QR code, it prompts that "QR code does not match"
+Battery WIFI::Initial setup::Camera failed to scan the WiFi QR code
+Battery WIFI::Initial setup::Camera prompts "Connection to the router failed" during the initial setup
+Battery WIFI::Initial setup::Failed to obtain configuration information
+Battery WIFI::Initial setup::Incorrect username and password/Authentication failed/Ask for a password even after reset
+Battery WIFI::Initial setup::Initial setup issue (Exclusive to Bluetooth pairing method)
+Battery WIFI::Initial setup::Voice Broadcast Router connected successfully but access failed
+Battery WIFI::Network::Accessible in LAN and inaccessible in WAN
+Battery WIFI::Network::Camera remains offline after router resumes
+Battery WIFI::Network::Cannot access camera after connecting to SP
+Battery WIFI::Network::Dual-band WiFi camera can only connect to 2.4Ghz, but not to 5Ghz, vice versa
+Battery WIFI::Network::Inaccessible in LAN and accessible in WAN
+Battery WIFI::Network::Intermittent connectivity issue (The camera remains online but often unreachable)
+Battery WIFI::Network::Intermittent offline issue (The camera goes offline on its own)
+Battery WIFI::Others::Device automatically reverts to factory settings
+Battery WIFI::Others::Device restarts automatically
+Battery WIFI::Others::Firmware upgrade failed
+Battery WIFI::Others::Incorrect Time/Date on Screen
+Battery WIFI::Others::PTZ/spotlight/two-way voice/Audio cannot be turned on/off
+Battery WIFI::Others::QR code is invalid
+Battery WIFI::Others::SIM card or SD card slot problem
+Battery WIFI::Others::Some configurations did not persist after saving
+Battery WIFI::Others::Status light flashes red and blue alternately/log has I2C exception field
+Battery WIFI::Others::UID tag missing
+Battery WIFI::Playback::Playback page video cannot be loaded
+Battery WIFI::Playback::Recordings loaded successfully but failed to playback
+Battery WIFI::Preview::Can't load the preview screen
+Battery WIFI::Preview::Fixed-lens camera image is out of focus
+Battery WIFI::Preview::Image color cast/Night vision screen is completely black
+Battery WIFI::Preview::Image is flashing or flicking
+Battery WIFI::Preview::Image is ghosting or smearing
+Battery WIFI::Preview::Image overexposure
+Battery WIFI::Preview::Image pixilation
+Battery WIFI::Preview::Image stitching issue
+Battery WIFI::Preview::Inconsistent brightness between the two lenses
+Battery WIFI::Preview::IR light is abnormal
+Battery WIFI::Preview::IR lights don't light up during the night
+Battery WIFI::Preview::Live view has lines or black dots
+Battery WIFI::Preview::Microphone doesn't work/No sound in preview & playback
+Battery WIFI::Preview::Night Vision Reflective
+Battery WIFI::Preview::no picture in preview
+Battery WIFI::Preview::Overexposure of the first frame during the day (only for AI models)
+Battery WIFI::Preview::Overexposure of the first frame of night vision (only for AI models)
+Battery WIFI::Preview::Preview Delay/Freezes
+Battery WIFI::Preview::Unable to preview the main stream
+Battery WIFI::PTZ::Monitor point/preset point deviation
+Battery WIFI::PTZ::PT angle becomes smaller
+Battery WIFI::PTZ::PT no response
+Battery WIFI::PTZ::Self-test stuck/camera makes noise when using PTZ feature
+Battery WIFI::PTZ::The camera gets disconnected once using the PTZ feature
+Battery WIFI::SD card::Camera not recording to SD card
+Battery WIFI::SD card::Camera stops recording when SD card is full
+Battery WIFI::SD card::Continuous recording failed
+Battery WIFI::SD card::Motion-based recording failed
+Battery WIFI::SD card::SD card cannot be formatted
+Battery WIFI::SD card::SD card not recognized
+Business&Sales::Business Cooperation
+Business&Sales::Charitable Donation
+Business&Sales::Look for local reseller/installer
+Business&Sales::Media Cooperation
+Business&Sales::Product certificate
+Business&Sales::Product recommendation
+Customer::dissatisfied with standard after-sales solutions (end users)-
+Customer::Dissatisfied with the standard after-sales plan (agent)-
+Customer::Request a replacement/Communicate with Supervisor
+Customer::Suspected of malicious after-sales-
+Customer::The customer has opened a PayPal case
+Customer::Users do not cooperate-
+DC 4G::Alert::Auto tracking doesn't work properly
+DC 4G::Alert::Motion Detection doesn't work occassionally
+DC 4G::Alert::No attachment for Email Alerts
+DC 4G::Alert::Smart detection doesn't work
+DC 4G::Alert::Smart detection False Alerts
+DC 4G::Hardware::Camera not powered
+DC 4G::Hardware::Physical damage to camera itself
+DC 4G::Hardware::Some IR lights/spotlights are off or dim
+DC 4G::Hardware::Water or fog in Camera
 DC 4G::Initial setup::Broadcast "Data call failed"
-DC 4G::Initial setup::Failed to obtain configuration information
 DC 4G::Initial setup::Broadcast “Network connection failed” and cannot be accessed
 DC 4G::Initial setup::Broadcast “Network connection succeeded” and cannot be accessed
 DC 4G::Initial setup::Broadcast "Not registered on network. Please activate your SIM card and check the signal strength"
-Battery 4G::Initial setup::Broadcast "Data call failed"
-Battery 4G::Initial setup::Camera keeps broadcasting "Camera is starting up. Please wait."
-Battery 4G::Initial setup::Broadcast “Network connection succeeded” and cannot be accessed
-Battery 4G::Initial setup::Broadcast “Network connection failed” and cannot be accessed
-Battery 4G::Network::Intermittent connection difficulties(Other SIM Card)
-Battery 4G::Initial setup::Failed to obtain configuration information
-Battery 4G::Initial setup::Broadcast "Not registered on network. Please activate your SIM card and check the signal strength"
-DC WIFI::Firmware and others::PTZ/spotlight/two-way voice/Audio cannot be turned on/off
-PoE::Firmware and others::PTZ/spotlight/two-way voice/Audio cannot be turned on/off
-Battery WIFI::Audio::Low sound on the App side while using 2-way audio
-Battery 4G::Audio::Low sound on the App side while using 2-way audio
-DC WIFI::Audio::Low sound on the App side while using 2-way audio
-PoE::Audio::Low sound on the App side while using 2-way audio
-PoE::Hardware::Spotlights cannot be turned on
-DC WIFI::Hardware::Spotlights cannot be turned on
-Battery 4G::Hardware::Spotlights cannot be turned on
-Battery WIFI::Hardware::Spotlights cannot be turned on
-Battery WIFI::SD card::Continuous recording failed
-Battery 4G::SD card::Continuous recording failed
-DC WIFI::SD card::Continuous recording failed
-DC 4G::SD card::Continuous recording failed
-PoE::SD card::Continuous recording failed
-Home Hub::SD card::Continuous recording failed
-DC WIFI::SD card::Motion-based recording failed
-DC 4G::SD card::Motion-based recording failed
-PoE::SD card::Motion-based recording failed
-Battery 4G::SD card::Motion-based recording failed
-Battery WIFI::SD card::Motion-based recording failed
-Home Hub::SD card::Motion-based recording failed
-DC WIFI::Preview::IR lights don't light up during the night
-Advanced Features::Smart Home::Unable to view camera stream in Google /Alexa App
-PoE::Preview::Microphone doesn't work/No sound in preview & playback
-DC WIFI::Preview::Microphone doesn't work/No sound in preview & playback
-DC WIFI::Preview::Zoom camera image is out of focus (with attempt to focus)
-PoE::Preview::Zoom camera image is out of focus (with attempt to focus)
-DC WIFI::Preview::Zoom camera image is out of focus (without attempt to focus)
-PoE::Preview::Zoom camera image is out of focus (without attempt to focus)
-PoE::Playback::Playback page video cannot be loaded
-DC WIFI::Playback::Playback page video cannot be loaded
-Battery WIFI::Playback::Playback page video cannot be loaded
-Battery 4G::Playback::Playback page video cannot be loaded
-DC WIFI::PTZ::PT no response
-Battery WIFI::PTZ::PT no response
-PoE::PTZ::PT no response
-Battery 4G::PTZ::PT no response
-DC WIFI::Preview::Fixed-lens camera image is out of focus
-PoE::Preview::Fixed-lens camera image is out of focus
-Battery 4G::Preview::Fixed-lens camera image is out of focus
-Battery WIFI::Preview::Fixed-lens camera image is out of focus
-Battery 4G::Alert::Pixelated image/video in the Email attachment
-Battery WIFI::Alert::Pixelated image/video in the Email attachment
-Battery 4G::Preview::Image overexposure
-DC WIFI::Preview::Image overexposure
-PoE::Preview::Image overexposure
-Battery WIFI::Preview::Image overexposure
-PoE::Preview::Image stitching issue
-DC WIFI::Preview::Image stitching issue
-Battery 4G::Preview::Image stitching issue
-Battery WIFI::Preview::Image stitching issue
-Others::unincluded::NVR gets stuck or restarts after clicking Settings on the monitor
-DC WIFI::PTZ::PT angle becomes smaller
-PoE::PTZ::PT angle becomes smaller
-Battery 4G::Others::PTZ/spotlight/two-way voice/Audio cannot be turned on/off
-Battery WIFI::Others::PTZ/spotlight/two-way voice/Audio cannot be turned on/off
-Battery 4G::PTZ::PT angle becomes smaller
-Battery 4G::Hardware::Spotlights automatically switch on/off repeatedly
-Battery 4G::Audio::Speaker no sound output
-Battery WIFI::Audio::Speaker no sound output
-Battery WIFI::Hardware::Spotlights automatically switch on/off repeatedly
-PoE::Audio::Speaker no sound output
-DC WIFI::Audio::Speaker no sound output
-Battery WIFI::PTZ::PT angle becomes smaller
-NVR::Hardware::NVR cannot detect the mouse
-PoE::Preview::IR lights don't light up during the night
-PoE::Audio::Audio Noise
-DC WIFI::Audio::Audio Noise
-DC WIFI::Preview::Live view has lines or black dots
-Battery WIFI::Preview::Live view has lines or black dots
+DC 4G::Initial setup::Failed to obtain configuration information
+DC 4G::Network::Intermittent connection difficulties(Other SIM Card)
+DC 4G::Others::QR code is invalid
+DC 4G::Others::SIM card or SD card slot problem
+DC 4G::Others::UID tag missing
+DC 4G::Preview::Can't load the preview screen
 DC 4G::Preview::Live view has lines or black dots
-PoE::Preview::Live view has lines or black dots
-Battery 4G::Preview::Live view has lines or black dots
-PoE::Hardware::Day and night mode does not auto switch
-DC WIFI::Hardware::Day and night mode does not auto switch
-Battery 4G::Preview::Inconsistent brightness between the two lenses
-PoE::Preview::Inconsistent brightness between the two lenses
-DC WIFI::Preview::Inconsistent brightness between the two lenses
-Battery WIFI::Preview::Inconsistent brightness between the two lenses
-Battery WIFI::Network::Dual-band WiFi camera can only connect to 2.4Ghz, but not to 5Ghz, vice versa
-DC WIFI::Network::Dual-band WiFi camera can only connect to 2.4Ghz, but not to 5Ghz, vice versa
-Advanced Features::Email::Alarm Email Test Failed:Error Code 400
-PoE::Preview::IR light is abnormal
-PoE::Hardware::Spotlights automatically switch on/off repeatedly
-Battery 4G::Alert::PIR sensor doesn't work
-Battery WIFI::Alert::PIR sensor doesn't work
-PoE::PTZ::The camera gets disconnected once using the PTZ feature
-Battery WIFI::Audio::Low volume on the camera side when using Two-way audio on Android devices
-Battery 4G::Audio::Low volume on the camera side when using Two-way audio on Android devices
-DC WIFI::Audio::Low volume on the camera side when using Two-way audio on Android devices
-PoE::Audio::Low volume on the camera side when using Two-way audio on Android devices
-Advanced Features::Cloud::Cloud binding failed
-Advanced Features::Smart Home::Failed to enable camera on Reolink App Smart Home page
-Advanced Features::Cloud::Cloud panel is missing
-Battery 4G::Battery::Camera drains fast
-Battery WIFI::Battery::Camera drains fast(model supports motion recording only)
-Battery WIFI::Battery::Camera drains fast(model supports continuous recording)
-Advanced Features::Cloud::Do not upload cloud video
-Battery 4G::Others::Video can not be uploaded to Drive
-Battery 4G::Battery::Camera not powered
-Battery WIFI::Battery::Camera not powered
-Battery WIFI::Hardware::Unable to reset
-DC WIFI::Hardware::Unable to reset
-PoE::Hardware::Unable to reset
-Home Hub::Hardware::Unable to reset
-NVR::Hardware::Unable to reset
-Battery 4G::Hardware::Unable to reset
-DC WIFI::Initial setup::Camera prompts "Connection to the router failed" during the initial setup
-Battery WIFI::Initial setup::Camera prompts "Connection to the router failed" during the initial setup
-Battery 4G::Preview::IR light is abnormal
-Battery WIFI::Preview::IR light is abnormal
-Battery WIFI::Hardware::Day and night mode does not auto switch
-Battery 4G::Hardware::Day and night mode does not auto switch
-Battery WIFI::Preview::IR lights don't light up during the night
-Battery 4G::Preview::IR lights don't light up during the night
-Battery 4G::Audio::Audio Noise
-Battery WIFI::Audio::Audio Noise
-Battery WIFI::Preview::Microphone doesn't work/No sound in preview & playback
-Battery 4G::Preview::Microphone doesn't work/No sound in preview & playback
-DC WIFI::Firmware and others::Firmware upgrade failed
-PoE::Firmware and others::Firmware upgrade failed
-Home Hub::Firmware and others::Firmware upgrade failed
-Battery WIFI::Hardware::Charging port(Type-C) physically damaged
-Battery 4G::Hardware::Charging port(Type-C) physically damaged
-Battery 4G::Initial setup::(Only for Go)Broadcast “Network connection failed” and cannot be accessed
-Battery 4G::Initial setup::Broadcast "The SIM Card Is Locked with a PIN"
-PoE::Preview::Vertical angle of view is narrow (Exclusive to Duo 3 PoE)
-DC WIFI::Preview::Vertical angle of view is narrow (Exclusive to Duo 3 PoE/WiFi)
-Home Hub::Hardware::Physical damage to Home Hub itself
-NVR::Firmware and others::NVR HDD Noise
-Advanced Features::Third-Party::Reolink Camera added successfully but some features not functional
-Advanced Features::Third Party::Third-party software preview pixelated/stuck/Latency/drop connection/Asynchronous sound and picture
-Battery WIFI::Alert::The first frame of email pictures/videos is too dark (only for AI models)
-Battery 4G::Alert::The first frame of email pictures/videos is too dark (only for AI models)
-Battery WIFI::Preview::Overexposure of the first frame during the day (only for AI models)
-Battery 4G::Alert::Email image attachment/first frame of email video attachment/SD card recording is overexposed during the day (only for AI models)
-Battery WIFI::Preview::Overexposure of the first frame of night vision (only for AI models)
-Battery 4G::Alert::Email image attachment/first frame of email video attachment/SD card recording is overexposed during night time (only for AI models)
-Price & Discount::Extra discount
-Advanced Features::FTP::FTP upload files all 0kb/Do not upload files
-Battery 4G::Others::Device restarts automatically
-Home Hub::Firmware and others::Home Hub Pro HDD Noise
-Home Hub::Firmware and others::Incorrect Time/Date on Screen
-NVR::Firmware and others::Incorrect Time/Date on Screen
-NVR::Connection::WiFi camera is completely disconnected on the WiFi NVR (Camera connected to NVR's WiFi)
-Business&Sales::Business Cooperation
-Advanced Features::Cloud::Reolink SIM card can't be activated
-Advanced Features::Cloud::The SIM card plan or add-on data is not in effect
-Payment::Fail to pay
-Service::Warranty policy
-Battery WIFI::Hardware::Doorbell button stuck
-Home Hub::Firmware and others::QR code is invalid
-Battery 4G::Others::Device automatically reverts to factory settings
-Battery WIFI::Others::Device automatically reverts to factory settings
-DC WIFI::PTZ::Monitor point/preset point deviation
-PoE::PTZ::Monitor point/preset point deviation
-Battery WIFI::PTZ::Monitor point/preset point deviation
-Battery 4G::PTZ::Monitor point/preset point deviation
+DC 4G::Preview::Night Vision Reflective
+DC 4G::Preview::Preview delay/Freezes
 DC 4G::SD card::Camera not recording to SD card
-PoE::SD card::Camera not recording to SD card
-DC WIFI::SD card::Camera not recording to SD card
-Battery 4G::SD card::Camera not recording to SD card
-Battery WIFI::SD card::Camera not recording to SD card
-NVR::Hardware::Physical damage to NVR itself
-Others::unclear
-NVR::Connection::WiFi cameras cannot synchronize NVR's WiFi
-Accessories::Chime::Reolink Chime pairs successfully but does not function properly
-Home Hub::Firmware and others::Hub Fan Noise
-Battery 4G::SD card::Camera stops recording when SD card is full
-Battery WIFI::SD card::Camera stops recording when SD card is full
 DC 4G::SD card::Camera stops recording when SD card is full
-DC WIFI::SD card::Camera stops recording when SD card is full
-Home Hub::SD card::Camera stops recording when SD card is full
-PoE::SD card::Camera stops recording when SD card is full
-PoE::Hardware::Some IR lights/spotlights are off or dim
-PoE::Firmware and others::Firmware upgrade failed (transmission timed out)
-DC WIFI::Firmware and others::Firmware upgrade failed (transmission timed out)
-NVR::Firmware and others::Firmware upgrade failed (transmission timed out)
-NVR::Firmware and others::QR code is invalid
-Business&Sales::Charitable Donation
-Customer::Users do not cooperate-
-Battery 4G::Others::Incorrect Time/Date on Screen
-Battery WIFI::Others::Incorrect Time/Date on Screen
-PoE::Firmware and others::Incorrect Time/Date on Screen
-DC WIFI::Firmware and others::Incorrect Time/Date on Screen
-Order::Package & Shipping
-Accessory
-Business&Sales::Media Cooperation
-Home Hub::SD card::SD card not recognized
-PoE::Alert::Motion Detection False Alerts
-NVR::Firmware and others::NVR Fan Noise
-Payment::Payment method
-DC WIFI::Alert::Motion Detection False Alerts
-Home Hub::Others::SIM card or SD card slot problem
-DC 4G::Hardware::Physical damage to camera itself
-PoE::Hardware::Physical damage to camera itself
-DC WIFI::Hardware::Physical damage to camera itself
-Battery WIFI::Hardware::Physical damage to camera itself
-Battery 4G::Hardware::Physical damage to camera itself
-Business&Sales::Product certificate
-/
-PoE::Preview::E1 series IR lights switch on/off repeatedly (only for AI models)
-DC WIFI::Preview::E1 series IR lights switch on/off repeatedly (only for AI models)
-Advanced Features::Third Party::Failed to add Reolink cameras to other third-party software
-Advanced Features::Third Party::The camera uploaded substream recordings while it's set to mainstream
-Advanced Features::FTP::FTP upload file part 0kb/Do not upload some files
-Advanced Features::Third Party::The two-way audio feature is not functional with third-party software
-Advanced Features::Smart Home::No notifications or auto live stream on Alexa device when Doorbell is pressed
-Advanced Features::Smart Home::“Failed to obtain configuration information." when entering on Smart Home section
-DC WIFI::SD card::SD card not recognized
+DC 4G::SD card::Continuous recording failed
+DC 4G::SD card::Motion-based recording failed
+DC 4G::SD card::SD card cannot be formatted
 DC 4G::SD card::SD card not recognized
-Battery WIFI::SD card::SD card not recognized
-PoE::SD card::SD card not recognized
-Battery 4G::SD card::SD card not recognized
+DC WIFI::Alert::Auto tracking doesn't work properly
+DC WIFI::Alert::Motion Detection doesn't work occassionally
+DC WIFI::Alert::Motion Detection False Alerts
+DC WIFI::Alert::No attachment for Email Alerts
+DC WIFI::Alert::Non-Detection Area Smart detection False alert
+DC WIFI::Alert::Smart detection doesn't work
+DC WIFI::Alert::Smart detection False Alerts
+DC WIFI::Audio::Audio Noise
+DC WIFI::Audio::Low sound on the App side while using 2-way audio
+DC WIFI::Audio::Low volume on the camera side when using Two-way audio on Android devices
+DC WIFI::Audio::Speaker no sound output
+DC WIFI::Audio::Two-way audio with echo/noise
+DC WIFI::Firmware and others::Camera with factory firmware broadcasts Chinese voice and displays abnormal OSD
+DC WIFI::Firmware and others::Device automatically reverts to factory settings
+DC WIFI::Firmware and others::Doorbell is noisy/vibrating/there is no sound until the doorbell is pressed several times
+DC WIFI::Firmware and others::Firmware upgrade failed
+DC WIFI::Firmware and others::Firmware upgrade failed (transmission timed out)
+DC WIFI::Firmware and others::Incorrect Time/Date on Screen
+DC WIFI::Firmware and others::PTZ/spotlight/two-way voice/Audio cannot be turned on/off
+DC WIFI::Firmware and others::QR code is invalid
+DC WIFI::Firmware and others::SIM card or SD card slot problem
+DC WIFI::Firmware and others::Software reports latest version despite new firmware release online
+DC WIFI::Firmware and others::Some configurations did not persist after saving
+DC WIFI::Firmware and others::UID tag missing
+DC WIFI::Hardware::Camera not powered
+DC WIFI::Hardware::Day and night mode does not auto switch
+DC WIFI::Hardware::Doorbell button stuck
+DC WIFI::Hardware::Physical damage to camera itself
+DC WIFI::Hardware::Some IR lights/spotlights are off or dim
+DC WIFI::Hardware::Spotlights automatically switch on/off repeatedly
+DC WIFI::Hardware::Spotlights cannot be turned on
+DC WIFI::Hardware::Unable to reset
+DC WIFI::Hardware::Water or fog in Camera
+DC WIFI::Hardware::When the light comes on, it goes offline
+DC WIFI::Initial setup::After scanning the WiFi QR code, it prompts that "QR code does not match"
+DC WIFI::Initial setup::Camera failed to scan the WiFi QR code
+DC WIFI::Initial setup::Camera prompts "Connection to the router failed" during the initial setup
+DC WIFI::Initial setup::Failed to obtain configuration information
+DC WIFI::Initial setup::Incorrect username and password/Authentication failed/Ask for a password even after reset
+DC WIFI::Initial setup::Initial setup issue (Exclusive to Bluetooth pairing method)
+DC WIFI::Initial setup::Voice Broadcast Router connected successfully but access failed
+DC WIFI::Initial setup::Wired connection but access failed (For cameras with Ethernet port)
+DC WIFI::Network::Accessible in LAN and inaccessible in WAN
+DC WIFI::Network::Accessible when camera is connected to the router via cable but inaccessible when camera connected via WiFi
+DC WIFI::Network::Camera remains offline after router resumes
+DC WIFI::Network::Dual-band WiFi camera can only connect to 2.4Ghz, but not to 5Ghz, vice versa
+DC WIFI::Network::Inaccessible in LAN and accessible in WAN
+DC WIFI::Network::The camera frequently sends DHCP requests
+DC WIFI::Network::WAN connection failed (intermittent)
+DC WIFI::Network::WiFi disconnection/Connection difficulties/Auto restart
+DC WIFI::Playback::Playback page video cannot be loaded
+DC WIFI::Playback::Recordings loaded successfully but failed to playback
+DC WIFI::Preview::Can't load the preview screen
+DC WIFI::Preview::E1 series IR lights switch on/off repeatedly (only for AI models)
+DC WIFI::Preview::Fixed-lens camera image is out of focus
+DC WIFI::Preview::Image color cast/Night vision screen is completely black
+DC WIFI::Preview::Image is flashing or flicking
+DC WIFI::Preview::Image is ghosting or smearing
+DC WIFI::Preview::Image overexposure
+DC WIFI::Preview::Image pixilation
+DC WIFI::Preview::Image stitching issue
+DC WIFI::Preview::Inconsistent brightness between the two lenses
+DC WIFI::Preview::IR light is abnormal
+DC WIFI::Preview::IR lights don't light up during the night
+DC WIFI::Preview::Live view has lines or black dots
+DC WIFI::Preview::Microphone doesn't work/No sound in preview & playback
+DC WIFI::Preview::Night Vision Reflective
+DC WIFI::Preview::No picture in preview
+DC WIFI::Preview::Preview Delay/Freezes
+DC WIFI::Preview::Unable to preview the main stream
+DC WIFI::Preview::Vertical angle of view is narrow (Exclusive to Duo 3 PoE/WiFi)
+DC WIFI::Preview::Zoom camera image is out of focus (with attempt to focus)
+DC WIFI::Preview::Zoom camera image is out of focus (without attempt to focus)
+DC WIFI::PTZ::Monitor point/preset point deviation
+DC WIFI::PTZ::PT angle becomes smaller
+DC WIFI::PTZ::PT no response
+DC WIFI::PTZ::Self-test stuck/camera makes noise when using PTZ feature
+DC WIFI::PTZ::The camera gets disconnected once using the PTZ feature
+DC WIFI::SD card::Camera not recording to SD card
+DC WIFI::SD card::Camera stops recording when SD card is full
+DC WIFI::SD card::Continuous recording failed
+DC WIFI::SD card::Lumus stops recording or doesn't record at all when using a 256GB or larger SD card
+DC WIFI::SD card::Motion-based recording failed
+DC WIFI::SD card::SD card cannot be formatted
+DC WIFI::SD card::SD card not recognized
+Home Hub::Alert::Home Hub Ring(Siren) doesn't work
+Home Hub::Connection::Camera cannot be added to Home Hub with error "Device and Home Hub Connection Failed"
+Home Hub::Connection::Cameras has poor connection on Home Hub
+Home Hub::Firmware and others::Camera drains battery quickly after being added to the Hub
+Home Hub::Firmware and others::Camera prompts "Low firmware version "
+Home Hub::Firmware and others::Camera prompts "The device does not support connection to Home Hub."
+Home Hub::Firmware and others::Device automatically reverts to factory settings
+Home Hub::Firmware and others::Doorbell (Battery) Quick reply doesn't work after adding to Home Hub
+Home Hub::Firmware and others::Doorbell camera unable to pair with Reolink Chime settings after adding to Home Hub
+Home Hub::Firmware and others::Firmware upgrade failed
+Home Hub::Firmware and others::Home Hub Pro HDD Noise
+Home Hub::Firmware and others::Hub Fan Noise
+Home Hub::Firmware and others::Incorrect Time/Date on Screen
+Home Hub::Firmware and others::QR code is invalid
+Home Hub::Firmware and others::UID tag missing
+Home Hub::Hardware::Hub not powered on
+Home Hub::Hardware::Physical damage to Home Hub itself
+Home Hub::Hardware::Unable to reset
+Home Hub::HDD::Home Hub Pro HDD cannot be formatted
+Home Hub::HDD::Original HDD not recognized
+Home Hub::HDD::Original HDD not record
+Home Hub::HDD::Third-Party HDD not recognized
+Home Hub::HDD::Third-Party HDD not record
+Home Hub::Network::Accessible in LAN and inaccessible in WAN
+Home Hub::Network::Inaccessible in LAN and accessible in WAN
+Home Hub::Network::Not connected to the Network/Internet
+Home Hub::Network::WAN connection failed (intermittent)
+Home Hub::Others::SIM card or SD card slot problem
+Home Hub::SD card::Camera not recording to SD card
+Home Hub::SD card::Camera stops recording when SD card is full
+Home Hub::SD card::Continuous recording failed
+Home Hub::SD card::Motion-based recording failed
+Home Hub::SD card::SD card cannot be formatted
+Home Hub::SD card::SD card not recognized
+NVR::Connection:: PoE camera disconnects randomly in NVR (not directly connected via Ethernet cable)
+NVR::Connection::Battery camera cannot be successfully added to NVR
+NVR::Connection::Configure the camera to connect to NVR's 2.4GHz WiFi
+NVR::Connection::DC WiFi camera cannot be successfully added to NVR
+NVR::Connection::PoE camera cannot be successfully added to NVR
+NVR::Connection::Random PoE camera disconnects randomly in NVR (directly connected via Ethernet cable)
+NVR::Connection::Specific PoE cameras are randomly disconnected in NVR (directly connected via Ethernet cable)
+NVR::Connection::WIFI Camera disconnects randomly on PoE NVR
+NVR::Connection::WiFi camera is completely disconnected on the WiFi NVR (Camera connected to NVR's WiFi)
+NVR::Connection::WiFi cameras cannot synchronize NVR's WiFi
+NVR::Connection::WiFi cameras has poor connection on WiFi NVR (Camera connected to NVR's WiFi)
+NVR::Connection::WiFi cameras has poor connection on WiFi NVR (Camera connected to router's WiFi)
+NVR::Firmware and others::Device automatically reverts to factory settings
+NVR::Firmware and others::Fail to load NVR configuration
+NVR::Firmware and others::Firmware upgrade failed
+NVR::Firmware and others::Firmware upgrade failed (transmission timed out)
+NVR::Firmware and others::Incorrect Time/Date on Screen
+NVR::Firmware and others::IP conflict of cameras directly connected to the NVR
+NVR::Firmware and others::NVR automatically restarts (no directly-connected camera)
+NVR::Firmware and others::NVR automatically restarts (with directly-connected camera)
+NVR::Firmware and others::NVR Fan Noise
+NVR::Firmware and others::NVR HDD Noise
+NVR::Firmware and others::Other compatibility issues when camera connected to NVR
+NVR::Firmware and others::QR code is invalid
+NVR::Firmware and others::Software reports latest version despite new firmware release online
+NVR::Firmware and others::Some configurations did not persist after saving
+NVR::Firmware and others::UID tag missing
+NVR::Hardware::Fail to recognize USB when backup recordings from NVR monitor
+NVR::Hardware::NVR cannot detect the mouse
+NVR::Hardware::NVR not powered
+NVR::Hardware::Physical damage to NVR itself
+NVR::Hardware::Unable to reset
+NVR::HDD::Original HDD cannot be formatted/failed to format
+NVR::HDD::Original HDD not recognized
+NVR::HDD::Original HDD not record
+NVR::HDD::Original HDD shows 0GB
+NVR::HDD::Third-Party HDD cannot be formatted/failed to format
+NVR::HDD::Third-Party HDD not recognized
+NVR::HDD::Third-Party HDD not record
+NVR::HDD::Third-Party HDD shows 0GB
+NVR::Monitor::NVR no output
+NVR::Monitor::NVR stuck at boot logo
+NVR::Monitor::The camera screen on the NVR monitor goes black
+NVR::Network::Inaccessible in LAN and accessible in WAN
+NVR::Network::NVR is not connected to the network (LAN port light is OFF)
+NVR::Network::NVR is not connected to the network (LAN port light is ON)
+NVR::Network::WAN connection failed (intermittent)
+NVR::Network::WAN connection failed (non-intermittent)
+NVR::Playback::Event History videos fail to load or show black screen
+NVR::Playback::Playback page video cannot be loaded
+NVR::Playback::Recordings loaded successfully but failed to playback via the monitor connected to the NVR
+NVR::Playback::Recordings loaded successfully but failed to playback via the Reolink app/client
 Order::Cancel or change orders
 Order::Invoice/Bill (order already placed)
-Payment::Reviewing order
-Business&Sales::Look for local reseller/installer
-Price & Discount::Price differences across different sales platforms
-Business&Sales::Product recommendation
-Tax::Sales tax-exempt(US/CA)
+Order::Package & Shipping
+Others::unclear
+Others::unincluded
+Others::unincluded::NVR gets stuck or restarts after clicking Settings on the monitor
+Payment::Fail to pay
 Payment::Order paid but under pending/cancel
-Tax::VAT deduct(EU/UK)
-Price & Discount::Identity discount
-Price & Discount::Check Price or Stock
-PoE::Initial setup::Incorrect username and password/Authentication failed/Ask for a password even after reset
-Battery WIFI::Initial setup::Incorrect username and password/Authentication failed/Ask for a password even after reset
-DC WIFI::Initial setup::Incorrect username and password/Authentication failed/Ask for a password even after reset
+Payment::Payment method
+Payment::Reviewing order
+PoE::Alert::Auto tracking doesn't work properly
+PoE::Alert::Motion Detection doesn't work occassionally
+PoE::Alert::Motion Detection False Alerts
+PoE::Alert::Motion Track doesn't work
+PoE::Alert::No attachment for Email Alerts
+PoE::Alert::Non-Detection Area Smart detection False alert
 PoE::Alert::Smart detection doesn't work
-DC WIFI::Alert::Smart detection doesn't work
-DC 4G::Alert::Smart detection doesn't work
-Battery 4G::Others::SIM card or SD card slot problem
-Battery WIFI::Others::SIM card or SD card slot problem
+PoE::Alert::Smart detection False Alerts
+PoE::Audio::Audio Noise
+PoE::Audio::Low sound on the App side while using 2-way audio
+PoE::Audio::Low volume on the camera side when using Two-way audio on Android devices
+PoE::Audio::Speaker no sound output
+PoE::Audio::Two-way audio with echo/noise
+PoE::Firmware and others::Camera with factory firmware broadcasts Chinese voice and displays abnormal OSD
+PoE::Firmware and others::Device automatically reverts to factory settings
+PoE::Firmware and others::Device restarts automatically
+PoE::Firmware and others::Doorbell is noisy/vibrating/there is no sound until the doorbell is pressed several times
+PoE::Firmware and others::Firmware upgrade failed
+PoE::Firmware and others::Firmware upgrade failed (transmission timed out)
+PoE::Firmware and others::Incorrect Time/Date on Screen
+PoE::Firmware and others::PTZ/spotlight/two-way voice/Audio cannot be turned on/off
+PoE::Firmware and others::QR code is invalid
 PoE::Firmware and others::SIM card or SD card slot problem
-DC WIFI::Firmware and others::SIM card or SD card slot problem
-DC 4G::Others::SIM card or SD card slot problem
-DC WIFI::Initial setup::After scanning the WiFi QR code, it prompts that "QR code does not match"
-Battery WIFI::Battery::Doorbell (Battery) Charges slowly or barely charges when connected to the existing transformer wiring
+PoE::Firmware and others::Software reports latest version despite new firmware release online
+PoE::Firmware and others::Some configurations did not persist after saving
+PoE::Firmware and others::UID tag missing
+PoE::Hardware::Camera not powered
+PoE::Hardware::Day and night mode does not auto switch
+PoE::Hardware::Dome camera cannot adjust lens angle
+PoE::Hardware::Doorbell button stuck
+PoE::Hardware::Physical damage to camera itself
+PoE::Hardware::Some IR lights/spotlights are off or dim
+PoE::Hardware::Spotlights automatically switch on/off repeatedly
+PoE::Hardware::Spotlights cannot be turned on
+PoE::Hardware::Unable to reset
+PoE::Hardware::Water or fog in Camera
+PoE::Hardware::When the light comes on, it goes offline
+PoE::Initial setup::Failed to obtain configuration information
+PoE::Initial setup::Incorrect username and password/Authentication failed/Ask for a password even after reset
+PoE::Initial setup::Wired connection but access failed
+PoE::Network::Accessible in LAN and inaccessible in WAN
+PoE::Network::Cannot connect or stopped connecting (Exclusive to Duo 3 PoE)
+PoE::Network::Connection is difficult or drops intermittently
+PoE::Network::Inaccessible in LAN and accessible in WAN
+PoE::Playback::Playback page video cannot be loaded
+PoE::Playback::Recordings loaded successfully but failed to playback
+PoE::Preview::Can't load the preview screen
+PoE::Preview::E1 series IR lights switch on/off repeatedly (only for AI models)
+PoE::Preview::Fixed-lens camera image is out of focus
+PoE::Preview::Image color cast/Night vision screen is completely black
+PoE::Preview::Image is flashing or flicking
+PoE::Preview::Image is ghosting or smearing
+PoE::Preview::Image overexposure
+PoE::Preview::Image pixilation
+PoE::Preview::Image quality is poor (Exclusive to Duo 3 PoE)
+PoE::Preview::Image stitching issue
+PoE::Preview::Inconsistent brightness between the two lenses
+PoE::Preview::IR light is abnormal
+PoE::Preview::IR lights don't light up during the night
+PoE::Preview::Live view has lines or black dots
+PoE::Preview::Microphone doesn't work/No sound in preview & playback
+PoE::Preview::Night Vision Reflective
+PoE::Preview::No picture in preview
+PoE::Preview::Preview Delay/Freezes
+PoE::Preview::Unable to preview the main stream
+PoE::Preview::Vertical angle of view is narrow (Exclusive to Duo 3 PoE)
+PoE::Preview::Zoom camera image is out of focus (with attempt to focus)
+PoE::Preview::Zoom camera image is out of focus (without attempt to focus)
+PoE::PTZ::Monitor point/preset point deviation
+PoE::PTZ::PT angle becomes smaller
+PoE::PTZ::PT no response
+PoE::PTZ::Self-test stuck/camera makes noise when using PTZ feature
+PoE::PTZ::The camera gets disconnected once using the PTZ feature
+PoE::SD card::Camera not recording to SD card
+PoE::SD card::Camera stops recording when SD card is full
+PoE::SD card::Continuous recording failed
+PoE::SD card::Motion-based recording failed
+PoE::SD card::SD card cannot be formatted
+PoE::SD card::SD card not recognized
+Price & Discount::Check Price or Stock
+Price & Discount::Coupon not applicable
+Price & Discount::Extra discount
+Price & Discount::Identity discount
+Price & Discount::Price differences across different sales platforms
+Price & Discount::Price differences over different periods
+Products::Dissatisfaction Solutions-
+Products::Dissatisfied with discontinued models without maintenance
 Products::Dissatisfied with Product Bugs-
 Products::Dissatisfied with Product Strategy Adjustment-
-Customer::Request a replacement/Communicate with Supervisor
-Customer::Suspected of malicious after-sales-
-Customer::dissatisfied with standard after-sales solutions (end users)-
-Customer::Dissatisfied with the standard after-sales plan (agent)-
-Products::Exchange ≥ 2 times and there are still problems-
-Customer::The customer has opened a PayPal case
-Products::Dissatisfied with discontinued models without maintenance
-Products::Product functions are not up to expectations-
-Products::Dissatisfaction Solutions-
-Reolink Software::App::Camera live view image repeats
-Reolink Software::Client::Camera live view image repeats
-/
 Products::Exchange ≥ 2 times and there are still problems
-PoE::Preview::Image is ghosting or smearing
-Battery WIFI::Others::Device restarts automatically
-DC WIFI::Preview::Image color cast/Night vision screen is completely black
-Battery WIFI::Preview::Image color cast/Night vision screen is completely black
-PoE::Preview::Image color cast/Night vision screen is completely black
-Battery 4G::Preview::Image color cast/Night vision screen is completely black
-PoE::Preview::Image is flashing or flicking
-DC WIFI::Preview::Image is flashing or flicking
-Battery 4G::Preview::Image is flashing or flicking
-Battery WIFI::Preview::Image is flashing or flicking
-Battery WIFI::Preview::Image is ghosting or smearing
-Battery 4G::Preview::Image is ghosting or smearing
-DC WIFI::Preview::Image is ghosting or smearing
-Accessories::Others::Damaged accessories
-Battery 4G::PTZ::Self-test stuck/camera makes noise when using PTZ feature
-Battery WIFI::PTZ::Self-test stuck/camera makes noise when using PTZ feature
-DC WIFI::Hardware::Doorbell button stuck
-PoE::Hardware::Doorbell button stuck
-Battery WIFI::Hardware::Charging port(Mirco-B) physically damaged
-Battery 4G::Hardware::Charging port(Mirco-B) physically damaged
-Home Hub::Alert::Home Hub Ring(Siren) doesn't work
-Battery 4G::Others::Camera with factory firmware broadcasts Chinese voice and displays abnormal OSD
+Products::Exchange ≥ 2 times and there are still problems-
+Products::Product functions are not up to expectations-
+Reolink Software::App::"Scene setup failed" when attempting to enable Push via Shortcuts
+Reolink Software::App::"Sorry, this service is not available in your area."
+Reolink Software::App::App adaptation problem on Android tablet/iPad/folding screen
 Reolink Software::App::App crashes
-DC WIFI::Firmware and others::Software reports latest version despite new firmware release online
-NVR::Firmware and others::Software reports latest version despite new firmware release online
-PoE::Firmware and others::Software reports latest version despite new firmware release online
-NVR::Hardware::Fail to recognize USB when backup recordings from NVR monitor
-PoE::Hardware::Dome camera cannot adjust lens angle
-Reolink Software::Client::Client prompts for a new version every time it starts
-Reolink Software::Client::Client auto-update failed
-Reolink Software::App::Push Delay
 Reolink Software::App::App preview screen 1:1 with black borders
+Reolink Software::App::Camera live view image repeats
+Reolink Software::App::cannot preview the main stream via app
+Reolink Software::App::Cannot receive Push
 Reolink Software::App::Fail to connect the camera in WAN after upgrading the Reolink app
-PoE::Firmware and others::Camera with factory firmware broadcasts Chinese voice and displays abnormal OSD
-DC WIFI::Firmware and others::Camera with factory firmware broadcasts Chinese voice and displays abnormal OSD
-Battery 4G::Others::QR code is invalid
-DC 4G::Others::QR code is invalid
-DC WIFI::Firmware and others::QR code is invalid
-PoE::Firmware and others::QR code is invalid
-Battery WIFI::Others::QR code is invalid
-Battery WIFI::Network::Cannot access camera after connecting to SP
-Battery 4G::Network::Cannot access camera after connecting to SP
-Battery WIFI::Others::Status light flashes red and blue alternately/log has I2C exception field
-Battery 4G::Others::Status light flashes red and blue alternately/log has I2C exception field
-Battery 4G::Hardware::Some IR lights/spotlights are off or dim
-Battery WIFI::Hardware::Some IR lights/spotlights are off or dim
-PoE::PTZ::Self-test stuck/camera makes noise when using PTZ feature
-DC WIFI::PTZ::Self-test stuck/camera makes noise when using PTZ feature
+Reolink Software::App::Fail to download time lapse videos
+Reolink Software::App::Fail to generate timelapse files
+Reolink Software::App::Failed to load/missing/unexpected configurations
+Reolink Software::App::General Bug
+Reolink Software::App::Push cannot be enabled or test failed
+Reolink Software::App::Push Delay
+Reolink Software::App::Push received but no Push sound
 Reolink Software::App::Push sound disorder
+Reolink Software::App::Push was turned off automatically
+Reolink Software::App::Specific Device Access Issue
 Reolink Software::Client::"No write permission to folder" error when trying to download recordings
+Reolink Software::Client::8.10.X and above client function buttons disappear or do not take effect
+Reolink Software::Client::8.10.X or above client preview with sound but no picture/Live view loading failed
+Reolink Software::Client::Camera live view image repeats
+Reolink Software::Client::Client auto-update failed
+Reolink Software::Client::Client crashes/entire screen black screen
+Reolink Software::Client::Client prompts for a new version every time it starts
+Reolink Software::Client::Fail to download recordings form SD card/HDD via the client
+Reolink Software::Client::Fail to download time lapse videos
+Reolink Software::Client::Failed to load/missing/unexpected configurations
+Reolink Software::Client::General Bug
+Reolink Software::Client::JavaScript Error: Win 32 error 126 when installing the V8.10.X or above client
 Reolink Software::Client::Receiving "Failed to get pictures path" error when installing V8.10.X or above client
-/
+Reolink Software::Client::Specific Device Access Issue
+Reolink Software::Client::The delay increases after the client runs for a long time
+Service::Warranty policy
+Tax::Sales tax-exempt(US/CA)
+Tax::VAT deduct(EU/UK)
 
 
 "PLEASE KINDLY SELECT SOP TYPE FOR THIS CUSTOMER CONCERNS CLEARLY UNDERSTAND EACH SENTENCE. PROVIDE ACCURATE SOP REALTED. IF POSSIBLE YOU MAY PUT ARTICLES FROM REOLINK. , USE 100X TO THINK BEFORE ANSWERING"

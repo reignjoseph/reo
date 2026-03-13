@@ -1,90 +1,180 @@
-Battery WIFI::Alert::Auto tracking doesn't work properly
-Battery WIFI::Alert::No attachment for Email Alerts
-Battery WIFI::Alert::Non-Detection Area Smart detection False alert
-Battery WIFI::Alert::PIR doesn't work occassionally/alarm delay/detection distance is short
-Battery WIFI::Alert::PIR False Alerts
-Battery WIFI::Alert::PIR sensor doesn't work
-Battery WIFI::Alert::Pixelated image/video in the Email attachment
-Battery WIFI::Alert::Smart detection doesn't work
-Battery WIFI::Alert::Smart detection False Alerts
-Battery WIFI::Alert::The first frame of email pictures/videos is too dark (only for AI models)
-Battery WIFI::Audio::Audio Noise
-Battery WIFI::Audio::Low sound on the App side while using 2-way audio
-Battery WIFI::Audio::Low volume on the camera side when using Two-way audio on Android devices
-Battery WIFI::Audio::Speaker no sound output
-Battery WIFI::Audio::Two-way audio with echo/noise
-Battery WIFI::Battery::Battery problem (battery lights flash Green and Orange alternately or off)
-Battery WIFI::Battery::Camera drains fast(model supports continuous recording)
-Battery WIFI::Battery::Camera drains fast(model supports motion recording only)
-Battery WIFI::Battery::Camera not powered
-Battery WIFI::Battery::DC not charging
-Battery WIFI::Battery::Doorbell (Battery) Charges slowly or barely charges when connected to the existing transformer wiring
-Battery WIFI::Battery::Inaccurate battery level display
-Battery WIFI::Battery::SP not charging
-Battery WIFI::Hardware::Charging port(Mirco-B) physically damaged
-Battery WIFI::Hardware::Charging port(Type-C) physically damaged
-Battery WIFI::Hardware::Day and night mode does not auto switch
-Battery WIFI::Hardware::Doorbell button stuck
-Battery WIFI::Hardware::Physical damage to camera itself
-Battery WIFI::Hardware::Some IR lights/spotlights are off or dim
-Battery WIFI::Hardware::Spotlights automatically switch on/off repeatedly
-Battery WIFI::Hardware::Spotlights cannot be turned on
-Battery WIFI::Hardware::Unable to reset
-Battery WIFI::Hardware::Water or fog in Camera
-Battery WIFI::Hardware::When the light comes on, it goes offline
-Battery WIFI::Initial setup::After scanning the WiFi QR code, it prompts that "QR code does not match"
-Battery WIFI::Initial setup::Camera failed to scan the WiFi QR code
-Battery WIFI::Initial setup::Camera prompts "Connection to the router failed" during the initial setup
-Battery WIFI::Initial setup::Failed to obtain configuration information
-Battery WIFI::Initial setup::Incorrect username and password/Authentication failed/Ask for a password even after reset
-Battery WIFI::Initial setup::Initial setup issue (Exclusive to Bluetooth pairing method)
-Battery WIFI::Initial setup::Voice Broadcast Router connected successfully but access failed
-Battery WIFI::Network::Accessible in LAN and inaccessible in WAN
-Battery WIFI::Network::Camera remains offline after router resumes
-Battery WIFI::Network::Cannot access camera after connecting to SP
-Battery WIFI::Network::Dual-band WiFi camera can only connect to 2.4Ghz, but not to 5Ghz, vice versa
-Battery WIFI::Network::Inaccessible in LAN and accessible in WAN
-Battery WIFI::Network::Intermittent connectivity issue (The camera remains online but often unreachable)
-Battery WIFI::Network::Intermittent offline issue (The camera goes offline on its own)
-Battery WIFI::Others::Device automatically reverts to factory settings
-Battery WIFI::Others::Device restarts automatically
-Battery WIFI::Others::Firmware upgrade failed
-Battery WIFI::Others::Incorrect Time/Date on Screen
-Battery WIFI::Others::PTZ/spotlight/two-way voice/Audio cannot be turned on/off
-Battery WIFI::Others::QR code is invalid
-Battery WIFI::Others::SIM card or SD card slot problem
-Battery WIFI::Others::Some configurations did not persist after saving
-Battery WIFI::Others::Status light flashes red and blue alternately/log has I2C exception field
-Battery WIFI::Others::UID tag missing
-Battery WIFI::Playback::Playback page video cannot be loaded
-Battery WIFI::Playback::Recordings loaded successfully but failed to playback
-Battery WIFI::Preview::Can't load the preview screen
-Battery WIFI::Preview::Fixed-lens camera image is out of focus
-Battery WIFI::Preview::Image color cast/Night vision screen is completely black
-Battery WIFI::Preview::Image is flashing or flicking
-Battery WIFI::Preview::Image is ghosting or smearing
-Battery WIFI::Preview::Image overexposure
-Battery WIFI::Preview::Image pixilation
-Battery WIFI::Preview::Image stitching issue
-Battery WIFI::Preview::Inconsistent brightness between the two lenses
-Battery WIFI::Preview::IR light is abnormal
-Battery WIFI::Preview::IR lights don't light up during the night
-Battery WIFI::Preview::Live view has lines or black dots
-Battery WIFI::Preview::Microphone doesn't work/No sound in preview & playback
-Battery WIFI::Preview::Night Vision Reflective
-Battery WIFI::Preview::no picture in preview
-Battery WIFI::Preview::Overexposure of the first frame during the day (only for AI models)
-Battery WIFI::Preview::Overexposure of the first frame of night vision (only for AI models)
-Battery WIFI::Preview::Preview Delay/Freezes
-Battery WIFI::Preview::Unable to preview the main stream
-Battery WIFI::PTZ::Monitor point/preset point deviation
-Battery WIFI::PTZ::PT angle becomes smaller
-Battery WIFI::PTZ::PT no response
-Battery WIFI::PTZ::Self-test stuck/camera makes noise when using PTZ feature
-Battery WIFI::PTZ::The camera gets disconnected once using the PTZ feature
-Battery WIFI::SD card::Camera not recording to SD card
-Battery WIFI::SD card::Camera stops recording when SD card is full
-Battery WIFI::SD card::Continuous recording failed
-Battery WIFI::SD card::Motion-based recording failed
-Battery WIFI::SD card::SD card cannot be formatted
-Battery WIFI::SD card::SD card not recognized
+read this --->""
+>Battery WIFI::Alert::Auto tracking doesn't work properly
+read this --->""
+>Battery WIFI::Alert::No attachment for Email Alerts
+read this --->""
+>Battery WIFI::Alert::Non-Detection Area Smart detection False alert
+read this --->""
+>Battery WIFI::Alert::PIR doesn't work occassionally/alarm delay/detection distance is short
+read this --->""
+>Battery WIFI::Alert::PIR False Alerts
+read this --->""
+>Battery WIFI::Alert::PIR sensor doesn't work
+read this --->""
+>Battery WIFI::Alert::Pixelated image/video in the Email attachment
+read this --->""
+>Battery WIFI::Alert::Smart detection doesn't work
+read this --->""
+>Battery WIFI::Alert::Smart detection False Alerts
+read this --->""
+>Battery WIFI::Alert::The first frame of email pictures/videos is too dark (only for AI models)
+read this --->""
+>Battery WIFI::Audio::Audio Noise
+read this --->""
+>Battery WIFI::Audio::Low sound on the App side while using 2-way audio
+read this --->""
+>Battery WIFI::Audio::Low volume on the camera side when using Two-way audio on Android devices
+read this --->""
+>Battery WIFI::Audio::Speaker no sound output
+read this --->""
+>Battery WIFI::Audio::Two-way audio with echo/noise
+read this --->""
+>Battery WIFI::Battery::Battery problem (battery lights flash Green and Orange alternately or off)
+read this --->""
+>Battery WIFI::Battery::Camera drains fast(model supports continuous recording)
+read this --->""
+>Battery WIFI::Battery::Camera drains fast(model supports motion recording only)
+read this --->""
+>Battery WIFI::Battery::Camera not powered
+read this --->""
+>Battery WIFI::Battery::DC not charging
+read this --->""
+>Battery WIFI::Battery::Doorbell (Battery) Charges slowly or barely charges when connected to the existing transformer wiring
+read this --->""
+>Battery WIFI::Battery::Inaccurate battery level display
+read this --->""
+>Battery WIFI::Battery::SP not charging
+read this --->""
+>Battery WIFI::Hardware::Charging port(Mirco-B) physically damaged
+read this --->""
+>Battery WIFI::Hardware::Charging port(Type-C) physically damaged
+read this --->""
+>Battery WIFI::Hardware::Day and night mode does not auto switch
+read this --->""
+>Battery WIFI::Hardware::Doorbell button stuck
+read this --->""
+>Battery WIFI::Hardware::Physical damage to camera itself
+read this --->""
+>Battery WIFI::Hardware::Some IR lights/spotlights are off or dim
+read this --->""
+>Battery WIFI::Hardware::Spotlights automatically switch on/off repeatedly
+read this --->""
+>Battery WIFI::Hardware::Spotlights cannot be turned on
+read this --->""
+>Battery WIFI::Hardware::Unable to reset
+read this --->""
+>Battery WIFI::Hardware::Water or fog in Camera
+read this --->""
+>Battery WIFI::Hardware::When the light comes on, it goes offline
+read this --->""
+>Battery WIFI::Initial setup::After scanning the WiFi QR code, it prompts that "QR code does not match"
+read this --->""
+>Battery WIFI::Initial setup::Camera failed to scan the WiFi QR code
+read this --->""
+>Battery WIFI::Initial setup::Camera prompts "Connection to the router failed" during the initial setup
+read this --->""
+>Battery WIFI::Initial setup::Failed to obtain configuration information
+read this --->""
+>Battery WIFI::Initial setup::Incorrect username and password/Authentication failed/Ask for a password even after reset
+read this --->""
+>Battery WIFI::Initial setup::Initial setup issue (Exclusive to Bluetooth pairing method)
+read this --->""
+>Battery WIFI::Initial setup::Voice Broadcast Router connected successfully but access failed
+read this --->""
+>Battery WIFI::Network::Accessible in LAN and inaccessible in WAN
+read this --->""
+>Battery WIFI::Network::Camera remains offline after router resumes
+read this --->""
+>Battery WIFI::Network::Cannot access camera after connecting to SP
+read this --->""
+>Battery WIFI::Network::Dual-band WiFi camera can only connect to 2.4Ghz, but not to 5Ghz, vice versa
+read this --->""
+>Battery WIFI::Network::Inaccessible in LAN and accessible in WAN
+read this --->""
+>Battery WIFI::Network::Intermittent connectivity issue (The camera remains online but often unreachable)
+read this --->""
+>Battery WIFI::Network::Intermittent offline issue (The camera goes offline on its own)
+read this --->""
+>Battery WIFI::Others::Device automatically reverts to factory settings
+read this --->""
+>Battery WIFI::Others::Device restarts automatically
+read this --->""
+>Battery WIFI::Others::Firmware upgrade failed
+read this --->""
+>Battery WIFI::Others::Incorrect Time/Date on Screen
+read this --->""
+>Battery WIFI::Others::PTZ/spotlight/two-way voice/Audio cannot be turned on/off
+read this --->""
+>Battery WIFI::Others::QR code is invalid
+read this --->""
+>Battery WIFI::Others::SIM card or SD card slot problem
+read this --->""
+>Battery WIFI::Others::Some configurations did not persist after saving
+read this --->""
+>Battery WIFI::Others::Status light flashes red and blue alternately/log has I2C exception field
+read this --->""
+>Battery WIFI::Others::UID tag missing
+read this --->""
+>Battery WIFI::Playback::Playback page video cannot be loaded
+read this --->""
+>Battery WIFI::Playback::Recordings loaded successfully but failed to playback
+read this --->""
+>Battery WIFI::Preview::Can't load the preview screen
+read this --->""
+>Battery WIFI::Preview::Fixed-lens camera image is out of focus
+read this --->""
+>Battery WIFI::Preview::Image color cast/Night vision screen is completely black
+read this --->""
+>Battery WIFI::Preview::Image is flashing or flicking
+read this --->""
+>Battery WIFI::Preview::Image is ghosting or smearing
+read this --->""
+>Battery WIFI::Preview::Image overexposure
+read this --->""
+>Battery WIFI::Preview::Image pixilation
+read this --->""
+>Battery WIFI::Preview::Image stitching issue
+read this --->""
+>Battery WIFI::Preview::Inconsistent brightness between the two lenses
+read this --->""
+>Battery WIFI::Preview::IR light is abnormal
+read this --->""
+>Battery WIFI::Preview::IR lights don't light up during the night
+read this --->""
+>Battery WIFI::Preview::Live view has lines or black dots
+read this --->""
+>Battery WIFI::Preview::Microphone doesn't work/No sound in preview & playback
+read this --->""
+>Battery WIFI::Preview::Night Vision Reflective
+read this --->""
+>Battery WIFI::Preview::no picture in preview
+read this --->""
+>Battery WIFI::Preview::Overexposure of the first frame during the day (only for AI models)
+read this --->""
+>Battery WIFI::Preview::Overexposure of the first frame of night vision (only for AI models)
+read this --->""
+>Battery WIFI::Preview::Preview Delay/Freezes
+read this --->""
+>Battery WIFI::Preview::Unable to preview the main stream
+read this --->""
+>Battery WIFI::PTZ::Monitor point/preset point deviation
+read this --->""
+>Battery WIFI::PTZ::PT angle becomes smaller
+read this --->""
+>Battery WIFI::PTZ::PT no response
+read this --->""
+>Battery WIFI::PTZ::Self-test stuck/camera makes noise when using PTZ feature
+read this --->""
+>Battery WIFI::PTZ::The camera gets disconnected once using the PTZ feature
+read this --->""
+>Battery WIFI::SD card::Camera not recording to SD card
+read this --->""
+>Battery WIFI::SD card::Camera stops recording when SD card is full
+read this --->""
+>Battery WIFI::SD card::Continuous recording failed
+read this --->""
+>Battery WIFI::SD card::Motion-based recording failed
+read this --->""
+>Battery WIFI::SD card::SD card cannot be formatted
+read this --->""
+>Battery WIFI::SD card::SD card not recognized

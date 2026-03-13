@@ -1,174 +1,174 @@
 “Read the following SOP mapping carefully. Each read this --->"description ..." explains a camera behavior or customer scenario. The line following > is the corresponding SOP label to follow. Understand that my goal is to use these descriptions to correctly assign SOPs when handling tickets or troubleshooting. Do not change wording, do not interpret beyond what is written, and treat each description line by line. Confirm understanding by summarizing each SOP with its description and label.”
 
-read this --->""
+read this --->"description Camera identifies motion as Person/Vehicle/Animal type If the motion is not recognized as Person/Vehicle/Animal based on the video type or Smart detection tool analysis, select【Smart detection doesn't work】SOP. description The camera can pan and tilt but fails to track Any situation where the camera is initially tracking a target but stops or fails to continue tracking applies to this SOP. description Analysize tracking strategy according to the video。 If it is an old tracking strategy, it is recommended that customer upgrade camera to the latest version to use the new tracking strategy. 1.Old tracking strategy: When the target deviates from the center of the screen, camera will start tracking. 2.New tracking strategy: When the target touches the upper, lower, left, and right edges of the live view screen, camera will start tracking."
 >DC WIFI::Alert::Auto tracking doesn't work properly
-read this --->""
+read this --->"description When there is a motion in front of the camera, sometimes no push notification, recording or other alerts"
 >DC WIFI::Alert::Motion Detection doesn't work occassionally
-read this --->""
+read this --->"description There is no obvious movement in detection zone, but the camera still record or do other alerts Request for video from customer for verification"
 >DC WIFI::Alert::Motion Detection False Alerts
-read this --->""
+read this --->"description The customer can receive alarm emails, but there are no attachments (pictures/videos)"
 >DC WIFI::Alert::No attachment for Email Alerts
-read this --->""
+read this --->"description Moving person/vehicle/pet in the non-detection zone make the camera to record/send notifications/send email/auto-track/turn on the spotlights"
 >DC WIFI::Alert::Non-Detection Area Smart detection False alert
-read this --->""
+read this --->"description One of the following conditions is missing detection of smart detection 1.A person/vehicle/pet passing by, but no corresponding alarm such as Push/Email/Siren/Record/FTP/Spotlight. 2.Person/vehicle/pet appears in continuous recording/Any Motion, but these recordings don't appear after using the filter feature. (Only suitable for Battery-free cameras)"
 >DC WIFI::Alert::Smart detection doesn't work
-read this --->""
+read this --->"description Receive a person/vehicle/pet alarm but there is no corresponding moving target in the email photo or recordings"
 >DC WIFI::Alert::Smart detection False Alerts
-read this --->""
+read this --->"description Preview and playback with humming sound/current noise/sound like water Request for video from customer for verification description The phone/computer can play other multimedia sounds properly"
 >DC WIFI::Audio::Audio Noise
-read this --->""
+read this --->"description When using the app for two-way audio, the person using the app can barely hear the voice transmitted from the camera. Request video for verification description This problem exists on both mobile Phone App and PC Client software"
 >DC WIFI::Audio::Low sound on the App side while using 2-way audio
-read this --->""
+read this --->"description When using the two-way audio feature on the Android App, from the App the sound from the camera can be heard, the sound from the camera is low or almost inaudible Request for videos for verification description This problem exists on both mobile Phone App and PC Client software"
 >DC WIFI::Audio::Low volume on the camera side when using Two-way audio on Android devices
-read this --->""
+read this --->"description No sound output from the camera when the customer uses the two-way audio description No sound when manually triggering the siren How to Manually Trigger the Siren of your Camera"
 >DC WIFI::Audio::Speaker no sound output
-read this --->""
+read this --->"description There is no noise while previewing description Two-way audio with echo/noise Request for video for verification"
 >DC WIFI::Audio::Two-way audio with echo/noise
-read this --->""
+read this --->"description The camera broadcasts Chinese voice prompts, and the OSD does not display the correct date, time, or camera name, but shows strange numbers instead. And under these conditions, the camera firmware upgrade fails."
 >DC WIFI::Firmware and others::Camera with factory firmware broadcasts Chinese voice and displays abnormal OSD
-read this --->""
+read this --->"description The device loses configuration if one of the following issues is happening 1.All the settings go back to default after a restart 2.All the settings randomly go back to default 3.Camera keeps prompting the reset beep sound 4.Camera keeps saying "Factory reset succeeded. Please release reset button" or camera keeps prompting the initial welcome message after working for a while"
 >DC WIFI::Firmware and others::Device automatically reverts to factory settings
-read this --->""
+read this --->"description If any of the following conditions are observed 1.There is noise/abnormal sound/vibration 2.Causes old doorbells or old Chimes installed nearby to vibrate 3.There is no sound until the doorbell is pressed several times"
 >DC WIFI::Firmware and others::Doorbell is noisy/vibrating/there is no sound until the doorbell is pressed several times
-read this --->""
+read this --->"description Upgrade progress bar is stuck / Error message "Upgrade failed" / The version number remains unchanged after the upgrade Please note in the comment of this task which specific issue the customer reported."
 >DC WIFI::Firmware and others::Firmware upgrade failed
-read this --->""
+read this --->"description The firmware update progress bar moves a bit, but remains stagnant or displays "Upgrade failed"."
 >DC WIFI::Firmware and others::Firmware upgrade failed (transmission timed out)
-read this --->""
+read this --->"description After synchronizing the camera time, the camera will display the wrong time soon"
 >DC WIFI::Firmware and others::Incorrect Time/Date on Screen
-read this --->""
+read this --->"description PTZ/Spotlight/Two-way audio/Audio cannot be opened or prompts Operation Failed, and cannot be opened in 2 software or above"
 >DC WIFI::Firmware and others::PTZ/spotlight/two-way voice/Audio cannot be turned on/off
-read this --->""
+read this --->"description UID error or The QR code is invalid 1.On the Reolink App, the customer received the message "The QR code is invalid. Please check if it is the code of Reolink Device" when scanning the QR code. When inputting the UID number of the camera, the customer got the message "UID error. Please check the characters and try again." 2.On the Reolink Client, when inputting the UID number of the camera, the customer got the message "Failed to add device. Please check your network and ensure the UID is correct.""
 >DC WIFI::Firmware and others::QR code is invalid
-read this --->""
+read this --->"description If any of the following situations apply, it indicates a problem with the SD card/SIM card slot 1.The SD card/SIM card falls into the slot, and shaking the device produces a sound of the card moving inside. Proceed directly to after-sales support. 2.The SD card/SIM card cannot be locked in place and keeps popping out. Follow the tasks below for further investigation. 3.The SD card/SIM card cannot be removed. Follow the tasks below for further investigation. Please request for pictures/videos for verification."
 >DC WIFI::Firmware and others::SIM card or SD card slot problem
-read this --->""
+read this --->"description It shows "This is the most current version available" when using the online update feature, even though a newer version is available in the download center."
 >DC WIFI::Firmware and others::Software reports latest version despite new firmware release online
-read this --->""
+read this --->"description Partial configuration loss 1.New settings revert to default or previous settings after a certain period. 2.After saving new settings, returning to the previous level and re-entering the setting, or performing other operations, leads to a restoration of default or previous settings. 3.Please specify which configurations are being lost."
 >DC WIFI::Firmware and others::Some configurations did not persist after saving
-read this --->""
+read this --->"description The UID code on the device is lost, and cannot be added by scanning the code Need to provide body picture confirmation Instruction: How to Find the UID of Your Cameras and NVRs Note: The UID code of the Argus PT/Go PT series is at the bottom of the camera and may be blocked by the bracket. You can find the UID code by unscrewing the bracket【Macro B20】 After the doorbell is installed, the UID is also blocked and needs to be removed from the wall and then the UID can be found on the back."
 >DC WIFI::Firmware and others::UID tag missing
-read this --->""
+read this --->"description The device's IR or status indicator light does not illuminate after powering on Please pay attention to distinguish the type of power supply being used (PoE switch/PoE NVR/DC power/ battery)."
 >DC WIFI::Hardware::Camera not powered
-read this --->""
+read this --->"description The camera(with IR lights) remains in either color or black-and-white and cannot switch properly 收集图片确认 Camera Image Problems"
 >DC WIFI::Hardware::Day and night mode does not auto switch
-read this --->""
+read this --->"description Doorbell button is stuck Request video from customer for verification 1.Press the doorbell, it should stop after ringing for a while, but it keeps ringing non-stop 2.No one rang the doorbell, but it rang by itself. If it sounds after pressing multiple times, please choose SOP [Doorbell is noisy/vibrating/there is no sound until the doorbell is pressed several times]."
 >DC WIFI::Hardware::Doorbell button stuck
-read this --->""
+read this --->"description Camera's own physical damage 1.Such as lens cracking, tail cables (network port/dc cord/reset cord) is damaged, external casing damage, insects entering the lens interior, internal antenna detachment, emitting a burnt smell and producing smoke, camera body surface shows oil leakage, etc. 2.Request for video pictures/videos for verification."
 >DC WIFI::Hardware::Physical damage to camera itself
-read this --->""
+read this --->"description Request images of partially non-illuminated or dim IR LEDs/spotlights"
 >DC WIFI::Hardware::Some IR lights/spotlights are off or dim
-read this --->""
+read this --->"description Spotlights keep switching on and off automotically Request for video for verification"
 >DC WIFI::Hardware::Spotlights automatically switch on/off repeatedly
-read this --->""
+read this --->"description The spotlight doesn't turn on when 1.The alarm is triggered(for all models, except 823S2) or 2.Being previewed at night(battery-powered camera only) description The camera can be accessed successfully. description Camera supports spotlight Which Cameras Support the Spotlight"
 >DC WIFI::Hardware::Spotlights cannot be turned on
-read this --->""
+read this --->"description The device cannot be successfully reset by pressing the reset button when it is powered on. 1.Device with Speaker: Check if there is a sound prompt when pressing the Reset button. If there is no prompt, the reset may not have taken effect. 2.Login Status: If the camera still requires the original password after reset, the reset was not successful."
 >DC WIFI::Hardware::Unable to reset
-read this --->""
+read this --->"description Water has entered the camera, such as water entering the lens, body, tail cable, or the lens has obvious water mist or drops Request for pictures/videos for verification; if lens pictures cannot be provided, preview images can be provided to assist verification"
 >DC WIFI::Hardware::Water or fog in Camera
-read this --->""
+read this --->"description Camera disconnects once the spotlights/IR lights turn on description Please help check if the issue is related to the device or stream type by switching Wi-Fi/cellular, changing live stream modes, or testing on different platforms (App, Client, web, or NVR monitor). 1.Have already tried to switch wifi/cellular data on phone/pc, live stream mode (Clear/Fluent) but still does not work 2.Same issue on different software (App/Client/web/NVR monitor) *Battery-powered camera does not support web/NVR"
 >DC WIFI::Hardware::When the light comes on, it goes offline
-read this --->""
+read this --->"description The camera prompts "QR code does not match" after scanning the QR code."
 >DC WIFI::Initial setup::After scanning the WiFi QR code, it prompts that "QR code does not match"
-read this --->""
+read this --->"description After the camera is powered on, it makes a "ding ding" sound or says "Please run Reolink App, add the camera and set it up," indicating that it is ready to be set up.. However, during the step where the camera scans the QR code from the Reolink App, no beep sound is heard to confirm a successful scan."
 >DC WIFI::Initial setup::Camera failed to scan the WiFi QR code
-read this --->""
+read this --->"description The camera plays a voice prompt saying "Connection to the router failed", or the app shows text error message "WiFi Connection Failed". Reolink Connection to Router Failed"
 >DC WIFI::Initial setup::Camera prompts "Connection to the router failed" during the initial setup
-read this --->""
+read this --->"description After successfully connecting the camera to the network, when added to the app, clicking on the camera results in a failure to load initialization information. Indicators of successful connection: 1.Models with QR code scanning capability provide a voice prompt saying "connection to the router succeeded." 2.For 2.4GHz models, a voice announcement confirms "network connection succeeded.""
 >DC WIFI::Initial setup::Failed to obtain configuration information
-read this --->""
+read this --->"description When setting up the camera, the customer has not set a password, yet they are prompted to enter one. Upon entering a password, an "incorrect username and password" message is displayed. Even after resetting the camera, the issue persists."
 >DC WIFI::Initial setup::Incorrect username and password/Authentication failed/Ask for a password even after reset
-read this --->""
+read this --->"description Unable to complete initial configuration via Bluetooth pairing"
 >DC WIFI::Initial setup::Initial setup issue (Exclusive to Bluetooth pairing method)
-read this --->""
+read this --->"description Camera broadcasts "connection to the router succeeded", but the Reolink App/Client displays "connection failed" when adding camera."
 >DC WIFI::Initial setup::Voice Broadcast Router connected successfully but access failed
-read this --->""
+read this --->"description Camera is wired connected, while adding camera to the app/client, camera shows "connection failed" error message Just meet one of the following situations: 1. When configuring and adding a camera for the first time, it prompts "connection failed". 2. After using it for a period of time, the camera’s wired connection cannot be connected at all, prompting "connection failed". 3.The camera can't be scanned in LAN"
 >DC WIFI::Initial setup::Wired connection but access failed (For cameras with Ethernet port)
-read this --->""
+read this --->"description In the external network environment, Reolink device cannot be accessed from any terminal device, regardless of whether alarm notifications (such as Push or Email) are still received. 1.The external network includes external WiFi and traffic, ask for the UID to verify it 2.The Push or Email functions use different servers. Receiving notifications does not indicate that external network access is normal and does not affect the applicability of the SOP. description Please help check if the issue is related to the device or stream type by switching Wi-Fi/cellular, changing live stream modes, or testing on different platforms (App, Client, web, or NVR monitor). 1.Have already tried to switch wifi/cellular data on phone/pc, live stream mode (Clear/Fluent) but still does not work 2.Same issue on different software (App/Client/web/NVR monitor) *Battery-powered camera does not support web/NVR"
 >DC WIFI::Network::Accessible in LAN and inaccessible in WAN
-read this --->""
+read this --->"description The camera can be connected with Ethernet cable connecetd but failed after removing the Etherent cable"
 >DC WIFI::Network::Accessible when camera is connected to the router via cable but inaccessible when camera connected via WiFi
-read this --->""
+read this --->"description The camera cannot reconnect to the network after the router stops working for a period of time In any of the following situations, the camera cannot automatically reconnect to the network and is still offline. 1. After restarting the router. 2. The router is powered off for a period of time and then powered on. 3. The router connects to the network after being disconnected for a period of time."
 >DC WIFI::Network::Camera remains offline after router resumes
-read this --->""
+read this --->"description The router has dual frequencies, but the camera can only connect to either the 2.4GHz or 5GHz WiFi."
 >DC WIFI::Network::Dual-band WiFi camera can only connect to 2.4Ghz, but not to 5Ghz, vice versa
-read this --->""
+read this --->"description The device does not appear in the Scan Device(s) in LAN, and prompt connection failed when added using both UID and IP address. Battery-powered devices do not support add via IP; they can only be added using the UID."
 >DC WIFI::Network::Inaccessible in LAN and accessible in WAN
-read this --->""
+read this --->"We recommend updating the firmware to the latest version to ensure the camera is in good condition. How to Check and Update Reolink Device Firmware"
 >DC WIFI::Network::The camera frequently sends DHCP requests
-read this --->""
+read this --->"description WAN connection fails intermittently"
 >DC WIFI::Network::WAN connection failed (intermittent)
-read this --->""
+read this --->"description One of the following conditions is difficult to connect, wifi intermittently drops, auto reboot 1.Camera randomly dropped/frequently disconnected, it cannot be accessed when disconnected 2.The indicator light shows that the camera is offline (check this for models with indicator light) 3.Camera shows "connection failed" and can be connected again after a few minutes 4.Camera is disconnecting and connecting again to the router 5.PTZ camera often rotates automatically PT 6.If continuous recording is set, you can see that there are many gaps in the continuous recording playback"
 >DC WIFI::Network::WiFi disconnection/Connection difficulties/Auto restart
-read this --->""
+read this --->"description Preview is working, but playback cannot be loaded in 2 software or above The App playback page prompts "Failed to load video info. Please tap to retry", and the Reolink Client playback page video cannot be loaded"
 >DC WIFI::Playback::Playback page video cannot be loaded
-read this --->""
+read this --->"description There are recordings in the timeline but failed to play the recordings via the software"
 >DC WIFI::Playback::Recordings loaded successfully but failed to playback
-read this --->""
+read this --->"description Camera preview not loading, continuously spinning icon description Please help check if the issue is related to the device or stream type by switching Wi-Fi/cellular, changing live stream modes, or testing on different platforms (App, Client, web, or NVR monitor). 1.Have already tried to switch wifi/cellular data on phone/pc, live stream mode (Clear/Fluent) but still does not work 2.Same issue on different software (App/Client/web/NVR monitor) *Battery-powered camera does not support web/NVR"
 >DC WIFI::Preview::Can't load the preview screen
-read this --->""
+read this --->"IR lights keep switch on/off in black and white mode Only for E1 series with smart detection"
 >DC WIFI::Preview::E1 series IR lights switch on/off repeatedly (only for AI models)
-read this --->""
+read this --->"description Image is blurry or out of focus Request for picture/video for verification Note: The camera will not focus automatically during PT. The camera will focus only during Zoom. Therefore, during PT, including returning to the guard position/preset point, if it only involves PT and not Zoom, it is normal for the camera image to be blurry, so please focus manually."
 >DC WIFI::Preview::Fixed-lens camera image is out of focus
-read this --->""
+read this --->"description The image is green, pink or purple / The nighttime image is completely black while daytime image is normal Request picture/video from customer for verification Camera Image Problems description The image is still abnormal after a hard reset Make sure that the camera is reset while powering up"
 >DC WIFI::Preview::Image color cast/Night vision screen is completely black
-read this --->""
+read this --->"description Image flashes or flickers under certain light sources Camera Image Problems"
 >DC WIFI::Preview::Image is flashing or flicking
-read this --->""
+read this --->"description Camera displays a ghosting or smearing image on the moving object at night Camera Image Problems"
 >DC WIFI::Preview::Image is ghosting or smearing
-read this --->""
+read this --->"description Image is overexposed Request for pictures for verification Camera Image Problems"
 >DC WIFI::Preview::Image overexposure
-read this --->""
+read this --->"description Image is pixelated Request picture from customer for verification Camera Image Problems description Please help check if the issue is related to the device or stream type by switching Wi-Fi/cellular, changing live stream modes, or testing on different platforms (App, Client, web, or NVR monitor). 1.Have already tried to switch wifi/cellular data on phone/pc, live stream mode (Clear/Fluent) but still does not work 2.Same issue on different software (App/Client/web/NVR monitor) *Battery-powered camera does not support web/NVR"
 >DC WIFI::Preview::Image pixilation
-read this --->""
+read this --->"description Any of the following conditions are met: 1.One or two images are turned upside down 2.There are obvious deviations in the stitching of the left and right images Camera Image Problems"
 >DC WIFI::Preview::Image stitching issue
-read this --->""
+read this --->"description The two lenses are facing the same scene, but there is a noticeable difference in image brightness. Request for picture for verification Please note that this issue is different from issue [Day and night mode does not auto switch] on dual-lens models. Refer to Camera Image Problems"
 >DC WIFI::Preview::Inconsistent brightness between the two lenses
-read this --->""
+read this --->"description Camera IR light keeps on and off Request for pictures/videos for verification"
 >DC WIFI::Preview::IR light is abnormal
-read this --->""
+read this --->"description IR lights do not light up in a dark environment For cameras equipped with invisible infrared lights, ask customers to use their phone cameras to take photos for inspection, as the infrared light is invisible to the naked eye but appears faintly under a phone camera."
 >DC WIFI::Preview::IR lights don't light up during the night
-read this --->""
+read this --->"description Horizontal/vertical lines or black dots on the image Ask the video or images for confirmation Camera Image Problems"
 >DC WIFI::Preview::Live view has lines or black dots
-read this --->""
+read this --->"description No sound or very low/inaudible sound during preview and playback Request a video showing the issue description This problem exists on both mobile Phone App and PC Client software"
 >DC WIFI::Preview::Microphone doesn't work/No sound in preview & playback
-read this --->""
+read this --->"description One of the following conditions is night vision reflection Request for pictures for verification 1.After turning on the IR light, the image is overexposed/full white/with wide circles, and the image cannot be seen clearly 2.After turning on the IR light of the camera with glass cover, the image looks foggy (models such as 842A, 543WA)"
 >DC WIFI::Preview::Night Vision Reflective
-read this --->""
+read this --->"description OSD can be seen on the preview image How to Set up the Display Settings (OSD) for Reolink Cameras description The preview/playback image is completely black or white Request for picture for verification"
 >DC WIFI::Preview::No picture in preview
-read this --->""
+read this --->"description The OSD on the preview page is slightly delayed compared to real-time/ There's a delay and stutter in motion in the video/ Camera response is delayed when using PTZ If the issue exists in the main stream only, select the topic [Unable to preview the main stream] description Please help check if the issue is related to the device or stream type by switching Wi-Fi/cellular, changing live stream modes, or testing on different platforms (App, Client, web, or NVR monitor). 1.Have already tried to switch wifi/cellular data on phone/pc, live stream mode (Clear/Fluent) but still does not work 2.Same issue on different software (App/Client/web/NVR monitor) *Battery-powered camera does not support web/NVR"
 >DC WIFI::Preview::Preview Delay/Freezes
-read this --->""
+read this --->"description Image freezes/delays/keeps loading under Clear mode but works fine under Fluent mode description Please help check if the issue is related to the device or stream type by switching Wi-Fi/cellular, changing live stream modes, or testing on different platforms (App, Client, web, or NVR monitor). 1.Have already tried to switch wifi/cellular data on phone/pc, live stream mode (Clear/Fluent) but still does not work 2.Same issue on different software (App/Client/web/NVR monitor) *Battery-powered camera does not support web/NVR"
 >DC WIFI::Preview::Unable to preview the main stream
-read this --->""
+read this --->"description Customers complained about the narrow vertical viewing angle of Duo 3 PoE/WiFi"
 >DC WIFI::Preview::Vertical angle of view is narrow (Exclusive to Duo 3 PoE/WiFi)
-read this --->""
+read this --->"description Image is blurry or out of focus Request for picture/video for verification Note: The camera will not focus automatically during PT. The camera will focus only during Zoom. Therefore, during PT, including returning to the guard position/preset point, if it only involves PT and not Zoom, it is normal for the camera image to be blurry, so please focus manually. description There is an attempt to focus Use the macro [Tech::Device::IPC::Shared::D65 Collect video of the focusing process under Clear stream mode] to request the video and determine which of the following situations it belongs to. If it is [3], it means there is an attempted focusing process: 1. Regardless of whether it is Zoom or Focus, the camera image does not zoom in or out, and the clarity does not change in any way. 2. During Zoom, the screen zooms in and out normally. When Focusing, the sharpness of objects in the picture does not change and is always at the same value. 3. During Zoom, the screen zooms in and out normally. When Focusing, the clarity of objects in the picture changes, sometimes becoming clearer and sometimes blurring. Note: Only providing pictures is invalid. If the video provided by the customer is not compliant or the customer refuses to provide information, making it impossible to judge, send the above three situations to the customer for verbal confirmation."
 >DC WIFI::Preview::Zoom camera image is out of focus (with attempt to focus)
-read this --->""
+read this --->"description Image is blurry or out of focus Request for picture/video for verification Note: The camera will not focus automatically during PT. The camera will focus only during Zoom. Therefore, during PT, including returning to the guard position/preset point, if it only involves PT and not Zoom, it is normal for the camera image to be blurry, so please focus manually. description No attempt to focus process Use the macro [Tech::Device::IPC::Shared::D65 Collect video of the focusing process under Clear stream mode] to request the video and determine which of the following situations it belongs to. If it is [1] or [2], it means there is NO attempted focusing process: 1. Regardless of whether it is Zoom or Focus, the camera image does not zoom in or out, and the clarity does not change in any way. 2. During Zoom, the screen zooms in and out normally. When Focusing, the sharpness of objects in the picture does not change and is always at the same value. 3. During Zoom, the screen zooms in and out normally. When Focusing, the clarity of objects in the picture changes, sometimes becoming clearer and sometimes blurring. Note: Only providing pictures is invalid. If the video provided by the customer is not compliant or the customer refuses to provide information, making it impossible to judge, send the above three situations to the customer for verbal confirmation."
 >DC WIFI::Preview::Zoom camera image is out of focus (without attempt to focus)
-read this --->""
+read this --->"description Camera doesn't return the correct guard point after PT or automatic tracking or the preset point shifts from its correct point"
 >DC WIFI::PTZ::Monitor point/preset point deviation
-read this --->""
+read this --->"description The PT angle becomes smaller and smaller or the range that can be rotated is smaller than the normal range description The issue appears every time using the PT feature via software"
 >DC WIFI::PTZ::PT angle becomes smaller
-read this --->""
+read this --->"description When using the PT feature, the camera doesn't respond at all. Or the camera doesn't respond to specific direction PT command"
 >DC WIFI::PTZ::PT no response
-read this --->""
+read this --->"description While powering on the camera, self-calibration is stuck, or camera can be rotated but makes annoying noise. Request for video for verification"
 >DC WIFI::PTZ::Self-test stuck/camera makes noise when using PTZ feature
-read this --->""
+read this --->"description The camera can be previewed successfully but it became offline once the customer uses the PTZ feature"
 >DC WIFI::PTZ::The camera gets disconnected once using the PTZ feature
-read this --->""
+read this --->"description The following conditions indicate that the SD card is not recording 1.Playback page shows “No recordings.” 2.Some days have recordings on the playback page, while other days do not. 3.It was recording normally before, but recently no new recordings have been generated. 4.The camera is not recording motion detection events to the SD card. 5.The camera is not performing 24/7 continuous recording. description Is SD card detected or recognized properly? If not, proceed to SOP [SD card not recognized] description Was the SD card successfully formatted? If not, proceed to SOP [SD card cannot be formatted]"
 >DC WIFI::SD card::Camera not recording to SD card
-read this --->""
+read this --->"description The SD card overwrite feature is enabled, but when the SD card is full, new recordings cannot be generated."
 >DC WIFI::SD card::Camera stops recording when SD card is full
-read this --->""
+read this --->"description The SD card is detected normally and formats successfully, but the camera cannot perform continuous recording to the SD card."
 >DC WIFI::SD card::Continuous recording failed
-read this --->""
+read this --->"description The model is Lumus 4MP If it's other model, please transfer to SOP [SD card is not full, stop recording/recording does not automatically overwrite/do not record] description The camera records normally when using a 128GB or 64GB SD card. However, when using a 256GB SD card, recording stops after a period of time, and playback is unavailable"
 >DC WIFI::SD card::Lumus stops recording or doesn't record at all when using a 256GB or larger SD card
-read this --->""
+read this --->"description The SD card is detected normally and formats successfully, but the camera cannot perform motion-detection recording to the SD card."
 >DC WIFI::SD card::Motion-based recording failed
-read this --->""
+read this --->"description If any of the following conditions apply, the SD card cannot be formatted 1.The SD card is continuously shown as "not formatted" in the software, and attempting to format still prompts "not formatted." 2.Attempting to format the SD card results in an "operation failed" message. 3.It indicates successful formatting, but the available memory on the SD card remains unchanged."
 >DC WIFI::SD card::SD card cannot be formatted
-read this --->""
+read this --->"description SD card installed correctly but not detected correctly The following two situations are included: 1.When it prompts "No camera SD card is detected. You may not access playback feature." or the Storage section shows "Not detected." 2.When the SD card is recognized but displays 0GB."
 >DC WIFI::SD card::SD card not recognized
 
 “Read the following SOP mapping carefully. Each read this --->"description ..." explains a camera behavior or customer scenario. The line following > is the corresponding SOP label to follow. Understand that my goal is to use these descriptions to correctly assign SOPs when handling tickets or troubleshooting. Do not change wording, do not interpret beyond what is written, and treat each description line by line. Confirm understanding by summarizing each SOP with its description and label.”

@@ -1,28 +1,56 @@
-DC 4G::Alert::Auto tracking doesn't work properly
-DC 4G::Alert::Motion Detection doesn't work occassionally
-DC 4G::Alert::No attachment for Email Alerts
-DC 4G::Alert::Smart detection doesn't work
-DC 4G::Alert::Smart detection False Alerts
-DC 4G::Hardware::Camera not powered
-DC 4G::Hardware::Physical damage to camera itself
-DC 4G::Hardware::Some IR lights/spotlights are off or dim
-DC 4G::Hardware::Water or fog in Camera
-DC 4G::Initial setup::Broadcast "Data call failed"
-DC 4G::Initial setup::Broadcast “Network connection failed” and cannot be accessed
-DC 4G::Initial setup::Broadcast “Network connection succeeded” and cannot be accessed
-DC 4G::Initial setup::Broadcast "Not registered on network. Please activate your SIM card and check the signal strength"
-DC 4G::Initial setup::Failed to obtain configuration information
-DC 4G::Network::Intermittent connection difficulties(Other SIM Card)
-DC 4G::Others::QR code is invalid
-DC 4G::Others::SIM card or SD card slot problem
-DC 4G::Others::UID tag missing
-DC 4G::Preview::Can't load the preview screen
-DC 4G::Preview::Live view has lines or black dots
-DC 4G::Preview::Night Vision Reflective
-DC 4G::Preview::Preview delay/Freezes
-DC 4G::SD card::Camera not recording to SD card
-DC 4G::SD card::Camera stops recording when SD card is full
-DC 4G::SD card::Continuous recording failed
-DC 4G::SD card::Motion-based recording failed
-DC 4G::SD card::SD card cannot be formatted
-DC 4G::SD card::SD card not recognized
+read this --->""
+>DC 4G::Alert::Auto tracking doesn't work properly
+read this --->""
+>DC 4G::Alert::Motion Detection doesn't work occassionally
+read this --->""
+>DC 4G::Alert::No attachment for Email Alerts
+read this --->""
+>DC 4G::Alert::Smart detection doesn't work
+read this --->""
+>DC 4G::Alert::Smart detection False Alerts
+read this --->""
+>DC 4G::Hardware::Camera not powered
+read this --->""
+>DC 4G::Hardware::Physical damage to camera itself
+read this --->""
+>DC 4G::Hardware::Some IR lights/spotlights are off or dim
+read this --->""
+>DC 4G::Hardware::Water or fog in Camera
+read this --->""
+>DC 4G::Initial setup::Broadcast "Data call failed"
+read this --->""
+>DC 4G::Initial setup::Broadcast “Network connection failed” and cannot be accessed
+read this --->""
+>DC 4G::Initial setup::Broadcast “Network connection succeeded” and cannot be accessed
+read this --->""
+>DC 4G::Initial setup::Broadcast "Not registered on network. Please activate your SIM card and check the signal strength"
+read this --->""
+>DC 4G::Initial setup::Failed to obtain configuration information
+read this --->""
+>DC 4G::Network::Intermittent connection difficulties(Other SIM Card)
+read this --->""
+>DC 4G::Others::QR code is invalid
+read this --->""
+>DC 4G::Others::SIM card or SD card slot problem
+read this --->""
+>DC 4G::Others::UID tag missing
+read this --->""
+>DC 4G::Preview::Can't load the preview screen
+read this --->""
+>DC 4G::Preview::Live view has lines or black dots
+read this --->""
+>DC 4G::Preview::Night Vision Reflective
+read this --->""
+>DC 4G::Preview::Preview delay/Freezes
+read this --->""
+>DC 4G::SD card::Camera not recording to SD card
+read this --->""
+>DC 4G::SD card::Camera stops recording when SD card is full
+read this --->""
+>DC 4G::SD card::Continuous recording failed
+read this --->""
+>DC 4G::SD card::Motion-based recording failed
+read this --->""
+>DC 4G::SD card::SD card cannot be formatted
+read this --->""
+>DC 4G::SD card::SD card not recognized

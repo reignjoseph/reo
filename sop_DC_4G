@@ -1,3 +1,5 @@
+“Read the following SOP mapping carefully. Each read this --->"description ..." explains a camera behavior or customer scenario. The line following > is the corresponding SOP label to follow. Understand that my goal is to use these descriptions to correctly assign SOPs when handling tickets or troubleshooting. Do not change wording, do not interpret beyond what is written, and treat each description line by line. Confirm understanding by summarizing each SOP with its description and label.”
+
 read this --->""
 >DC 4G::Alert::Auto tracking doesn't work properly
 read this --->""
@@ -54,3 +56,5 @@ read this --->""
 >DC 4G::SD card::SD card cannot be formatted
 read this --->""
 >DC 4G::SD card::SD card not recognized
+
+“Read the following SOP mapping carefully. Each read this --->"description ..." explains a camera behavior or customer scenario. The line following > is the corresponding SOP label to follow. Understand that my goal is to use these descriptions to correctly assign SOPs when handling tickets or troubleshooting. Do not change wording, do not interpret beyond what is written, and treat each description line by line. Confirm understanding by summarizing each SOP with its description and label.”

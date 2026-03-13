@@ -1,46 +1,48 @@
-read this --->""
+“Read the following SOP mapping carefully. Each read this --->"description ..." explains a camera behavior or customer scenario. The line following > is the corresponding SOP label to follow. Understand that my goal is to use these descriptions to correctly assign SOPs when handling tickets or troubleshooting. Do not change wording, do not interpret beyond what is written, and treat each description line by line. Confirm understanding by summarizing each SOP with its description and label.”
+
+read this --->"description Camera identifies motion as Person/Vehicle/Animal type If the motion is not recognized as Person/Vehicle/Animal based on the video type or Smart detection tool analysis, select【Smart detection doesn't work】SOP. description The camera can pan and tilt but fails to track Any situation where the camera is initially tracking a target but stops or fails to continue tracking applies to this SOP."
 >Battery WIFI::Alert::Auto tracking doesn't work properly
-read this --->""
+read this --->"description The customer can receive alarm emails, but there are no attachments (pictures/videos)"
 >Battery WIFI::Alert::No attachment for Email Alerts
-read this --->""
+read this --->"description Moving person/vehicle/pet in the non-detection zone make the camera to record/send notifications/send email/auto-track/turn on the spotlights"
 >Battery WIFI::Alert::Non-Detection Area Smart detection False alert
-read this --->""
+read this --->"description If one of the following conditions is met, PIR underreporting 1.The target is almost out of the drawing camera before the video recording begins 2.There is movement in front of the camera, sometimes the alarm push cannot be received or there is no relevant alarm video or the alarm email is not received or the siren does not ring 3.The PIR detection distance is short"
 >Battery WIFI::Alert::PIR doesn't work occassionally/alarm delay/detection distance is short
-read this --->""
+read this --->"description There is no obvious movement in detection zone, but the camera still record or do other alerts Request for video from customer for verification"
 >Battery WIFI::Alert::PIR False Alerts
-read this --->""
+read this --->"description There is movement in front of the camera, but the camera doesn't report at all"
 >Battery WIFI::Alert::PIR sensor doesn't work
-read this --->""
+read this --->"description The preview page works fine but the picture or video in the email attachment is gray or pixelated"
 >Battery WIFI::Alert::Pixelated image/video in the Email attachment
-read this --->""
+read this --->"description One of the following conditions is missing detection of smart detection 1.A person/vehicle/pet passing by, but no corresponding alarm such as Push/Email/Siren/Record/FTP/Spotlight. 2.Person/vehicle/pet appears in continuous recording/Any Motion, but these recordings don't appear after using the filter feature. (Only suitable for Battery-free cameras)"
 >Battery WIFI::Alert::Smart detection doesn't work
-read this --->""
+read this --->"description Receive a person/vehicle/pet alarm but there is no corresponding moving target in the email photo or recordings"
 >Battery WIFI::Alert::Smart detection False Alerts
-read this --->""
+read this --->"description Email image attachment/first frame of email recording is too dark"
 >Battery WIFI::Alert::The first frame of email pictures/videos is too dark (only for AI models)
-read this --->""
+read this --->"description Preview and playback with humming sound/current noise/sound like water Request for video from customer for verification description The phone/computer can play other multimedia sounds properly"
 >Battery WIFI::Audio::Audio Noise
-read this --->""
+read this --->"description When using the app for two-way audio, the person using the app can barely hear the voice transmitted from the camera.Request video for verification description	This problem exists on both mobile Phone App and PC Client software"
 >Battery WIFI::Audio::Low sound on the App side while using 2-way audio
-read this --->""
+read this --->"description When using the two-way audio feature on the Android App, from the App the sound from the camera can be heard, the sound from the camera is low or almost inaudible Request for videos for verification description This problem exists on both mobile Phone App and PC Client software"
 >Battery WIFI::Audio::Low volume on the camera side when using Two-way audio on Android devices
-read this --->""
+read this --->"description No sound output from the camera when the customer uses the two-way audio description No sound when manually triggering the siren How to Manually Trigger the Siren of your Camera"
 >Battery WIFI::Audio::Speaker no sound output
-read this --->""
+read this --->"description There is no noise while previewing description Two-way audio with echo/noise Request for video for verification"
 >Battery WIFI::Audio::Two-way audio with echo/noise
-read this --->""
+read this --->"description Battery issue matches any of the following criteria. 1.When the camera is connected to the DC adapter, the battery LED flashes orange and green alternately 2.Camera can be turned on when the DC adapter is connected, and it will be turned off immediately when the adapter is unplugged 3.When the camera is connected to the DC adapter, the battery LED is off Request for pictures/videos from customer for verification"
 >Battery WIFI::Battery::Battery problem (battery lights flash Green and Orange alternately or off)
-read this --->""
+read this --->"description One of the following criteria is met 1. Battery drains quickly after being fully charged with an adapter (1-2 days) 2. Find events.9, current-exception after using the UID to check the camera in the log system (not applicable for CC now)"
 >Battery WIFI::Battery::Camera drains fast(model supports continuous recording)
-read this --->""
+read this --->"description One of the following criteria is met 1. Battery drains quickly after being fully charged with an adapter (1-2 days) 2. Find events.9, current-exception after using the UID to check the camera in the log system (not applicable for CC now)"
 >Battery WIFI::Battery::Camera drains fast(model supports motion recording only)
-read this --->""
+read this --->"description The device's IR or status indicator light does not illuminate after powering on Please pay attention to distinguish the type of power supply being used (PoE switch/PoE NVR/DC power/ battery). description No sounds and status light remains off after a hard reset"
 >Battery WIFI::Battery::Camera not powered
-read this --->""
+read this --->"description The device's IR or status indicator light does not illuminate after powering on Please pay attention to distinguish the type of power supply being used (PoE switch/PoE NVR/DC power/ battery). description No sounds and status light remains off after a hard reset"
 >Battery WIFI::Battery::DC not charging
-read this --->""
+read this --->"description When the temperature is above 0°C, using a DC adapter to charge the camera may result in the battery level stopping at a certain value below 90%, or the battery level may not increase at all. description The camera can still be powered on or accessed and the battery level has not increased on the App Otherwise, turn to SOP [camera not powered on]"
 >Battery WIFI::Battery::Doorbell (Battery) Charges slowly or barely charges when connected to the existing transformer wiring
-read this --->""
+read this --->"description The battery level displayed in the app does not match the user’s actual experience This includes, but is not limited to: 1.The camera is continuously in use, but the battery level remains at 100% 2.Once the battery level drops to a certain value higher than 10% (e.g., 70%), the camera suddenly powers off"
 >Battery WIFI::Battery::Inaccurate battery level display
 read this --->""
 >Battery WIFI::Battery::SP not charging

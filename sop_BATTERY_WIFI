@@ -38,145 +38,147 @@ read this --->"description One of the following criteria is met 1. Battery drain
 >Battery WIFI::Battery::Camera drains fast(model supports motion recording only)
 read this --->"description The device's IR or status indicator light does not illuminate after powering on Please pay attention to distinguish the type of power supply being used (PoE switch/PoE NVR/DC power/ battery). description No sounds and status light remains off after a hard reset"
 >Battery WIFI::Battery::Camera not powered
-read this --->"description The device's IR or status indicator light does not illuminate after powering on Please pay attention to distinguish the type of power supply being used (PoE switch/PoE NVR/DC power/ battery). description No sounds and status light remains off after a hard reset"
->Battery WIFI::Battery::DC not charging
 read this --->"description When the temperature is above 0°C, using a DC adapter to charge the camera may result in the battery level stopping at a certain value below 90%, or the battery level may not increase at all. description The camera can still be powered on or accessed and the battery level has not increased on the App Otherwise, turn to SOP [camera not powered on]"
+>Battery WIFI::Battery::DC not charging
+read this --->"description DC charging works fine, but it hardly charges when connected to an existing wiring (transformer) This phenomenon is normal. Please use Macro to explain to customers."
 >Battery WIFI::Battery::Doorbell (Battery) Charges slowly or barely charges when connected to the existing transformer wiring
 read this --->"description The battery level displayed in the app does not match the user’s actual experience This includes, but is not limited to: 1.The camera is continuously in use, but the battery level remains at 100% 2.Once the battery level drops to a certain value higher than 10% (e.g., 70%), the camera suddenly powers off"
 >Battery WIFI::Battery::Inaccurate battery level display
-read this --->""
+read this --->"description The camera can be charged with a DC power, but not with a solar panel."
 >Battery WIFI::Battery::SP not charging
-read this --->""
+read this --->"description Confirm whether the camera's charging port is Type-C or Micro-B 1.USB Type-C is oval-shaped and the same on both sides, so you can plug it in either way—no need to check the direction. 2.USB Micro-B is smaller and has a flat top with a curved bottom, meaning you have to plug it in a specific way—it won’t fit if flipped. description Charging port is melt or burnt, broken, loose, deformed, completely detached, corroded 1.Request for picture for verification 2.If the charging port in the image does not match the SOP, please select the SOP again: a.Charging port(Type-C) physically damaged b.Charging port(Mirco-B) physically damaged"
 >Battery WIFI::Hardware::Charging port(Mirco-B) physically damaged
-read this --->""
+read this --->"description Confirm whether the camera's charging port is Type-C or Micro-B 1.USB Type-C is oval-shaped and the same on both sides, so you can plug it in either way—no need to check the direction. 2.USB Micro-B is smaller and has a flat top with a curved bottom, meaning you have to plug it in a specific way—it won’t fit if flipped. description Charging port is melt or burnt, broken, loose, deformed, completely detached, corroded 1.Request for picture for verification 2.If the charging port in the image does not match the SOP, please select the SOP again: a.Charging port(Type-C) physically damaged b.Charging port(Mirco-B) physically damaged"
 >Battery WIFI::Hardware::Charging port(Type-C) physically damaged
-read this --->""
+read this --->"description The camera(with IR lights) remains in either color or black-and-white and cannot switch properly Collect images for confirmation. Camera Image Problems"
 >Battery WIFI::Hardware::Day and night mode does not auto switch
-read this --->""
+read this --->"description Doorbell button is stuck Request video from customer for verification 1.Press the doorbell, it should stop after ringing for a while, but it keeps ringing non-stop 2.No one rang the doorbell, but it rang by itself. If it sounds after pressing multiple times, please choose SOP [Doorbell is noisy/vibrating/there is no sound until the doorbell is pressed several times]."
 >Battery WIFI::Hardware::Doorbell button stuck
-read this --->""
+read this --->"description Camera's own physical damage 1.Such as lens cracking, tail cables (network port/dc cord/reset cord) is damaged, external casing damage, insects entering the lens interior, internal antenna detachment, emitting a burnt smell and producing smoke, camera body surface shows oil leakage, etc. 2.Request for video pictures/videos for verification."
 >Battery WIFI::Hardware::Physical damage to camera itself
-read this --->""
+read this --->"description Request images of partially non-illuminated or dim IR LEDs/spotlights"
 >Battery WIFI::Hardware::Some IR lights/spotlights are off or dim
-read this --->""
+read this --->"description Spotlights keep switching on and off automotically Request for video for verification"
 >Battery WIFI::Hardware::Spotlights automatically switch on/off repeatedly
-read this --->""
+read this --->"description The spotlight doesn't turn on when 1.The alarm is triggered(for all models, except 823S2) or 2.Being previewed at night(battery-powered camera only) description Camera supports spotlight Which Cameras Support the Spotlight"
 >Battery WIFI::Hardware::Spotlights cannot be turned on
-read this --->""
+read this --->"description The device cannot be successfully reset by pressing the reset button when it is powered on. 1.Device with Speaker: Check if there is a sound prompt when pressing the Reset button. If there is no prompt, the reset may not have taken effect. 2.Login Status: If the camera still requires the original password after reset, the reset was not successful."
 >Battery WIFI::Hardware::Unable to reset
-read this --->""
+read this --->"description Water has entered the camera, such as water entering the lens, body, tail cable, or the lens has obvious water mist or drops Request for pictures/videos for verification; if lens pictures cannot be provided, preview images can be provided to assist verification"
 >Battery WIFI::Hardware::Water or fog in Camera
-read this --->""
+read this --->"description Camera disconnects once the spotlights/IR lights turn on description Please help check if the issue is related to the device or stream type by switching Wi-Fi/cellular, changing live stream modes, or testing on different platforms (App, Client, web, or NVR monitor). 1.Have already tried to switch wifi/cellular data on phone/pc, live stream mode (Clear/Fluent) but still does not work 2.Same issue on different software (App/Client/web/NVR monitor) *Battery-powered camera does not support web/NVR"
 >Battery WIFI::Hardware::When the light comes on, it goes offline
-read this --->""
+read this --->"description The camera prompts "QR code does not match" after scanning the QR code."
 >Battery WIFI::Initial setup::After scanning the WiFi QR code, it prompts that "QR code does not match"
-read this --->""
+read this --->"description After the camera is powered on, it makes a "ding ding" sound or says "Please run Reolink App, add the camera and set it up," indicating that it is ready to be set up.. However, during the step where the camera scans the QR code from the Reolink App, no beep sound is heard to confirm a successful scan."
 >Battery WIFI::Initial setup::Camera failed to scan the WiFi QR code
-read this --->""
+read this --->"description The camera plays a voice prompt saying "Connection to the router failed", or the app shows text error message "WiFi Connection Failed". Reolink Connection to Router Failed description The camera status led light is red"
 >Battery WIFI::Initial setup::Camera prompts "Connection to the router failed" during the initial setup
-read this --->""
+read this --->"description After successfully connecting the camera to the network, when added to the app, clicking on the camera results in a failure to load initialization information. Indicators of successful connection: 1.Models with QR code scanning capability provide a voice prompt saying "connection to the router succeeded." 2.For 2.4GHz models, a voice announcement confirms "network connection succeeded.""
 >Battery WIFI::Initial setup::Failed to obtain configuration information
-read this --->""
+read this --->"description When setting up the camera, the customer has not set a password, yet they are prompted to enter one. Upon entering a password, an "incorrect username and password" message is displayed. Even after resetting the camera, the issue persists."
 >Battery WIFI::Initial setup::Incorrect username and password/Authentication failed/Ask for a password even after reset
-read this --->""
+read this --->"description Unable to complete initial configuration via Bluetooth pairing"
 >Battery WIFI::Initial setup::Initial setup issue (Exclusive to Bluetooth pairing method)
-read this --->""
+read this --->"description Camera broadcasts "connection to the router succeeded", but the Reolink App/Client displays "connection failed" when adding camera."
 >Battery WIFI::Initial setup::Voice Broadcast Router connected successfully but access failed
-read this --->""
+read this --->"description In the external network environment, Reolink device cannot be accessed from any terminal device, regardless of whether alarm notifications (such as Push or Email) are still received. 1.The external network includes external WiFi and traffic, ask for the UID to verify it 2.The Push or Email functions use different servers. Receiving notifications does not indicate that external network access is normal and does not affect the applicability of the SOP. description Please help check if the issue is related to the device or stream type by switching Wi-Fi/cellular, changing live stream modes, or testing on different platforms (App, Client, web, or NVR monitor). 1.Have already tried to switch wifi/cellular data on phone/pc, live stream mode (Clear/Fluent) but still does not work 2.Same issue on different software (App/Client/web/NVR monitor) *Battery-powered camera does not support web/NVR"
 >Battery WIFI::Network::Accessible in LAN and inaccessible in WAN
-read this --->""
+read this --->"description The camera cannot reconnect to the network after the router stops working for a period of time In any of the following situations, the camera cannot automatically reconnect to the network and is still offline. 1. After restarting the router. 2. The router is powered off for a period of time and then powered on. 3. The router connects to the network after being disconnected for a period of time."
 >Battery WIFI::Network::Camera remains offline after router resumes
-read this --->""
+read this --->"description Camera fails to connect after connecting to the solar panel, resumes connection after unpluging the solar panel description The camera was not powered on properly when the problem occurred If the camera is powered on normally when the problem occurs, it is most likely a connection problem. It is recommended to probe more to identify the problem."
 >Battery WIFI::Network::Cannot access camera after connecting to SP
-read this --->""
+read this --->"description The router has dual frequencies, but the camera can only connect to either the 2.4GHz or 5GHz WiFi."
 >Battery WIFI::Network::Dual-band WiFi camera can only connect to 2.4Ghz, but not to 5Ghz, vice versa
-read this --->""
+read this --->"description The device does not appear in the Scan Device(s) in LAN, and prompt connection failed when added using both UID and IP address. Battery-powered devices do not support add via IP; they can only be added using the UID."
 >Battery WIFI::Network::Inaccessible in LAN and accessible in WAN
-read this --->""
+read this --->"description Intermittent connection problem matches any of the following criteria 1.Camera fails to connect most of the time 2.When accessing, it often takes multiple attempts description The camera is online and issue matches any of the following criteria 1.The camera's status light is solid blue 2.The camera is listed under the router and assigned an IP by it 3.The PING result of camera's IP under the local network is successful description Please help check if the issue is related to the device or stream type by switching Wi-Fi/cellular, changing live stream modes, or testing on different platforms (App, Client, web, or NVR monitor). 1.Have already tried to switch wifi/cellular data on phone/pc, live stream mode (Clear/Fluent) but still does not work 2.Same issue on different software (App/Client/web/NVR monitor) *Battery-powered camera does not support web/NVR"
 >Battery WIFI::Network::Intermittent connectivity issue (The camera remains online but often unreachable)
-read this --->""
+read this --->"description Wireless camera disconnects randomly or frequently description The camera itself is offline, which matches any of the following circumstances 1. The camera's status light is red 2. The camera is not listed under the router or assigned an IP address 3. The PING result of the camera's IP times out"
 >Battery WIFI::Network::Intermittent offline issue (The camera goes offline on its own)
-read this --->""
+read this --->"description The device loses configuration if one of the following issues is happening 1.All the settings go back to default after a restart 2.All the settings randomly go back to default 3.Camera keeps prompting the reset beep sound 4.Camera keeps saying "Factory reset succeeded. Please release reset button" or camera keeps prompting the initial welcome message after working for a while"
 >Battery WIFI::Others::Device automatically reverts to factory settings
-read this --->""
+read this --->"description Common signs of automatic reboot in battery-powered cameras 1.The camera plays the startup/shutdown sound without any manual intervention. 2.The camera performs intermittent, regular pan-tilt movements even when no motion is detected. 3.When continuous recording is enabled (supported on some models only), the playback shows noticeable time gaps, discontinuous footage, or sudden interruptions in recording files."
 >Battery WIFI::Others::Device restarts automatically
-read this --->""
+read this --->"description The camera has detected the firmware and update failed during the process"
 >Battery WIFI::Others::Firmware upgrade failed
-read this --->""
+read this --->"description After synchronizing the camera time, the camera will display the wrong time soon"
 >Battery WIFI::Others::Incorrect Time/Date on Screen
-read this --->""
+read this --->"description PTZ/Spotlight/Two-way audio/Audio cannot be opened or prompts Operation Failed, and cannot be opened in 2"
 >Battery WIFI::Others::PTZ/spotlight/two-way voice/Audio cannot be turned on/off
-read this --->""
+read this --->"description UID error or The QR code is invalid 1.On the Reolink App, the customer received the message "The QR code is invalid. Please check if it is the code of Reolink Device" when scanning the QR code. When inputting the UID number of the camera, the customer got the message "UID error. Please check the characters and try again." 2.On the Reolink Client, when inputting the UID number of the camera, the customer got the message "Failed to add device. Please check your network and ensure the UID is correct.""
 >Battery WIFI::Others::QR code is invalid
-read this --->""
+read this --->"description If any of the following situations apply, it indicates a problem with the SD card/SIM card slot 1.The SD card/SIM card falls into the slot, and shaking the device produces a sound of the card moving inside. Proceed directly to after-sales support. 2.The SD card/SIM card cannot be locked in place and keeps popping out. Follow the tasks below for further investigation. 3.The SD card/SIM card cannot be removed. Follow the tasks below for further investigation. Please request for pictures/videos for verification."
 >Battery WIFI::Others::SIM card or SD card slot problem
-read this --->""
+read this --->"description Partial configuration loss 1.New settings revert to default or previous settings after a certain period. 2.After saving new settings, returning to the previous level and re-entering the setting, or performing other operations, leads to a restoration of default or previous settings. 3.Please specify which configurations are being lost."
 >Battery WIFI::Others::Some configurations did not persist after saving
-read this --->""
+read this --->"description Meet any of the following criteria 1. The status light flashes red and blue alternately (ask for a video for verification) 2. Find the fields such as 4000 voltages + temperature 20℃+ 100% battery after checking the camera log with the UID （not applicable for CC now） 3. Find that the voltage is 0 after checking the camera log with the UID（not applicable for CC now） 4.Voice prompts interrupt"
 >Battery WIFI::Others::Status light flashes red and blue alternately/log has I2C exception field
-read this --->""
+read this --->"description The UID code on the device is lost, and cannot be added by scanning the code Need to provide body picture confirmation Instruction: How to Find the UID of Your Cameras and NVRs Note: The UID code of the Argus PT/Go PT series is at the bottom of the camera and may be blocked by the bracket. You can find the UID code by unscrewing the bracket【Macro B20】 After the doorbell is installed, the UID is also blocked and needs to be removed from the wall and then the UID can be found on the back."
 >Battery WIFI::Others::UID tag missing
-read this --->""
+read this --->"description Preview is working, but playback cannot be loaded in 2 software or above The App playback page prompts "Failed to load video info. Please tap to retry", and the Reolink Client playback page video cannot be loaded"
 >Battery WIFI::Playback::Playback page video cannot be loaded
-read this --->""
+read this --->"description There are recordings in the timeline but failed to play the recordings via the software"
 >Battery WIFI::Playback::Recordings loaded successfully but failed to playback
-read this --->""
+read this --->"description Camera preview not loading, continuously spinning icon description Please help check if the issue is related to the device or stream type by switching Wi-Fi/cellular, changing live stream modes, or testing on different platforms (App, Client, web, or NVR monitor). 1.Have already tried to switch wifi/cellular data on phone/pc, live stream mode (Clear/Fluent) but still does not work 2.Same issue on different software (App/Client/web/NVR monitor) *Battery-powered camera does not support web/NVR"
 >Battery WIFI::Preview::Can't load the preview screen
-read this --->""
+read this --->"description Image is blurry or out of focus Request for picture/video for verification Note: The camera will not focus automatically during PT. The camera will focus only during Zoom. Therefore, during PT, including returning to the guard position/preset point, if it only involves PT and not Zoom, it is normal for the camera image to be blurry, so please focus manually."
 >Battery WIFI::Preview::Fixed-lens camera image is out of focus
-read this --->""
+read this --->"description The image is green, pink or purple / The nighttime image is completely black while daytime image is normal Request picture/video from customer for verification Camera Image Problems description The image is still abnormal after a hard reset Make sure that the camera is reset while powering up"
 >Battery WIFI::Preview::Image color cast/Night vision screen is completely black
-read this --->""
+read this --->"description Image flashes or flickers under certain light sources Camera Image Problems"
 >Battery WIFI::Preview::Image is flashing or flicking
-read this --->""
+read this --->"description Camera displays a ghosting or smearing image on the moving object at night Camera Image Problems"
 >Battery WIFI::Preview::Image is ghosting or smearing
-read this --->""
+read this --->"description Image is overexposed Request for pictures for verification Camera Image Problems"
 >Battery WIFI::Preview::Image overexposure
-read this --->""
+read this --->"description Image is pixelated Request picture from customer for verification Camera Image Problems description Please help check if the issue is related to the device or stream type by switching Wi-Fi/cellular, changing live stream modes, or testing on different platforms (App, Client, web, or NVR monitor). 1.Have already tried to switch wifi/cellular data on phone/pc, live stream mode (Clear/Fluent) but still does not work 2.Same issue on different software (App/Client/web/NVR monitor) *Battery-powered camera does not support web/NVR"
 >Battery WIFI::Preview::Image pixilation
-read this --->""
+read this --->"description Any of the following conditions are met: 1.One or two images are turned upside down 2.There are obvious deviations in the stitching of the left and right images Camera Image Problems"
 >Battery WIFI::Preview::Image stitching issue
-read this --->""
+read this --->"description The two lenses are facing the same scene, but there is a noticeable difference in image brightness. Request for picture for verification Please note that this issue is different from issue [Day and night mode does not auto switch] on dual-lens models. Refer to Camera Image Problems"
 >Battery WIFI::Preview::Inconsistent brightness between the two lenses
-read this --->""
+read this --->"description Camera IR light keeps on and off Request for pictures/videos for verification"
 >Battery WIFI::Preview::IR light is abnormal
-read this --->""
+read this --->"description IR lights do not light up in a dark environment For cameras equipped with invisible infrared lights, ask customers to use their phone cameras to take photos for inspection, as the infrared light is invisible to the naked eye but appears faintly under a phone camera."
 >Battery WIFI::Preview::IR lights don't light up during the night
-read this --->""
+read this --->"description Horizontal/vertical lines or black dots on the image Ask the video or images for confirmation Camera Image Problems"
 >Battery WIFI::Preview::Live view has lines or black dots
-read this --->""
+read this --->"description No sound or very low/inaudible sound during preview and playback Request a video showing the issue description This problem exists on both mobile Phone App and PC Client software"
 >Battery WIFI::Preview::Microphone doesn't work/No sound in preview & playback
-read this --->""
+read this --->"description One of the following conditions is night vision reflection Request for pictures for verification 1.After turning on the IR light, the image is overexposed/full white/with wide circles, and the image cannot be seen clearly 2.After turning on the IR light of the camera with glass cover, the image looks foggy (models such as 842A, 543WA)"
 >Battery WIFI::Preview::Night Vision Reflective
-read this --->""
+read this --->"description OSD can be seen on the preview image How to Set up the Display Settings (OSD) for Reolink Cameras description The preview/playback image is completely black or white Request for picture for verification"
 >Battery WIFI::Preview::no picture in preview
-read this --->""
+read this --->"description Email image attachment/first frame of email video attachment/first frame of SD card recording is overexposed Request for pictures/videos for verification"
 >Battery WIFI::Preview::Overexposure of the first frame during the day (only for AI models)
-read this --->""
+read this --->"description Email image attachment/first frame of email video attachment/first frame of SD card recording is overexposed Request for pictures/videos for verification description Issue only happens during the nighttime, and works fine during the daytime"
 >Battery WIFI::Preview::Overexposure of the first frame of night vision (only for AI models)
-read this --->""
+read this --->"description The OSD on the preview page is slightly delayed compared to real-time/ There's a delay and stutter in motion in the video/ Camera response is delayed when using PTZ If the issue exists in the main stream only, select the topic [Unable to preview the main stream] description Please help check if the issue is related to the device or stream type by switching Wi-Fi/cellular, changing live stream modes, or testing on different platforms (App, Client, web, or NVR monitor). 1.Have already tried to switch wifi/cellular data on phone/pc, live stream mode (Clear/Fluent) but still does not work 2.Same issue on different software (App/Client/web/NVR monitor) *Battery-powered camera does not support web/NVR"
 >Battery WIFI::Preview::Preview Delay/Freezes
-read this --->""
+read this --->"description Image freezes/delays/keeps loading under Clear mode but works fine under Fluent mode description Please help check if the issue is related to the device or stream type by switching Wi-Fi/cellular, changing live stream modes, or testing on different platforms (App, Client, web, or NVR monitor). 1.Have already tried to switch wifi/cellular data on phone/pc, live stream mode (Clear/Fluent) but still does not work 2.Same issue on different software (App/Client/web/NVR monitor) *Battery-powered camera does not support web/NVR"
 >Battery WIFI::Preview::Unable to preview the main stream
-read this --->""
+read this --->"description Camera doesn't return the correct guard point after PT or automatic tracking or the preset point shifts from its correct point"
 >Battery WIFI::PTZ::Monitor point/preset point deviation
-read this --->""
+read this --->"description The PT angle becomes smaller and smaller or the range that can be rotated is smaller than the normal range description The issue appears every time using the PT feature via software"
 >Battery WIFI::PTZ::PT angle becomes smaller
-read this --->""
+read this --->"description When using the PT feature, the camera doesn't respond at all. Or the camera doesn't respond to specific direction PT command"
 >Battery WIFI::PTZ::PT no response
-read this --->""
+read this --->"description While powering on the camera, self-calibration is stuck, or camera can be rotated but makes annoying noise. Request for video for verification"
 >Battery WIFI::PTZ::Self-test stuck/camera makes noise when using PTZ feature
-read this --->""
+read this --->"description The camera can be previewed successfully but it became offline once the customer uses the PTZ feature"
 >Battery WIFI::PTZ::The camera gets disconnected once using the PTZ feature
-read this --->""
+read this --->"description The following conditions indicate that the SD card is not recording 1.Playback page shows “No recordings.” 2.Some days have recordings on the playback page, while other days do not. 3.It was recording normally before, but recently no new recordings have been generated. 4.The camera is not recording motion detection events to the SD card. 5.The camera is not performing 24/7 continuous recording. description Is SD card detected or recognized properly? If not, proceed to SOP [SD card not recognized] description Was the SD card successfully formatted? If not, proceed to SOP [SD card cannot be formatted]"
 >Battery WIFI::SD card::Camera not recording to SD card
-read this --->""
+read this --->"description The SD card overwrite feature is enabled, but when the SD card is full, new recordings cannot be generated."
 >Battery WIFI::SD card::Camera stops recording when SD card is full
-read this --->""
+read this --->"description The SD card is detected normally and formats successfully, but the camera cannot perform continuous recording to the SD card."
 >Battery WIFI::SD card::Continuous recording failed
-read this --->""
+read this --->"description The SD card is detected normally and formats successfully, but the camera cannot perform motion-detection recording to the SD card."
 >Battery WIFI::SD card::Motion-based recording failed
-read this --->""
+read this --->"description If any of the following conditions apply, the SD card cannot be formatted 1.The SD card is continuously shown as "not formatted" in the software, and attempting to format still prompts "not formatted." 2.Attempting to format the SD card results in an "operation failed" message. 3.It indicates successful formatting, but the available memory on the SD card remains unchanged."
 >Battery WIFI::SD card::SD card cannot be formatted
-read this --->""
+read this --->"description SD card installed correctly but not detected correctly The following two situations are included: 1.When it prompts "No camera SD card is detected. You may not access playback feature." or the Storage section shows "Not detected." 2.When the SD card is recognized but displays 0GB."
 >Battery WIFI::SD card::SD card not recognized
+
+“Read the following SOP mapping carefully. Each read this --->"description ..." explains a camera behavior or customer scenario. The line following > is the corresponding SOP label to follow. Understand that my goal is to use these descriptions to correctly assign SOPs when handling tickets or troubleshooting. Do not change wording, do not interpret beyond what is written, and treat each description line by line. Confirm understanding by summarizing each SOP with its description and label.”

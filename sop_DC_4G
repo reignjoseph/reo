@@ -58,7 +58,7 @@ read this --->"description SD card installed correctly but not detected correctl
 >DC 4G::SD card::SD card not recognized
 
 
-read this --->"IF IT MUST TO BE PROBE BEFORE SELECT PROPER, E.G NEED PROVIDE VIDEO DIRECTLY TO CONCERN, ASK POSSIBLE PROBE E.G IS CAMERA NOT ON?/ABOUT NETWORK?/ABOUT CONFIG SETTINGS(etc. PT/MD DETECT/PIR DETECT/?/SOMETHING ON APPEARANCE?)/JUST USE BRAIN TO PROBE THINK SMART AND WISELY."
+read this --->"IF IT MUST TO BE PROBE BEFORE SELECT PROPER, E.G NEED PROVIDE VIDEO DIRECTLY TO CONCERN, ASK POSSIBLE PROBE E.G IS CAMERA NOT ON?/ABOUT NETWORK?/ABOUT CONFIG SETTINGS(etc. PT/MD DETECT/PIR DETECT/?/SOMETHING ON APPEARANCE?),WHAT PROMPTS IT SHOWS?/JUST USE BRAIN TO PROBE THINK SMART AND WISELY."
 >Others::unclear
 
-“Read the following SOP mapping carefully. Each read this --->"description ..." explains a camera behavior or customer scenario. The line following > is the corresponding SOP label to follow. Understand that my goal is to use these descriptions to correctly assign SOPs when handling tickets or troubleshooting. Do not change wording, do not interpret beyond what is written, and treat each description line by line. Confirm understanding by summarizing each SOP with its description and label.”
+“KINDLY CHOOSE AN APPROPRIATE SUB TOPIC AFTER CHOOSING TROUBLESHOOTING(NOT NORMAL):Read the following SOP mapping carefully. Each read this --->"description ..." explains a camera behavior or customer scenario. The line following > is the corresponding SOP label to follow. Understand that my goal is to use these descriptions to correctly assign SOPs when handling tickets or troubleshooting. Do not change wording, do not interpret beyond what is written, and treat each description line by line. Confirm understanding by summarizing each SOP with its description and label.”

@@ -1,6 +1,6 @@
 "PLEASE KINDLY SELECT SUITABLE TYPE FOR THIS CUSTOMER CONCERNS, USE 100X TO THINK BEFORE ANSWERING"
 
-Product Inquiry:
+Product Inquiry: (NORMAL)
 -audio
 -Lights
 -Lens
@@ -23,7 +23,7 @@ Product Inquiry:
 -System settings
 -SIM Card (Not Reolink)
 
-Feedback & Suggestion:
+Feedback & Suggestion:(NORMAL)
 -Reolink Clients/App
 -Web Client
 -New Products/Hardware
@@ -33,7 +33,7 @@ Feedback & Suggestion:
 -Smart Home/3rd-party software Integration
 -Listing Errors
 
-Order & Business:
+Order & Business:(NORMAL)
 -Order::Package Shipping
 -Order::Invoice/Bill (order already placed)
 -Price Discount::Check Price or Stock
@@ -58,7 +58,7 @@ Order & Business:
 -BusinessSales::Charitable Donation
 -Order::Package Shipping
 
-Complaints:
+Complaints:(NORMAL)
 -Customer::Dissatisfied with the standard after-sales plan (agent)-
 -Customer::dissatisfied with standard after-sales solutions (end users)-
 -Customer::Request a replacement/Communicate with Supervisor
@@ -73,7 +73,7 @@ Complaints:
 -Products::Exchange ≥ 2 times and there are still problems-
 -Products::Product functions are not up to expectations-
 
-Information Security;
+Information Security: (NORMAL)
 -Compliance Consulting
 -Exercise User's rights
 -Feedback Violation Or Infringement
@@ -84,7 +84,7 @@ Information Security;
 -Security Vulnerabilities
 -unincluded
 
-Ghost Call (APPLICABLE IF EMAIL IS NOT RELATED TO THE REOLINK)
+Ghost Call (APPLICABLE IF EMAIL IS NOT RELATED TO THE REOLINK) (NORMAL)
 
 
 
@@ -162,5 +162,8 @@ read this --->""
 >Tax::Sales tax-exempt(US/CA)
 read this --->""
 >Tax::VAT deduct(EU/UK)
+
+read this --->"IF IT MUST TO BE PROBE BEFORE SELECT PROPER, E.G NEED PROVIDE VIDEO DIRECTLY TO CONCERN, ASK POSSIBLE PROBE E.G IS CAMERA NOT ON?/ABOUT NETWORK?/ABOUT CONFIG SETTINGS(etc. PT/MD DETECT/PIR DETECT/?/SOMETHING ON APPEARANCE?)/JUST USE BRAIN TO PROBE THINK SMART AND WISELY."
+>Others::unclear
 
 "PLEASE KINDLY SELECT SUITABLE TYPE FOR THIS CUSTOMER CONCERNS, USE 100X TO THINK BEFORE ANSWERING"

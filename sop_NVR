@@ -1,56 +1,108 @@
 “Read the following SOP mapping carefully. Each read this --->"description ..." explains a camera behavior or customer scenario. The line following > is the corresponding SOP label to follow. Understand that my goal is to use these descriptions to correctly assign SOPs when handling tickets or troubleshooting. Do not change wording, do not interpret beyond what is written, and treat each description line by line. Confirm understanding by summarizing each SOP with its description and label.”
 
-NVR::Connection:: PoE camera disconnects randomly in NVR (not directly connected via Ethernet cable)
-NVR::Connection::Battery camera cannot be successfully added to NVR
-NVR::Connection::Configure the camera to connect to NVR's 2.4GHz WiFi
-NVR::Connection::DC WiFi camera cannot be successfully added to NVR
-NVR::Connection::PoE camera cannot be successfully added to NVR
-NVR::Connection::Random PoE camera disconnects randomly in NVR (directly connected via Ethernet cable)
-NVR::Connection::Specific PoE cameras are randomly disconnected in NVR (directly connected via Ethernet cable)
-NVR::Connection::WIFI Camera disconnects randomly on PoE NVR
-NVR::Connection::WiFi camera is completely disconnected on the WiFi NVR (Camera connected to NVR's WiFi)
-NVR::Connection::WiFi cameras cannot synchronize NVR's WiFi
-NVR::Connection::WiFi cameras has poor connection on WiFi NVR (Camera connected to NVR's WiFi)
-NVR::Connection::WiFi cameras has poor connection on WiFi NVR (Camera connected to router's WiFi)
-NVR::Firmware and others::Device automatically reverts to factory settings
-NVR::Firmware and others::Fail to load NVR configuration
-NVR::Firmware and others::Firmware upgrade failed
-NVR::Firmware and others::Firmware upgrade failed (transmission timed out)
-NVR::Firmware and others::Incorrect Time/Date on Screen
-NVR::Firmware and others::IP conflict of cameras directly connected to the NVR
-NVR::Firmware and others::NVR automatically restarts (no directly-connected camera)
-NVR::Firmware and others::NVR automatically restarts (with directly-connected camera)
-NVR::Firmware and others::NVR Fan Noise
-NVR::Firmware and others::NVR HDD Noise
-NVR::Firmware and others::Other compatibility issues when camera connected to NVR
-NVR::Firmware and others::QR code is invalid
-NVR::Firmware and others::Software reports latest version despite new firmware release online
-NVR::Firmware and others::Some configurations did not persist after saving
-NVR::Firmware and others::UID tag missing
-NVR::Hardware::Fail to recognize USB when backup recordings from NVR monitor
-NVR::Hardware::NVR cannot detect the mouse
-NVR::Hardware::NVR not powered
-NVR::Hardware::Physical damage to NVR itself
-NVR::Hardware::Unable to reset
-NVR::HDD::Original HDD cannot be formatted/failed to format
-NVR::HDD::Original HDD not recognized
-NVR::HDD::Original HDD not record
-NVR::HDD::Original HDD shows 0GB
-NVR::HDD::Third-Party HDD cannot be formatted/failed to format
-NVR::HDD::Third-Party HDD not recognized
-NVR::HDD::Third-Party HDD not record
-NVR::HDD::Third-Party HDD shows 0GB
-NVR::Monitor::NVR no output
-NVR::Monitor::NVR stuck at boot logo
-NVR::Monitor::The camera screen on the NVR monitor goes black
-NVR::Network::Inaccessible in LAN and accessible in WAN
-NVR::Network::NVR is not connected to the network (LAN port light is OFF)
-NVR::Network::NVR is not connected to the network (LAN port light is ON)
-NVR::Network::WAN connection failed (intermittent)
-NVR::Network::WAN connection failed (non-intermittent)
-NVR::Playback::Event History videos fail to load or show black screen
-NVR::Playback::Playback page video cannot be loaded
-NVR::Playback::Recordings loaded successfully but failed to playback via the monitor connected to the NVR
-NVR::Playback::Recordings loaded successfully but failed to playback via the Reolink app/client
+read this --->"description Camera randomly shows video loss (old UI) or connection failed (new UI) on the NVR and then reconnects, but will happen again after a while description When the issue occurs, the camera is still working standalone"
+>NVR::Connection:: PoE camera disconnects randomly in NVR (not directly connected via Ethernet cable)
+read this --->"description The camera cannot be successfully added to the NVR Reolink PoE Cameras not Connecting to NVR Attention: Adding or removing cameras on the NVR can only be done through the Monitor. It is not supported via the Reolink App, Client, or Web Interface. 1. The camera cannot be seen in the monitor IP channel list. 2. The camera is detected on the monitor IP channel list, but cannot be added, and offline/connection failed/video loss/low firmware version is displayed. 3. The camera is detected on the monitor’s IP channel list, but shows "incorrect password" (just look at the Task items for the password, upgrade, and reset steps)"
+>NVR::Connection::Battery camera cannot be successfully added to NVR
+read this --->"description Configure the camera to connect to NVR 2.4G WiFi"
+>NVR::Connection::Configure the camera to connect to NVR's 2.4GHz WiFi
+read this --->"description The camera cannot be successfully added to the NVR Reolink PoE Cameras not Connecting to NVR Attention: Adding or removing cameras on the NVR can only be done through the Monitor. It is not supported via the Reolink App, Client, or Web Interface. 1. The camera cannot be seen in the monitor IP channel list. 2. The camera is detected on the monitor IP channel list, but cannot be added, and offline/connection failed/video loss/low firmware version is displayed. 3. The camera is detected on the monitor’s IP channel list, but shows "incorrect password" (just look at the Task items for the password, upgrade, and reset steps) description WiFi cameras can be accessed individually on the App/Client"
+>NVR::Connection::DC WiFi camera cannot be successfully added to NVR
+read this --->"description The camera cannot be successfully added to the NVR Reolink PoE Cameras not Connecting to NVR Attention: Adding or removing cameras on the NVR can only be done through the Monitor. It is not supported via the Reolink App, Client, or Web Interface. 1. The camera cannot be seen in the monitor IP channel list. 2. The camera is detected on the monitor IP channel list, but cannot be added, and offline/connection failed/video loss/low firmware version is displayed. 3. The camera is detected on the monitor’s IP channel list, but shows "incorrect password" (just look at the Task items for the password, upgrade, and reset steps)"
+>NVR::Connection::PoE camera cannot be successfully added to NVR
+read this --->"description Camera randomly shows video loss (old UI) or connection failed (new UI) on the NVR and then reconnects, but will happen again after a while"
+>NVR::Connection::Random PoE camera disconnects randomly in NVR (directly connected via Ethernet cable)
+read this --->"description A specific camera randomly disconnects on the NVR and displays “video loss (old UI) or connection failed (new UI)" error It will reconnect after disconnecting but same issue will happen again after a while Request for pictures/videos for verification"
+>NVR::Connection::Specific PoE cameras are randomly disconnected in NVR (directly connected via Ethernet cable)
+read this --->"description Camera randomly shows video loss (old UI) or connection failed (new UI) on the NVR and then reconnects, but will happen again after a while description When the WiFi camera drops offline from the NVR, can the camera still be accessed individually through the App or Client? a.Yes, proceed with this SOP. b.No, choose the SOP “Network::WiFi disconnection/Connection difficulties/Auto restart”."
+>NVR::Connection::WIFI Camera disconnects randomly on PoE NVR
+read this --->"description The camera is connected to the NVR’s WiFi description WiFi camera is completely disconnected from the WiFi NVR and will not auto reconnect. If issue occurs occasionally, go to SOP [NVR::Connection::WiFi camera has poor connection on WiFi NVR (Camera connected to NVR's WiFi) ]"
+>NVR::Connection::WiFi camera is completely disconnected on the WiFi NVR (Camera connected to NVR's WiFi)
+read this --->"description Camera can be live viewed when it is plugged into WiFi NVR, but cannot be live viewed when the network cable is unplugged"
+>NVR::Connection::WiFi cameras cannot synchronize NVR's WiFi
+read this --->""
+>NVR::Connection::WiFi cameras has poor connection on WiFi NVR (Camera connected to NVR's WiFi)
+read this --->""
+>NVR::Connection::WiFi cameras has poor connection on WiFi NVR (Camera connected to router's WiFi)
+read this --->""
+>NVR::Firmware and others::Device automatically reverts to factory settings
+read this --->""
+>NVR::Firmware and others::Fail to load NVR configuration
+read this --->""
+>NVR::Firmware and others::Firmware upgrade failed
+read this --->""
+>NVR::Firmware and others::Firmware upgrade failed (transmission timed out)
+read this --->""
+>NVR::Firmware and others::Incorrect Time/Date on Screen
+read this --->""
+>NVR::Firmware and others::IP conflict of cameras directly connected to the NVR
+read this --->""
+>NVR::Firmware and others::NVR automatically restarts (no directly-connected camera)
+read this --->""
+>NVR::Firmware and others::NVR automatically restarts (with directly-connected camera)
+read this --->""
+>NVR::Firmware and others::NVR Fan Noise
+read this --->""
+>NVR::Firmware and others::NVR HDD Noise
+read this --->""
+>NVR::Firmware and others::Other compatibility issues when camera connected to NVR
+read this --->""
+>NVR::Firmware and others::QR code is invalid
+read this --->""
+>NVR::Firmware and others::Software reports latest version despite new firmware release online
+read this --->""
+>NVR::Firmware and others::Some configurations did not persist after saving
+read this --->""
+>NVR::Firmware and others::UID tag missing
+read this --->""
+>NVR::Hardware::Fail to recognize USB when backup recordings from NVR monitor
+read this --->""
+>NVR::Hardware::NVR cannot detect the mouse
+read this --->""
+>NVR::Hardware::NVR not powered
+read this --->""
+>NVR::Hardware::Physical damage to NVR itself
+read this --->""
+>NVR::Hardware::Unable to reset
+read this --->""
+>NVR::HDD::Original HDD cannot be formatted/failed to format
+read this --->""
+>NVR::HDD::Original HDD not recognized
+read this --->""
+>NVR::HDD::Original HDD not record
+read this --->""
+>NVR::HDD::Original HDD shows 0GB
+read this --->""
+>NVR::HDD::Third-Party HDD cannot be formatted/failed to format
+read this --->""
+>NVR::HDD::Third-Party HDD not recognized
+read this --->""
+>NVR::HDD::Third-Party HDD not record
+read this --->""
+>NVR::HDD::Third-Party HDD shows 0GB
+read this --->""
+>NVR::Monitor::NVR no output
+read this --->""
+>NVR::Monitor::NVR stuck at boot logo
+read this --->""
+>NVR::Monitor::The camera screen on the NVR monitor goes black
+read this --->""
+>NVR::Network::Inaccessible in LAN and accessible in WAN
+read this --->""
+>NVR::Network::NVR is not connected to the network (LAN port light is OFF)
+read this --->""
+>NVR::Network::NVR is not connected to the network (LAN port light is ON)
+read this --->""
+>NVR::Network::WAN connection failed (intermittent)
+read this --->""
+>NVR::Network::WAN connection failed (non-intermittent)
+read this --->""
+>NVR::Playback::Event History videos fail to load or show black screen
+read this --->""
+>NVR::Playback::Playback page video cannot be loaded
+read this --->""
+>NVR::Playback::Recordings loaded successfully but failed to playback via the monitor connected to the NVR
+read this --->""
+>NVR::Playback::Recordings loaded successfully but failed to playback via the Reolink app/client
 
 “Read the following SOP mapping carefully. Each read this --->"description ..." explains a camera behavior or customer scenario. The line following > is the corresponding SOP label to follow. Understand that my goal is to use these descriptions to correctly assign SOPs when handling tickets or troubleshooting. Do not change wording, do not interpret beyond what is written, and treat each description line by line. Confirm understanding by summarizing each SOP with its description and label.”

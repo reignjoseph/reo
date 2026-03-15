@@ -20,89 +20,89 @@ read this --->"description The camera is connected to the NVR’s WiFi descripti
 >NVR::Connection::WiFi camera is completely disconnected on the WiFi NVR (Camera connected to NVR's WiFi)
 read this --->"description Camera can be live viewed when it is plugged into WiFi NVR, but cannot be live viewed when the network cable is unplugged"
 >NVR::Connection::WiFi cameras cannot synchronize NVR's WiFi
-read this --->""
+read this --->"description The camera is connected to the NVR’s WiFi description One of the following situations applies: WiFi camera signal on WiFi NVR is poor 1.Camera's live view image is mosaic/frozen 2.Random disconnection on the NVR and camera shows connection failed 3.It can work near the NVR, but it cannot work when it is taken outdoors description Please help check if the issue is related to the device or stream type by switching Wi-Fi/cellular, changing live stream modes, or testing on different platforms (App, Client, web, or NVR monitor). 1.Have already tried to switch wifi/cellular data on phone/pc, live stream mode (Clear/Fluent) but still does not work 2.Same issue on different software (App/Client/web/NVR monitor) *Battery-powered camera does not support web/NVR"
 >NVR::Connection::WiFi cameras has poor connection on WiFi NVR (Camera connected to NVR's WiFi)
-read this --->""
+read this --->"description One of the following situations applies: WiFi camera signal on WiFi NVR is poor 1.Camera's live view image is mosaic/frozen 2.Random disconnection on the NVR and camera shows connection failed 3.It can work near the NVR, but it cannot work when it is taken outdoors description When the WiFi camera drops offline from the NVR, can the camera still be accessed individually through the App or Client? a.Yes, proceed with this SOP. b.No, choose the SOP “Network::WiFi disconnection/Connection difficulties/Auto restart”."
 >NVR::Connection::WiFi cameras has poor connection on WiFi NVR (Camera connected to router's WiFi)
-read this --->""
+read this --->"description The device loses configuration if one of the following issues is happening 1.All the settings go back to default after a restart 2.All the settings randomly go back to default 3.Camera keeps prompting the reset beep sound 4.Camera keeps saying "Factory reset succeeded. Please release reset button" or camera keeps prompting the initial welcome message after working for a while"
 >NVR::Firmware and others::Device automatically reverts to factory settings
-read this --->""
+read this --->"description The settings page on the NVR cannot be loaded, such as the detection page, detection area, etc. description Please help check if the issue is related to the device or stream type by switching Wi-Fi/cellular, changing live stream modes, or testing on different platforms (App, Client, web, or NVR monitor). 1.Have already tried to switch wifi/cellular data on phone/pc, live stream mode (Clear/Fluent) but still does not work 2.Same issue on different software (App/Client/web/NVR monitor) *Battery-powered camera does not support web/NVR"
 >NVR::Firmware and others::Fail to load NVR configuration
-read this --->""
+read this --->"description Upgrade progress bar is stuck / Error message "Upgrade failed" / The version number remains unchanged after the upgrade Please note in the comment of this task which specific issue the customer reported."
 >NVR::Firmware and others::Firmware upgrade failed
-read this --->""
+read this --->"description The firmware update progress bar moves a bit, but remains stagnant or displays "Upgrade failed"."
 >NVR::Firmware and others::Firmware upgrade failed (transmission timed out)
-read this --->""
+read this --->"description After synchronizing the camera time, the camera will display the wrong time soon"
 >NVR::Firmware and others::Incorrect Time/Date on Screen
-read this --->""
+read this --->"description More than one cameras directly connected to the NVR have obtained the same IP address, causing them to be unable to be added properly"
 >NVR::Firmware and others::IP conflict of cameras directly connected to the NVR
-read this --->""
+read this --->"description Any one of the following symptoms 1.Unable to connect to the camera, it prompts connection failed, and it can be connected again after a few minutes 2.On the log of the router, camera/NVR keeps disconnecting and connecting 3.If it is a PTZ camera, camera often rotates automatically 4.If continuous recording is set, there are many gaps in the continuous recording playback bar 5. The IR light and spotlight come on and off repeatedly, and the camera cannot preview normally when the this occurs. description The camera is not directly connected to the NVR, but the NVR keeps restarting automatically For example, restart randomly several times a day description There is start up in the NVR system log(Check the log via the monitor: Syetm/maintaince/other/system log)"
 >NVR::Firmware and others::NVR automatically restarts (no directly-connected camera)
-read this --->""
+read this --->"description Any one of the following symptoms 1.Unable to connect to the camera, it prompts connection failed, and it can be connected again after a few minutes 2.On the log of the router, camera/NVR keeps disconnecting and connecting 3.If it is a PTZ camera, camera often rotates automatically 4.If continuous recording is set, there are many gaps in the continuous recording playback bar 5. The IR light and spotlight come on and off repeatedly, and the camera cannot preview normally when the this occurs. description The NVR does not restart when the camera is not directly connected to it, but will restart when cameras are directly connected to it For example, restart randomly several times a day description There is start up in the NVR system log(Check the log via the monitor: Syetm/maintaince/other/system log)"
 >NVR::Firmware and others::NVR automatically restarts (with directly-connected camera)
-read this --->""
+read this --->"description The fan of the NVR/Home Hub is noisy Request for video for verification"
 >NVR::Firmware and others::NVR Fan Noise
-read this --->""
+read this --->"description The HDD of the NVR/Home Hub Pro is noisy Request for video for verification"
 >NVR::Firmware and others::NVR HDD Noise
-read this --->""
+read this --->"description Known compatibility issues mentioned in the knowledge base 1. The resolution display D1 cannot be modified. 2. No Two-way audio/Siren/Smart detection/tracking function 3.Live stream from multiple cameras flicker intermittently on monitor interface"
 >NVR::Firmware and others::Other compatibility issues when camera connected to NVR
-read this --->""
+read this --->"description UID error or The QR code is invalid 1.On the Reolink App, the customer received the message "The QR code is invalid. Please check if it is the code of Reolink Device" when scanning the QR code. When inputting the UID number of the camera, the customer got the message "UID error. Please check the characters and try again." 2.On the Reolink Client, when inputting the UID number of the camera, the customer got the message "Failed to add device. Please check your network and ensure the UID is correct.""
 >NVR::Firmware and others::QR code is invalid
-read this --->""
+read this --->"description It shows "This is the most current version available" when using the online update feature, even though a newer version is available in the download center."
 >NVR::Firmware and others::Software reports latest version despite new firmware release online
-read this --->""
+read this --->"description Partial configuration loss 1.New settings revert to default or previous settings after a certain period. 2.After saving new settings, returning to the previous level and re-entering the setting, or performing other operations, leads to a restoration of default or previous settings. 3.Please specify which configurations are being lost."
 >NVR::Firmware and others::Some configurations did not persist after saving
-read this --->""
+read this --->"description The UID code on the device is lost, and cannot be added by scanning the code Need to provide body picture confirmation Instruction: How to Find the UID of Your Cameras and NVRs Note: The UID code of the Argus PT/Go PT series is at the bottom of the camera and may be blocked by the bracket. You can find the UID code by unscrewing the bracket【Macro B20】 After the doorbell is installed, the UID is also blocked and needs to be removed from the wall and then the UID can be found on the back."
 >NVR::Firmware and others::UID tag missing
-read this --->""
+read this --->"description Prompt that the USB failed to be recognized"
 >NVR::Hardware::Fail to recognize USB when backup recordings from NVR monitor
-read this --->""
+read this --->"description After connecting the mouse to the NVR, the indicator light of the mouse does not light up or the mouse cannot be operated on the NVR"
 >NVR::Hardware::NVR cannot detect the mouse
-read this --->""
+read this --->"description The power led on the front panel of the NVR is off"
 >NVR::Hardware::NVR not powered
-read this --->""
+read this --->"description One of the following conditions is met, that is, the NVR is physically damaged 1.Physical damage such as a cracked casing, loose or deformed ports, corrosion, smoke, or unusual smells. Request photos and videos for verification. 2.PoE NVR’s camera port cannot power the camera, cannot recognize the camera, the port indicator lights are off, or all LAN/camera port lights stay solid without any cable connected, or all lights flash at the same time."
 >NVR::Hardware::Physical damage to NVR itself
-read this --->""
+read this --->"description The device cannot be successfully reset by pressing the reset button when it is powered on. 1.Device with Speaker: Check if there is a sound prompt when pressing the Reset button. If there is no prompt, the reset may not have taken effect. 2.Login Status: If the camera still requires the original password after reset, the reset was not successful."
 >NVR::Hardware::Unable to reset
-read this --->""
+read this --->"description Storage page or playback page shows “HDD not formatted” and still receive the same error message after formatting the HDD."
 >NVR::HDD::Original HDD cannot be formatted/failed to format
-read this --->""
+read this --->"description The monitor/app/client's Storage interface doesn't show the HDD, or during playback, it prompts "HDD not detected". Request for pictures/videos for verification"
 >NVR::HDD::Original HDD not recognized
-read this --->""
+read this --->"description One of the following conditions met is the HDD does not record 1. HDD does not record at all (App/Client/Monitor playback has no recordings.) 2. HDD often stops recording (all cameras stop recording at the same time period), and you need to reboot/reset NVR or format HDD to record again 3. HDD is not automatically overwritten If the HDD cannot be recognized, select 【HDD Not Recognized】 SOP"
 >NVR::HDD::Original HDD not record
-read this --->""
+read this --->"description HDD is recognized but shows 0GB"
 >NVR::HDD::Original HDD shows 0GB
-read this --->""
+read this --->"description Storage page or playback page shows “HDD not formatted” and still receive the same error message after formatting the HDD."
 >NVR::HDD::Third-Party HDD cannot be formatted/failed to format
-read this --->""
+read this --->"description The monitor/app/client's Storage interface doesn't show the HDD, or during playback, it prompts "HDD not detected". Request for pictures/videos for verification"
 >NVR::HDD::Third-Party HDD not recognized
-read this --->""
+read this --->"description Any of the following are symptoms of HDD not recording 1. HDD does not record at all 2. The HDD often stops recording (all cameras stop recording at the same time). You need to restart/reset the NVR or format the HDD to record again. 3. HDD does not automatically overwrite If HDD cannot be recognized, select support topic 【HDD Not Recognized】"
 >NVR::HDD::Third-Party HDD not record
-read this --->""
+read this --->"description HDD is recognized but shows 0GB"
 >NVR::HDD::Third-Party HDD shows 0GB
-read this --->""
+read this --->"description The power led on the front panel of the NVR lights up description No output on the monitor after turning on the NVR"
 >NVR::Monitor::NVR no output
-read this --->""
+read this --->"description The NVR is stuck at the Reolink logo page on the monitor after truning on the NVR Request for pictures/videos for verification"
 >NVR::Monitor::NVR stuck at boot logo
-read this --->""
+read this --->"description Any of the following are symptoms of cameras displaying black screen on the NVR monitor 1. Camera shows a black screen when being displayed in full screen 2. Camera shows a black screen when being displayed in multi-screens 3. Camera shows a black screen and 1080P when being displayed in multi-screens Easily confused SOP: 1. If a single camera has a black screen, check the CPU or real-time bit rate in the IPC information. If one of two values is 0, go to [PoE camera cannot be successfully added to NVR] 2. If the entire NVR screen is black (no menu at all), go to [NVR no output]"
 >NVR::Monitor::The camera screen on the NVR monitor goes black
-read this --->""
+read this --->"description The device does not appear in the Scan Device(s) in LAN, and prompt connection failed when added using both UID and IP address. Battery-powered devices do not support add via IP; they can only be added using the UID."
 >NVR::Network::Inaccessible in LAN and accessible in WAN
-read this --->""
+read this --->"description The power led on the front panel of the NVR lights up"
 >NVR::Network::NVR is not connected to the network (LAN port light is OFF)
-read this --->""
+read this --->"description Can't connect in both LAN and WAN Introduction to LAN and WAN description Cannot be added no matter add by UID or IP address description LAN port light is on"
 >NVR::Network::NVR is not connected to the network (LAN port light is ON)
-read this --->""
+read this --->"description WAN connection fails intermittently"
 >NVR::Network::WAN connection failed (intermittent)
-read this --->""
+read this --->"description In the external network environment, Reolink device cannot be accessed from any terminal device, regardless of whether alarm notifications (such as Push or Email) are still received. 1.The external network includes external WiFi and traffic, ask for the UID to verify it 2.The Push or Email functions use different servers. Receiving notifications does not indicate that external network access is normal and does not affect the applicability of the SOP. description Please help check if the issue is related to the device or stream type by switching Wi-Fi/cellular, changing live stream modes, or testing on different platforms (App, Client, web, or NVR monitor). 1.Have already tried to switch wifi/cellular data on phone/pc, live stream mode (Clear/Fluent) but still does not work 2.Same issue on different software (App/Client/web/NVR monitor) *Battery-powered camera does not support web/NVR"
 >NVR::Network::WAN connection failed (non-intermittent)
-read this --->""
+read this --->"setup We recommend updating the firmware to the latest version to ensure the camera is in good condition. How to Check and Update Reolink Device Firmware"
 >NVR::Playback::Event History videos fail to load or show black screen
-read this --->""
+read this --->"description Preview is working, but playback cannot be loaded in 2 software or above The App playback page prompts "Failed to load video info. Please tap to retry", and the Reolink Client playback page video cannot be loaded"
 >NVR::Playback::Playback page video cannot be loaded
-read this --->""
+read this --->"description There are recordings saved but cannot be played on the monitor"
 >NVR::Playback::Recordings loaded successfully but failed to playback via the monitor connected to the NVR
-read this --->""
+read this --->"description There are recordings in the timeline but failed to play the recordings via the software"
 >NVR::Playback::Recordings loaded successfully but failed to playback via the Reolink app/client
 
 “Read the following SOP mapping carefully. Each read this --->"description ..." explains a camera behavior or customer scenario. The line following > is the corresponding SOP label to follow. Understand that my goal is to use these descriptions to correctly assign SOPs when handling tickets or troubleshooting. Do not change wording, do not interpret beyond what is written, and treat each description line by line. Confirm understanding by summarizing each SOP with its description and label.”

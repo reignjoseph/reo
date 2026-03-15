@@ -1,3 +1,5 @@
+“Read the following SOP mapping carefully. Each read this --->"description ..." explains a camera behavior or customer scenario. The line following > is the corresponding SOP label to follow. Understand that my goal is to use these descriptions to correctly assign SOPs when handling tickets or troubleshooting. Do not change wording, do not interpret beyond what is written, and treat each description line by line. Confirm understanding by summarizing each SOP with its description and label.”
+
 Home Hub::Alert::Home Hub Ring(Siren) doesn't work
 Home Hub::Connection::Camera cannot be added to Home Hub with error "Device and Home Hub Connection Failed"
 Home Hub::Connection::Cameras has poor connection on Home Hub
@@ -32,3 +34,5 @@ Home Hub::SD card::Continuous recording failed
 Home Hub::SD card::Motion-based recording failed
 Home Hub::SD card::SD card cannot be formatted
 Home Hub::SD card::SD card not recognized
+
+“Read the following SOP mapping carefully. Each read this --->"description ..." explains a camera behavior or customer scenario. The line following > is the corresponding SOP label to follow. Understand that my goal is to use these descriptions to correctly assign SOPs when handling tickets or troubleshooting. Do not change wording, do not interpret beyond what is written, and treat each description line by line. Confirm understanding by summarizing each SOP with its description and label.”

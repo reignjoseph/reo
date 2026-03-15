@@ -1,3 +1,5 @@
+“Read the following SOP mapping carefully. Each read this --->"description ..." explains a camera behavior or customer scenario. The line following > is the corresponding SOP label to follow. Understand that my goal is to use these descriptions to correctly assign SOPs when handling tickets or troubleshooting. Do not change wording, do not interpret beyond what is written, and treat each description line by line. Confirm understanding by summarizing each SOP with its description and label.”
+
 NVR::Connection:: PoE camera disconnects randomly in NVR (not directly connected via Ethernet cable)
 NVR::Connection::Battery camera cannot be successfully added to NVR
 NVR::Connection::Configure the camera to connect to NVR's 2.4GHz WiFi
@@ -50,3 +52,5 @@ NVR::Playback::Event History videos fail to load or show black screen
 NVR::Playback::Playback page video cannot be loaded
 NVR::Playback::Recordings loaded successfully but failed to playback via the monitor connected to the NVR
 NVR::Playback::Recordings loaded successfully but failed to playback via the Reolink app/client
+
+“Read the following SOP mapping carefully. Each read this --->"description ..." explains a camera behavior or customer scenario. The line following > is the corresponding SOP label to follow. Understand that my goal is to use these descriptions to correctly assign SOPs when handling tickets or troubleshooting. Do not change wording, do not interpret beyond what is written, and treat each description line by line. Confirm understanding by summarizing each SOP with its description and label.”

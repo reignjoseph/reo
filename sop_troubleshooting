@@ -76,41 +76,6 @@ Customer::Suspected of malicious after-sales-
 Customer::The customer has opened a PayPal case
 Customer::Users do not cooperate-
 
-Home Hub::Alert::Home Hub Ring(Siren) doesn't work
-Home Hub::Connection::Camera cannot be added to Home Hub with error "Device and Home Hub Connection Failed"
-Home Hub::Connection::Cameras has poor connection on Home Hub
-Home Hub::Firmware and others::Camera drains battery quickly after being added to the Hub
-Home Hub::Firmware and others::Camera prompts "Low firmware version "
-Home Hub::Firmware and others::Camera prompts "The device does not support connection to Home Hub."
-Home Hub::Firmware and others::Device automatically reverts to factory settings
-Home Hub::Firmware and others::Doorbell (Battery) Quick reply doesn't work after adding to Home Hub
-Home Hub::Firmware and others::Doorbell camera unable to pair with Reolink Chime settings after adding to Home Hub
-Home Hub::Firmware and others::Firmware upgrade failed
-Home Hub::Firmware and others::Home Hub Pro HDD Noise
-Home Hub::Firmware and others::Hub Fan Noise
-Home Hub::Firmware and others::Incorrect Time/Date on Screen
-Home Hub::Firmware and others::QR code is invalid
-Home Hub::Firmware and others::UID tag missing
-Home Hub::Hardware::Hub not powered on
-Home Hub::Hardware::Physical damage to Home Hub itself
-Home Hub::Hardware::Unable to reset
-Home Hub::HDD::Home Hub Pro HDD cannot be formatted
-Home Hub::HDD::Original HDD not recognized
-Home Hub::HDD::Original HDD not record
-Home Hub::HDD::Third-Party HDD not recognized
-Home Hub::HDD::Third-Party HDD not record
-Home Hub::Network::Accessible in LAN and inaccessible in WAN
-Home Hub::Network::Inaccessible in LAN and accessible in WAN
-Home Hub::Network::Not connected to the Network/Internet
-Home Hub::Network::WAN connection failed (intermittent)
-Home Hub::Others::SIM card or SD card slot problem
-Home Hub::SD card::Camera not recording to SD card
-Home Hub::SD card::Camera stops recording when SD card is full
-Home Hub::SD card::Continuous recording failed
-Home Hub::SD card::Motion-based recording failed
-Home Hub::SD card::SD card cannot be formatted
-Home Hub::SD card::SD card not recognized
-
 Order::Cancel or change orders
 Order::Invoice/Bill (order already placed)
 Order::Package & Shipping

@@ -1,4 +1,5 @@
 "PLEASE KINDLY SELECT SOP TYPE FOR THIS CUSTOMER CONCERNS CLEARLY UNDERSTAND EACH SENTENCE. PROVIDE ACCURATE SOP REALTED. IF POSSIBLE YOU MAY PUT ARTICLES FROM REOLINK. , USE 100X TO THINK BEFORE ANSWERING"
+NOTE IF YOU DID NOT CHOOSE CAMERA/ NVR/HOME HUB AND YOU SELECT OTHERS ETC. (ACCESSORIES (E.G ADAPTER, CHIME, FLOODLIGHT, EXTENDERS, ANY PHYSICAL MATERIALS),ABOUT AI, ABOUT CLOUD, ABOUT EMAIL SETUP, ABOUT FTP,SMART HOME FEATURES, THIRD PARTY APPS, SOFTWARES APP/CLIENT) SELECT APPROPRIATE
 
 read this --->"description Chime and Doorbell cannot pair up successfully"
 >Accessories::Chime::Reolink Chime can't be paired
@@ -19,12 +20,15 @@ read this --->"description Reolink WiFi Extender cannot be successfully added to
 read this --->"description When configuring the Signal Source for the Reolink Extender, it prompts connection failed"
 >Accessories::WiFi Extender::Failed to extend router's WiFi
 read this --->"description Search results may be inaccurate, missing, or mismatched with the query."
+
+
 >Advanced Features::AI Video Search::Inaccurate/missing/incorrect search results
 read this --->"description Video clips from AI search results fail to play properly or encounter playback errors."
 >Advanced Features::AI Video Search::Slow search response/Failed to load results
 read this --->"description AI Video Search is slow to respond or fails to load search results."
 >Advanced Features::AI Video Search::Video failed to play or other playback issues
 read this --->"description Camera does not appear in the list of cameras that can be added to the cloud"
+
 >Advanced Features::Cloud::Camera not listed for cloud binding
 read this --->"description "Add failed" error after clicking the add button at the cloud page"
 >Advanced Features::Cloud::Cloud binding failed
@@ -71,6 +75,7 @@ read this --->"description FTP test successful description Part of the uploaded 
 read this --->"description FTP test successful description All uploaded files are 0kb or no files are uploaded"
 >Advanced Features::FTP::FTP upload files all 0kb/Do not upload files
 read this --->"description When attempting to access the Smart Home or Cloud section in the app, the message "Failed to obtain configuration information." is displayed."
+
 >Advanced Features::Smart Home::“Failed to obtain configuration information." when entering on Smart Home section
 read this --->"description The smart home App device page does not detect the camera"
 >Advanced Features::Smart Home::Alexa/Google App couldn't find the camera
@@ -93,6 +98,7 @@ read this --->"description Due to compatibility issues with Google Home, most ca
 read this --->"description Failed to load the camera image on the Google Home/Alexa after preview voice command"
 >Advanced Features::Smart Home::Unable to view stream via Google /Alexa screen devices
 read this --->"description Abnormal issues when the camera cannot be added or when using it with this software. If the issue is that the camera cannot be added, there is no need to fill in the comment section for this task. If it's a different abnormal issue, please note down the problem in this column."
+
 >Advanced Features::Third Party::Adding and compatibility issues related to Frigate
 read this --->"description Abnormal issues when the camera cannot be added or when using it with this software. If the issue is that the camera cannot be added, there is no need to fill in the comment section for this task. If it's a different abnormal issue, please note down the problem in this column."
 >Advanced Features::Third Party::Adding and compatibility issues related to Home Assistant

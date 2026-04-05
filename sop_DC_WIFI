@@ -78,7 +78,7 @@ read this --->"description After successfully connecting the camera to the netwo
 >DC WIFI::Initial setup::Failed to obtain configuration information
 read this --->"description When setting up the camera, the customer has not set a password, yet they are prompted to enter one. Upon entering a password, an "incorrect username and password" message is displayed. Even after resetting the camera, the issue persists."
 >DC WIFI::Initial setup::Incorrect username and password/Authentication failed/Ask for a password even after reset
-read this --->"description Unable to complete initial configuration via Bluetooth pairing"
+read this --->"description Unable to complete initial configuration via Bluetooth pairing. During the initial Bluetooth setup process, a prompt appears at the device discovery stage: “Device not found. Please move closer to the device and retry.”"
 >DC WIFI::Initial setup::Initial setup issue (Exclusive to Bluetooth pairing method)
 read this --->"description Camera broadcasts "connection to the router succeeded", but the Reolink App/Client displays "connection failed" when adding camera."
 >DC WIFI::Initial setup::Voice Broadcast Router connected successfully but access failed

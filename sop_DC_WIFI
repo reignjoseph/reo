@@ -173,4 +173,197 @@ read this --->"If any of the following conditions apply, the SD card cannot be f
 read this --->"SD card installed correctly but not detected correctly The following two situations are included: 1.When it prompts "No camera SD card is detected. You may not access playback feature." or the Storage section shows "Not detected." 2.When the SD card is recognized but displays 0GB."
 >DC WIFI::SD card::SD card not recognized
 
+read this --->"description Chime and Doorbell cannot pair up successfully"
+>Accessories::Chime::Reolink Chime can't be paired
+read this --->"description The status led of the chime doesn't light up description There is no response form the chime after pressing the buttons on the chime"
+>Accessories::Chime::Reolink Chime not powered on
+read this --->"description If any of the following issues occur, it indicates that the chime is not working properly The chime and doorbell are successfully paired, but: 1.The chime does not ring when the doorbell button is pressed. 2.The chime only rings when chime is very close to the doorbell. 3.The chime rings only after a delay of 5 seconds or longer."
+>Accessories::Chime::Reolink Chime pairs successfully but does not function properly
+read this --->"description Floodlight flashes randomly or flickers after staying on for a while Request video from customer for verification"
+>Accessories::Floodlight::Floodlight PoE blinks when turning on
+read this --->"description Floodlight flashes randomly or flickers after staying on for a while Request video from customer for verification"
+>Accessories::Floodlight::Floodlight WiFi blinks when turning on
+read this --->"description The accessory damages match any of the following criteria 1.Physical damage: skin, waterproof cap, adapter, camera/solar panel bracket, antenna, network cable, SD card, so on Request picture/video from customer for verification 2.Not visible damage, but it doesn't work and accessories needs to be replaced for testing; such as SD card, adapter, switches, etc."
+>Accessories::Others::Damaged accessories
+read this --->"description When configuring the Signal Source for the Reolink Extender, it prompts connection failed"
+>Accessories::WiFi Extender::Failed to extend Reolink Home Hub's WiFi
+read this --->"description Reolink WiFi Extender cannot be successfully added to the Reolink NVR"
+>Accessories::WiFi Extender::Failed to extend Reolink NVR's WiFi
+read this --->"description When configuring the Signal Source for the Reolink Extender, it prompts connection failed"
+>Accessories::WiFi Extender::Failed to extend router's WiFi
+read this --->"description Search results may be inaccurate, missing, or mismatched with the query."
+>Advanced Features::AI Video Search::Inaccurate/missing/incorrect search results
+read this --->"description Video clips from AI search results fail to play properly or encounter playback errors."
+>Advanced Features::AI Video Search::Slow search response/Failed to load results
+read this --->"description AI Video Search is slow to respond or fails to load search results."
+>Advanced Features::AI Video Search::Video failed to play or other playback issues
+read this --->"description Camera does not appear in the list of cameras that can be added to the cloud"
+>Advanced Features::Cloud::Camera not listed for cloud binding
+read this --->"description "Add failed" error after clicking the add button at the cloud page"
+>Advanced Features::Cloud::Cloud binding failed
+read this --->"description Cloud panel is missing on Reolink App"
+>Advanced Features::Cloud::Cloud panel is missing
+read this --->"description Cloud test failed, showing error code like -38 or other error codes"
+>Advanced Features::Cloud::Cloud test failed
+read this --->"description Cloud test is successful, but the camera still does not upload cloud recordings."
+>Advanced Features::Cloud::Do not upload cloud video
+read this --->"description After entering "Cloud" on the App, it prompts "Failed to load. Click to try again" or "Failed to obtain configuration information.“"
+>Advanced Features::Cloud::Failed to load Cloud interface on the App
+read this --->"description When activate the SIM card, it prompts “Sorry, this number can't be added. It’s either not a Reolink SIM card or already linked to another account.”"
+>Advanced Features::Cloud::Reolink SIM card can't be activated
+read this --->"description Customer has already purchased a SIM card plan or add-on data, but the SIM card still has no data"
+>Advanced Features::Cloud::The SIM card plan or add-on data is not in effect
+read this --->"description 481 error after doing the email test description Make sure the SMTP Server is filled in correctly Attach a guide article or Google the SMTP server corresponding to this mailbox type https://support.reolink.com/hc/en-us/articles/900000628466"
+>Advanced Features::Email::Alarm Email Test Failed: Error Code 481
+read this --->"description 482 error after doing the email test"
+>Advanced Features::Email::Alarm Email Test Failed: Error Code 482
+read this --->"description 483 error after doing the email test description Make sure the SMTP Server is filled in correctly Attach a guide article or Google the SMTP server corresponding to this mailbox type https://support.reolink.com/hc/en-us/articles/900000628466"
+>Advanced Features::Email::Alarm Email Test Failed: Error Code 483
+read this --->"description 484 error after doing the email test"
+>Advanced Features::Email::Alarm Email Test Failed: Error Code 484
+read this --->"description 485 error after doing the email test"
+>Advanced Features::Email::Alarm Email Test Failed: Error Code 485
+read this --->"description 400 error after doing the email test"
+>Advanced Features::Email::Alarm Email Test Failed:Error Code 400
+read this --->"description 480 error after doing the email test"
+>Advanced Features::Email::Alarm Email Test Failed:Error Code 480
+read this --->"description FTP test failed, and the error code is 450"
+>Advanced Features::FTP::FTP Error Code:450
+read this --->"description FTP test failed, and error code is 451
+>Advanced Features::FTP::FTP Error Code:451
+read this --->"description FTP test failed, and error code is 452/456/457"
+>Advanced Features::FTP::FTP Error Code:452/456/457
+read this --->"description FTP test failed, and error code is 453/454"
+>Advanced Features::FTP::FTP Error Code:453/454
+read this --->"description FTP test failed, and error code is 455"
+>Advanced Features::FTP::FTP Error Code:455
+read this --->"description Camera doesn’t upload pictures to the FTP server according to the interval set description FTP test successful"
+>Advanced Features::FTP::FTP picture upload time interval invalid
+read this --->"description FTP test successful description Part of the uploaded file is 0kb or only part of the file is uploaded"
+>Advanced Features::FTP::FTP upload file part 0kb/Do not upload some files
+read this --->"description FTP test successful description All uploaded files are 0kb or no files are uploaded"
+>Advanced Features::FTP::FTP upload files all 0kb/Do not upload files
+read this --->"description When attempting to access the Smart Home or Cloud section in the app, the message "Failed to obtain configuration information." is displayed."
+>Advanced Features::Smart Home::“Failed to obtain configuration information." when entering on Smart Home section
+read this --->"description The smart home App device page does not detect the camera"
+>Advanced Features::Smart Home::Alexa/Google App couldn't find the camera
+read this --->"description The camera is not displayed in the smart home page of the Reolink App"
+>Advanced Features::Smart Home::Camera does not appear in the Reolink App Smart Home page
+read this --->"description The doorbell has been successfully added and is displayed as a device in the Alexa app, but the Announcements setting is missing"
+>Advanced Features::Smart Home::Doorbell no Announcements settings in Amazon Alexa App
+read this --->"description Fail to enable the smart home feature of the camera and get error "operation failed""
+>Advanced Features::Smart Home::Failed to enable camera on Reolink App Smart Home page
+read this --->"description When the doorbell detects any motion or a person, devices like Echo Show or Echo Dot do not play a voice alert"
+>Advanced Features::Smart Home::No notification or auto live stream on Alexa device when Doorbell detects motion
+read this --->"description Smart Home Not Notified After Camera Detects Motion"
+>Advanced Features::Smart Home::No notifications on Alexa/Google device when Doorbell detects motions
+read this --->"description When doorbell is pressed, devices like Echo Show do not play a voice alert or auto live stream, and devices like Echo Dot do not play a voice alert."
+>Advanced Features::Smart Home::No notifications or auto live stream on Alexa device when Doorbell is pressed
+read this --->"description The camera can be seen in the list of Google Home/Alexa App devices, but cannot be previewed"
+>Advanced Features::Smart Home::Unable to view camera stream in Amazon Alexa App
+read this --->"description Due to compatibility issues with Google Home, most camera models currently cannot be previewed in the Google Home app. We need to wait for optimization from Google."
+>Advanced Features::Smart Home::Unable to view camera stream in Google App
+read this --->"description Failed to load the camera image on the Google Home/Alexa after preview voice command"
+>Advanced Features::Smart Home::Unable to view stream via Google /Alexa screen devices
+read this --->"description Abnormal issues when the camera cannot be added or when using it with this software. If the issue is that the camera cannot be added, there is no need to fill in the comment section for this task. If it's a different abnormal issue, please note down the problem in this column."
+>Advanced Features::Third Party::Adding and compatibility issues related to Frigate
+read this --->"description Abnormal issues when the camera cannot be added or when using it with this software. If the issue is that the camera cannot be added, there is no need to fill in the comment section for this task. If it's a different abnormal issue, please note down the problem in this column."
+>Advanced Features::Third Party::Adding and compatibility issues related to Home Assistant
+read this --->"description Error messages are returned when using API/CGI commands"
+>Advanced Features::Third Party::API/CGI command error
+read this --->"description Camera cannot play stream on Blue Iris"
+>Advanced Features::Third Party::Fail to add camera to Blue Iris
+read this --->"description The camera cannot be scanned by QNAP, or the camera cannot be added after being scanned"
+>Advanced Features::Third Party::Fail to add camera to QNAP
+read this --->"description The camera cannot be scanned by Synology, or it fails to be added after being scanned"
+>Advanced Features::Third Party::Fail to add camera to Synology
+read this --->"description The Reolink camera cannot be scanned by the third-party NVR, or it has been scanned but failed to add"
+>Advanced Features::Third Party::Fail to add Reolink camera to third-party NVR
+read this --->"description The third-party camera cannot be scanned by the Reolink NVR, or it has been scanned but failed to be added"
+>Advanced Features::Third Party::Fail to add third party camera to Reolink NVR
+read this --->"description Failed to add camera to third-party software(Unincluded) SOP available for following software: Blue Iris/VLC/Synology/QNAP/Home Assistant"
+>Advanced Features::Third Party::Failed to add Reolink cameras to other third-party software
+read this --->"description Including but not limited to any of the following criteria and any other function issues of the Reolink camera on the third-party NVR ① Only one channel can be added or previewed for dual-lens cameras ②Motion detection does not work; ③Recording cannot be set on the three-party NVR; ④No sound in Live view/playback"
+>Advanced Features::Third Party::Reolink camera not functioning properly on 3rd party NVR
+read this --->"description The camera is connected to WIFI. But it uploads Fluent recordings to the server when the customer's setting is Clear."
+>Advanced Features::Third Party::The camera uploaded substream recordings while it's set to mainstream
+read this --->"description The camera can be successfully added to the third-party platform, but the two-way audio function cannot be used."
+>Advanced Features::Third Party::The two-way audio feature is not functional with third-party software
+read this --->"admin.description Any of the following criteria, including but not limited to a third-party camera issues on Reolink NVR ①Cannot preview the third-party camera on Reolink NVR's monitor; ②Reolink App/client cannot preview the third-party camera; ③Alarm cannot be set on the Reolink NVR; ④No sound in live view/playbackreolink.com/child-app-support-log-center/zendeskSOP/SOPManagement"
+>Advanced Features::Third Party::Third-party cameras are not functioning properly on Reolink NVR
+read this --->"description Can be added for preview in third-party software, but experiencing issues such as screen flickering, freezing, delays, disconnections, and audio-video desynchronization. Request pictures or videos from customer for verification"
+>Advanced Features::Third Party::Third-party software preview pixelated/stuck/Latency/drop connection/Asynchronous sound and picture
+read this --->"description Camera or NVR cannot play stream on VLC"
+>Advanced Features::Third Party::VLC broadcast camera/NVR stream failed
+read this --->"escription Reolink cameras can be added to third-party platforms successfully, but some features (e.g., PTZ, smart/motion detection, two-way audio) do not function properly."
+>Advanced Features::Third-Party::Reolink Camera added successfully but some features not functional
+read this --->"Could you please check which version of the Reolink App you’re using? How to Find out the Version of Reolink App iOS: Use the latest version by default, no special version is provided. Macro【Tech::Software::App::S05 Can not provide special or older version of iOS App】 Android: Use the latest version by default. If customers request an older version, the last stable version can be provided."
+>Reolink Software::App::"Scene setup failed" when attempting to enable Push via Shortcuts
+read this --->"When open App, it prompts "Sorry, this service is not available in your area.""
+>Reolink Software::App::"Sorry, this service is not available in your area."
+read this --->"description Various compatibility issues on an Android tablets. Including but not limited to: 1. Crashing after running for an extended period. 2. Crashing during horizontal screen preview. 3. Other issues specific to the tablet, while the same version of the app works fine on a mobile phone. description This problem only occurs on Android tablet/iPad/foldable screen devices, and there is no problem with non-foldable phones"
+>Reolink Software::App::App adaptation problem on Android tablet/iPad/folding screen
+read this --->"description App crashes or is stuck and cannot be operated at all"
+>Reolink Software::App::App crashes
+read this --->"description After updating App to 4.36, the aspect ratio of the media player is 1:1 Depends on the camera resolution, 16:9 image has no black border while 4:3 image shows black borders at the sides of image"
+>Reolink Software::App::App preview screen 1:1 with black borders
+read this --->"description Different cameras show exact same live image and OSD. Request pictures or videos from customer for verification."
+>Reolink Software::App::Camera live view image repeats
+read this --->"description Main stream video loading failed, including preview and SD card playback"
+>Reolink Software::App::cannot preview the main stream via app
+read this --->"description Push notifications are not received for certain periods or arrive intermittently"
+>Reolink Software::App::Cannot receive Push
+read this --->"description Cameras are inaccessible in the WAN after the app is upgraded to V4.36 or later"
+>Reolink Software::App::Fail to connect the camera in WAN after upgrading the Reolink app
+read this --->"description App prompts cache failure or operation failed when downloading timelapse files"
+>Reolink Software::App::Fail to download time lapse videos
+read this --->"description No files generated after setting up time lapse setup The time of the mobile phone that sets up the time lapse must be consistent with the time of the camera"
+>Reolink Software::App::Fail to generate timelapse files
+read this --->"description Any of the following situations is partial configuration not loading/missing/displaying incorrectly 1.Some configurations fail to load, such as showing “Failed to load” or the entire section appearing blank. 2.Some configurations are missing, for example, the camera supports the Push function but the Push button does not appear on the Settings page. 3.Some configurations display unexpectedly, such as battery-related options appearing on a PoE model."
+>Reolink Software::App::Failed to load/missing/unexpected configurations
+read this --->"description Only the App is having issues and the Client/web performs the same function without problems."
+>Reolink Software::App::General Bug
+read this --->"description Push feature can't be enabled or push tests failed"
+>Reolink Software::App::Push cannot be enabled or test failed
+read this --->"description After manually triggering the alarm, it takes a few minutes to receive the notification (or compared with other alarm actions such as email, it is found that the push is delayed)"
+>Reolink Software::App::Push Delay
+read this --->"description Received Push but no Push sound Request for video for verification"
+>Reolink Software::App::Push received but no Push sound
+read this --->"description The selected Push ringtone is inconsistent with the heard ringtone"
+>Reolink Software::App::Push sound disorder
+read this --->"description Push option consistently disables itself after being enabled"
+>Reolink Software::App::Push was turned off automatically
+read this --->"description Access fails on a specific mobile device's Reolink App, while the Reolink Client on other computers or the Reolink App on mobile devices connects without any issues"
+>Reolink Software::App::Specific Device Access Issue
+read this --->"description Get "No write permisson to folder" error when trying to download recordings via client"
+>Reolink Software::Client::"No write permission to folder" error when trying to download recordings
+read this --->"description In 8.10.X and above clients, any of the following criteria occurs. 1.All of or any of the buttons on the live view window disappear, such as PTZ, Talk, Siren, etc. 2.The button for switching multi-screen preview does not respond; 3.The volume adjusting button in the lower right corner of the preview window does not respond; 4.The calendar button on the playback page does not respond; 5.The playback speed can only be selected as 1X"
+>Reolink Software::Client::8.10.X and above client function buttons disappear or do not take effect
+read this --->"description Any of the following situations apply. 1.In Client versions 8.10 and above, there is sound during preview but no video. 2.The device shows "connected" on the device list, but the preview window does not display video. description Cameras works on the phone App when the phone is under the same network as the PC."
+>Reolink Software::Client::8.10.X or above client preview with sound but no picture/Live view loading failed
+read this --->"description Different cameras show exact same live image and OSD. Request pictures or videos from customer for verification."
+>Reolink Software::Client::Camera live view image repeats
+read this --->"description Failed to upgrade the Cient after clicking the update button in the prompt message box of the Client."
+>Reolink Software::Client::Client auto-update failed
+read this --->"description The Client is experiencing any of the following issues. 1.The Client crashes and closes unexpectedly. 2.The Client displays a black screen right when loading the camera preview. 3.The Client turns black after running for a short period."
+>Reolink Software::Client::Client crashes/entire screen black screen
+read this --->"description Client prompts for a new version every time it starts"
+>Reolink Software::Client::Client prompts for a new version every time it starts
+read this --->"description Failed to download SD card/HDD recordings via the Reolink client"
+>Reolink Software::Client::Fail to download recordings form SD card/HDD via the client
+read this --->"description Get "Failed to download" or "Timelapse video cache failer" when trying to download timelapse file via the client"
+>Reolink Software::Client::Fail to download time lapse videos
+read this --->"description Any of the following situations is partial configuration not loading/missing/displaying incorrectly 1.Some configurations fail to load, such as showing “Failed to load” or the entire section appearing blank. 2.Some configurations are missing, for example, the camera supports the Push function but the Push button does not appear on the Settings page. 3.Some configurations display unexpectedly, such as battery-related options appearing on a PoE model."
+>Reolink Software::Client::Failed to load/missing/unexpected configurations
+read this --->"description Only the Client is having issues and the App/web performs the same function without problems."
+>Reolink Software::Client::General Bug
+read this --->"description When installing client version 8.10 or above, the Windows client shows the error message “JavaScript Error: Win 32 error 126”, and the Mac client shows “Error: Dynamic Linking Error: dlopen”."
+>Reolink Software::Client::JavaScript Error: Win 32 error 126 when installing the V8.10.X or above client
+read this --->"description Get "JavaScript Error: Failed to get pictures path" error while trying to install the Reolink client v8.10.X or newer version"
+>Reolink Software::Client::Receiving "Failed to get pictures path" error when installing V8.10.X or above client
+read this --->"description Access fails on a specific computer's Reolink Client, while the Reolink Client on other computers or the Reolink App on mobile devices connects without any issues"
+>Reolink Software::Client::Specific Device Access Issue
+read this --->"description The delay increases after the client runs for a long time Video/picture verification required"
+>Reolink Software::Client::The delay increases after the client runs for a long time
+
 WHICH SOP ALIGNS TO THE CONCERN OR PROBLEM? PLEASE READ CAREFULLY TO GET ACCURATE SOP.
